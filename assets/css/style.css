@@ -170,15 +170,15 @@
     justify-content: center;
   }
   #modalNomePopular{
-    font-size: 1rem;
+    font-size: 2rem;
     padding: .5rem 0 .2rem 0;
   }
   #modalNomeCientifico{
-    font-size: 1rem;
+    font-size: 1.5rem;
     padding: .3rem 0;
   }
   #modalLocal{
-    font-size: .8rem;
+    font-size: 1.5rem;
   }
   #modalContent {
     background: rgb(223, 250, 223);
