@@ -4,136 +4,61 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     
-    <title>App de Plantas - Busca com detalhes</title>
+    <title>App de Plantas</title>
 
+    <!--fonts-->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet">
     <!--styles-->
     <link rel="stylesheet" href="./assets/css/style.css" />
     <!-- AOS CSS -->
-<link href="https://cdn.jsdelivr.net/npm/aos@2.3.4/dist/aos.css" rel="stylesheet">
+    <link href="https://cdn.jsdelivr.net/npm/aos@2.3.4/dist/aos.css" rel="stylesheet">
 
   </head>
   <body>
-    <header>
-      <div></div>
-      <div>
-        <div class="header_img">
-          <img src="./assets/image/header-image.jpg" alt="" />
+    <nav> 
+          <!--logo-->
+      <div class="logo_container">
+        <div class="logo_img">
+          <svg xmlns="http://www.w3.org/2000/svg"  viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-leaf h-8 w-8 text-primary" data-lov-id="src/pages/Index.tsx:120:12" data-lov-name="Leaf" data-component-path="src/pages/Index.tsx" data-component-line="120" data-component-file="Index.tsx" data-component-name="Leaf" data-component-content="%7B%22className%22%3A%22h-8%20w-8%20text-primary%22%7D"><path d="M11 20A7 7 0 0 1 9.8 6.1C15.5 5 17 4.48 19 2c1 2 2 4.18 2 8 0 5.5-4.78 10-10 10Z"></path><path d="M2 21c0-3 1.85-5.36 5.08-6C9.5 14.52 12 13 13 12"></path></svg>
         </div>
-
-        <div class="app_container">
-          <h1 class="logo">NatuFind</h1>
-          <p class="header_title">
-            Descubra o <span class="header_title_span">catalogo verde</span>
-          </p>
-
-          <div class="search_container">
-            <div>
-              <h2 class="input_title">Buscar espécie</h2>
-            </div>
+        <div class="logo_title">
+          PlantConsult
+        </div>
+      </div>
             <!-- input buscar plantas-->
-            <div>
+            <div class="input_content">
               <input
+                class="input_icon"
                 id="search"
                 type="text"
                 placeholder="Nome popular, científico ou local..."
               />
               <div id="info"></div>
               <ul id="lista"></ul>
-            </div>
 
-            <!-- botão adicionar plantas-->
-            <div class="btn_container">
-              <button  class="btn" id="btnAdicionar">Adicionar</button>
-              <button  class="btn" id="btnRemover">
-                Remover
-              </button>
-            </div>
-            <div>
-              <!-- Modal formulário adicionar planta -->
-              <div id="modalAdd" class="form-modal">
-                <div class="form-modal-content">
-                  <span id="modalAddClose" class="form-close">&times;</span>
-                  <h3>Adicionar Planta</h3>
-                  <form id="formAdd">
-                    <label for="nomePopular">Nome Popular *</label>
-                    <input type="text" name="nomePopular" required />
-
-                    <label for="nomeCientifico">Nome Científico *</label>
-                    <input type="text" name="nomeCientifico" required />
-
-                    <label for="localColeta">Local de Coleta *</label>
-                    <input type="text" name="localColeta" required />
-
-                    <label for="imagem">URL da Imagem (opcional)</label>
-                    <input type="text" name="imagem" placeholder="http://..." />
-
-                    <button type="submit">Adicionar</button>
-                  </form>
-                </div>
-              </div>
-
-              <!-- Modal Remover -->
-              <div id="modalRemove" class="form-modal">
-                <div class="form-modal-content">
-                  <span id="modalRemoveClose" class="form-close">&times;</span>
-                  <h3>Remover Planta</h3>
-                  <form id="formRemove">
-                    <label for="nomeRemover">Nome Popular da Planta *</label>
-                    <input type="text" name="nomeRemover" required />
-
-                    <button type="submit">Remover</button>
-                  </form>
-                </div>
+              <div class="button">
+                <button>Buscar</button>
               </div>
             </div>
+    </nav>
+
+    <header>
+          <div class="header_container">
+              <div class="header_img">
+                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" data-lov-id="src/pages/Index.tsx:148:14" data-lov-name="Leaf" data-component-path="src/pages/Index.tsx" data-component-line="148" data-component-file="Index.tsx" data-component-name="Leaf" data-component-content="%7B%22className%22%3A%22h-24%20w-24%20text-muted-foreground%20mx-auto%20mb-6%22%7D"><path d="M11 20A7 7 0 0 1 9.8 6.1C15.5 5 17 4.48 19 2c1 2 2 4.18 2 8 0 5.5-4.78 10-10 10Z"></path><path d="M2 21c0-3 1.85-5.36 5.08-6C9.5 14.52 12 13 13 12"></path></svg>
+              </div>
           </div>
-
-          <!-- Modal -->
-          <div id="modal">
-            <div id="modalContent">
-              <span id="modalClose">&times;</span>
-              <div class="modal_card_content">
-                <div>
-                  <img id="modalImg" src="" alt="Imagem da planta" />
-                </div>
-                <div>
-                  <div id="modalNomePopular" class="nome-popular"></div>
-                  <div id="modalNomeCientifico" class="nome-cientifico"></div>
-                  <div id="modalLocal" class="local"></div>
-                </div>
-              </div>
-            </div>
+          <div class="header_title">
+            <h1>Descubra o Mundo das Plantas</h1>
           </div>
-        </div>
-      </div>
+          <div class="header_paragraphy">
+            <p>Pesquise por milhares de espécies e encontre informações
+               detalhadas sobre origem e características de cada planta.</p>
+          </div>
     </header>
-    <main class="acervo_container">
-      <section class="acervo_intro">
-        <h2 data-aos="fade-up" data-aos-delay="100">Preserve o Verde</h2>
-        <p data-aos="fade-up" data-aos-delay="300">
-          O NatuFind é um acervo que promove a valorização da flora brasileira.
-          Cada planta catalogada é uma chance de reconhecer, respeitar e
-          conservar o nosso meio ambiente.
-        </p>
-      </section>
-
-      <section class="acervo_beneficios">
-        <div class="card" data-aos="fade-right" data-aos-delay="400">
-          <h3>Educação ambiental</h3>
-          <p>Conecte-se ao conhecimento sobre as espécies e seus habitats.</p>
-        </div>
-        <div class="card" data-aos="fade-left" data-aos-delay="600">
-          <h3>Preservação</h3>
-          <p>Ajude a proteger espécies ameaçadas com informação.</p>
-        </div>
-        <div class="card" data-aos="fade-up" data-aos-delay="800">
-          <h3>Descoberta</h3>
-          <p>
-            Explore plantas de diversas regiões do Brasil de forma interativa.
-          </p>
-        </div>
-      </section>
-    </main>
+    
     <script src="https://cdn.jsdelivr.net/npm/aos@2.3.4/dist/aos.js"></script>
     <script>AOS.init();</script>
     <script src="./assets/script/main.js"></script>
