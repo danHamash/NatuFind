@@ -3,9 +3,14 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <link rel="stylesheet" href="./assets/css/style.css" />
+    
     <title>App de Plantas - Busca com detalhes</title>
-    <style></style>
+
+    <!--styles-->
+    <link rel="stylesheet" href="./assets/css/style.css" />
+    <!-- AOS CSS -->
+<link href="https://cdn.jsdelivr.net/npm/aos@2.3.4/dist/aos.css" rel="stylesheet">
+
   </head>
   <body>
     <header>
@@ -113,11 +118,11 @@
       </section>
 
       <section class="acervo_beneficios">
-        <div class="card" data-aos="fade-up" data-aos-delay="400">
+        <div class="card" data-aos="fade-right" data-aos-delay="400">
           <h3>Educação ambiental</h3>
           <p>Conecte-se ao conhecimento sobre as espécies e seus habitats.</p>
         </div>
-        <div class="card" data-aos="fade-up" data-aos-delay="600">
+        <div class="card" data-aos="fade-left" data-aos-delay="600">
           <h3>Preservação</h3>
           <p>Ajude a proteger espécies ameaçadas com informação.</p>
         </div>
@@ -129,6 +134,8 @@
         </div>
       </section>
     </main>
+    <script src="https://cdn.jsdelivr.net/npm/aos@2.3.4/dist/aos.js"></script>
+    <script>AOS.init();</script>
     <script src="./assets/script/main.js"></script>
   </body>
 </html>

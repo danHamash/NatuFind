@@ -1,39 +1,20 @@
-// Carregar plantas do localStorage ou usar as padrão
-let plantas = JSON.parse(localStorage.getItem("plantas")) || [
-  {
-    nomePopular: "Espada-de-São-Jorge",
-    nomeCientifico: "Sansevieria trifasciata",
-    localColeta: "Região Sudeste",
-    imagem: "./assets/image/espada-são-jorge.webp",
-  },
-  {
-    nomePopular: "Jasmim",
-    nomeCientifico: "Jasminum sambac",
-    localColeta: "Região Nordeste",
-    imagem:
-      "https://upload.wikimedia.org/wikipedia/commons/4/49/Jasminum_sambac_01.JPG",
-  },
-  {
-    nomePopular: "Samambaia",
-    nomeCientifico: "Nephrolepis exaltata",
-    localColeta: "Região Sul",
-    imagem:
-      "https://upload.wikimedia.org/wikipedia/commons/0/0b/Nephrolepis_exaltata1.jpg",
-  },
-  {
-    nomePopular: "Alecrim",
-    nomeCientifico: "Rosmarinus officinalis",
-    localColeta: "Região Centro-Oeste",
-    imagem:
-      "https://upload.wikimedia.org/wikipedia/commons/1/10/Rosmarinus_officinalis_-_Herb.jpg",
-  },
-  {
-    nomePopular: "Manjericão",
-    nomeCientifico: "Ocimum basilicum",
-    localColeta: "Região Norte",
-    imagem: "./assets/image/manjericão-santo.webp",
-  },
-];
+let plantas = [];
+
+const carregarPlantas = async () => {
+  const salvas = localStorage.getItem("plantas");
+  if (salvas) {
+    plantas = JSON.parse(salvas);
+  } else {
+    try {
+      const response = await fetch("/plantas.json");
+      const json = await response.json();
+      plantas = json;
+      salvarPlantas(); // salva no localStorage para uso posterior
+    } catch (error) {
+      console.error("Erro ao carregar plantas.json:", error);
+    }
+  }
+};
 
 // Elementos da página
 const listaEl = document.getElementById("lista");
@@ -139,7 +120,6 @@ modal.addEventListener("click", (e) => {
 });
 
 // --- MODAL ADICIONAR ---
-
 btnAdicionar.addEventListener("click", () => {
   modalAdd.style.display = "flex";
 });
@@ -181,7 +161,6 @@ formAdd.addEventListener("submit", (e) => {
 });
 
 // --- MODAL REMOVER ---
-
 btnRemover.addEventListener("click", () => {
   modalRemove.style.display = "flex";
 });
@@ -228,3 +207,6 @@ formRemove.addEventListener("submit", (e) => {
   listaEl.style.display = "none";
   infoEl.textContent = "";
 });
+
+// Iniciar carregamento
+carregarPlantas();

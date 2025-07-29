@@ -1,0 +1,32 @@
+[
+  {
+    "nomePopular": "Espada-de-São-Jorge",
+    "nomeCientifico": "Sansevieria trifasciata",
+    "localColeta": "Região Sudeste",
+    "imagem": "./assets/image/espada-são-jorge.webp"
+  },
+  {
+    "nomePopular": "Jasmim",
+    "nomeCientifico": "Jasminum sambac",
+    "localColeta": "Região Nordeste",
+    "imagem": "./https://upload.wikimedia.org/wikipedia/commons/4/49/Jasminum_sambac_01.JPG"
+  },
+  {
+    "nomePopular": "Samambaia",
+    "nomeCientifico": "Nephrolepis exaltata",
+    "localColeta": "Região Sul",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Nephrolepis_exaltata1.jpg"
+  },
+  {
+    "nomePopular": "Alecrim",
+    "nomeCientifico": "Rosmarinus officinalis",
+    "localColeta": "Região Centro-Oeste",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/1/10/Rosmarinus_officinalis_-_Herb.jpg"
+  },
+  {
+    "nomePopular": "Manjericão",
+    "nomeCientifico": "Ocimum basilicum",
+    "localColeta": "Região Norte",
+    "imagem": "./assets/image/manjericão-santo.webp"
+  }
+]
