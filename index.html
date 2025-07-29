@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <link rel="stylesheet" href="./assets/css/style.css" />
+    <title>App de Plantas - Busca com detalhes</title>
+    <style></style>
+  </head>
+  <body>
+    <header>
+      <div></div>
+      <div>
+        <div class="header_img">
+          <img src="./assets/image/header-image.jpg" alt="" />
+        </div>
+
+        <div class="app_container">
+          <h1 class="logo">NatuFind</h1>
+          <p class="header_title">
+            Descubra o <span class="header_title_span">catalogo verde</span>
+          </p>
+
+          <div class="search_container">
+            <div>
+              <h2 class="input_title">Buscar espécie</h2>
+            </div>
+            <!-- input buscar plantas-->
+            <div>
+              <input
+                id="search"
+                type="text"
+                placeholder="Nome popular, científico ou local..."
+              />
+              <div id="info"></div>
+              <ul id="lista"></ul>
+            </div>
+
+            <!-- botão adicionar plantas-->
+            <div class="btn_container">
+              <button  class="btn" id="btnAdicionar">Adicionar</button>
+              <button  class="btn" id="btnRemover">
+                Remover
+              </button>
+            </div>
+            <div>
+              <!-- Modal formulário adicionar planta -->
+              <div id="modalAdd" class="form-modal">
+                <div class="form-modal-content">
+                  <span id="modalAddClose" class="form-close">&times;</span>
+                  <h3>Adicionar Planta</h3>
+                  <form id="formAdd">
+                    <label for="nomePopular">Nome Popular *</label>
+                    <input type="text" name="nomePopular" required />
+
+                    <label for="nomeCientifico">Nome Científico *</label>
+                    <input type="text" name="nomeCientifico" required />
+
+                    <label for="localColeta">Local de Coleta *</label>
+                    <input type="text" name="localColeta" required />
+
+                    <label for="imagem">URL da Imagem (opcional)</label>
+                    <input type="text" name="imagem" placeholder="http://..." />
+
+                    <button type="submit">Adicionar</button>
+                  </form>
+                </div>
+              </div>
+
+              <!-- Modal Remover -->
+              <div id="modalRemove" class="form-modal">
+                <div class="form-modal-content">
+                  <span id="modalRemoveClose" class="form-close">&times;</span>
+                  <h3>Remover Planta</h3>
+                  <form id="formRemove">
+                    <label for="nomeRemover">Nome Popular da Planta *</label>
+                    <input type="text" name="nomeRemover" required />
+
+                    <button type="submit">Remover</button>
+                  </form>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <!-- Modal -->
+          <div id="modal">
+            <div id="modalContent">
+              <span id="modalClose">&times;</span>
+              <div class="modal_card_content">
+                <div>
+                  <img id="modalImg" src="" alt="Imagem da planta" />
+                </div>
+                <div>
+                  <div id="modalNomePopular" class="nome-popular"></div>
+                  <div id="modalNomeCientifico" class="nome-cientifico"></div>
+                  <div id="modalLocal" class="local"></div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </header>
+    <main class="acervo_container">
+      <section class="acervo_intro">
+        <h2 data-aos="fade-up" data-aos-delay="100">Preserve o Verde</h2>
+        <p data-aos="fade-up" data-aos-delay="300">
+          O NatuFind é um acervo que promove a valorização da flora brasileira.
+          Cada planta catalogada é uma chance de reconhecer, respeitar e
+          conservar o nosso meio ambiente.
+        </p>
+      </section>
+
+      <section class="acervo_beneficios">
+        <div class="card" data-aos="fade-up" data-aos-delay="400">
+          <h3>Educação ambiental</h3>
+          <p>Conecte-se ao conhecimento sobre as espécies e seus habitats.</p>
+        </div>
+        <div class="card" data-aos="fade-up" data-aos-delay="600">
+          <h3>Preservação</h3>
+          <p>Ajude a proteger espécies ameaçadas com informação.</p>
+        </div>
+        <div class="card" data-aos="fade-up" data-aos-delay="800">
+          <h3>Descoberta</h3>
+          <p>
+            Explore plantas de diversas regiões do Brasil de forma interativa.
+          </p>
+        </div>
+      </section>
+    </main>
+    <script src="./assets/script/main.js"></script>
+  </body>
+</html>
