@@ -49,14 +49,19 @@ btnBuscar.addEventListener("click", () => buscar());
 input.addEventListener("keyup", (e) => e.key === "Enter" && buscar());
 
 /* 
- Função auxiliar: buscar dados da OpenFarm API
+ Função auxiliar: buscar dados da OpenFarm API (usando proxy allOrigins)
 */
 async function buscarOpenFarm(nome) {
   try {
-    const res = await fetch(
-      `https://openfarm.cc/api/v1/crops/?filter=${encodeURIComponent(nome)}`
-    );
-    if (!res.ok) throw new Error("Erro na OpenFarm");
+    const url = `https://www.openfarm.cc/api/v1/crops/?filter=${encodeURIComponent(
+      nome
+    )}`;
+    const proxyUrl = `https://api.allorigins.win/raw?url=${encodeURIComponent(
+      url
+    )}`;
+
+    const res = await fetch(proxyUrl);
+    if (!res.ok) throw new Error("Erro na OpenFarm via proxy");
     const json = await res.json();
     if (json.data.length === 0) return [];
     return json.data.map((p) => p.attributes);
