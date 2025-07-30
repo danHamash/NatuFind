@@ -56,23 +56,31 @@ input.addEventListener("keyup", (e) => {
 });
 
 /* 
- Função auxiliar: buscar dados da OpenFarm API (usando proxy allOrigins para evitar CORS)
+ Função auxiliar: buscar dados da OpenFarm API (proxy allOrigins)
 */
 async function buscarOpenFarm(nome) {
   try {
+    // URL da OpenFarm
     const url = `https://www.openfarm.cc/api/v1/crops/?filter=${encodeURIComponent(
       nome
     )}`;
-    const proxyUrl = `https://api.allorigins.win/raw?url=${encodeURIComponent(
+
+    // Proxy allOrigins (retorna { contents: "<string json>" })
+    const proxyUrl = `https://api.allorigins.win/get?url=${encodeURIComponent(
       url
     )}`;
     const res = await fetch(proxyUrl);
-    if (!res.ok) throw new Error("Erro na OpenFarm");
-    const json = await res.json();
-    if (json.data.length === 0) return [];
+    if (!res.ok) throw new Error("Erro no proxy OpenFarm");
+
+    const proxyData = await res.json();
+
+    // Agora precisamos parsear o JSON que vem como string no campo contents
+    const json = JSON.parse(proxyData.contents);
+
+    if (!json.data || json.data.length === 0) return [];
     return json.data.map((p) => p.attributes);
   } catch (e) {
-    console.error(e);
+    console.error("Erro buscarOpenFarm:", e);
     return [];
   }
 }
@@ -113,12 +121,12 @@ async function buscar() {
   cardsContainer.classList.add("cards-container");
   headerContent.appendChild(cardsContainer);
 
-  // Gerar os cards dentro do cardsContainer (JSON local)
+  // Gerar os cards dentro do cardsContainer (dados do JSON local)
   for (const planta of filtradas) {
     await criarCardComAPI(planta, cardsContainer);
   }
 
-  // Se não encontrou nada no JSON, buscar diretamente na API
+  // Se não encontrou nada no JSON -> buscar direto na API
   if (filtradas.length === 0) {
     const resultadosAPI = await buscarOpenFarm(termo);
     for (const plantaAPI of resultadosAPI) {
@@ -127,7 +135,7 @@ async function buscar() {
   }
 }
 
-/* Cria o card usando dados locais + API (enriquecimento) */
+/* Cria o card usando dados locais + enriquecimento da API */
 async function criarCardComAPI(planta, container) {
   const card = document.createElement("div");
   card.classList.add("card");
@@ -153,7 +161,7 @@ async function criarCardComAPI(planta, container) {
   linha.appendChild(img);
   card.appendChild(linha);
 
-  // Busca extra na OpenFarm
+  // Enriquecer com API
   const dadosAPI = await buscarOpenFarm(
     planta.nomeCientifico || planta.nomePopular
   );
@@ -200,7 +208,7 @@ async function criarCardComAPI(planta, container) {
   container.appendChild(card);
 }
 
-/* Cria card direto com dados só da API (quando não tem no JSON) */
+/* Cria card direto só com dados da API */
 function criarCardDiretoAPI(plantaAPI, container) {
   const card = document.createElement("div");
   card.classList.add("card");
@@ -231,10 +239,9 @@ function criarCardDiretoAPI(plantaAPI, container) {
   desc.textContent = plantaAPI.description || "Sem descrição disponível.";
   card.appendChild(desc);
 
-  // Linha final vazia (origem/família)
+  // Linha final sem origem/família (não disponível na API)
   const bottom = document.createElement("div");
   bottom.classList.add("card__info");
-
   bottom.innerHTML = `
     <div class="card__info-item">
       <span class="card__origin">Origem: Não disponível</span>
@@ -243,7 +250,6 @@ function criarCardDiretoAPI(plantaAPI, container) {
       <span class="card__family">Família: Não informado</span>
     </div>
   `;
-
   card.appendChild(bottom);
 
   container.appendChild(card);
