@@ -1,37 +1,56 @@
 [
   {
-    "id":"01",
+    "id": "01",
     "nomePopular": "Espada-de-São-Jorge",
     "nomeCientifico": "Sansevieria trifasciata",
     "localColeta": "Região Sudeste",
+    "familia": "Asparagaceae",
+    "descricao": "Planta resistente, popular por suas folhas eretas e longa durabilidade.",
     "imagem": "./assets/image/espada-são-jorge.webp"
   },
   {
-    "id":"02",
+    "id": "07",
+    "nomePopular": "Espada-de-São-Jorge",
+    "nomeCientifico": "Sansevieria ameba",
+    "localColeta": "Região Sudeste",
+    "familia": "Asparagaceae",
+    "descricao": "Planta resistente, popular por suas folhas eretas e longa durabilidade.",
+    "imagem": "./assets/image/espada-sao-jorge.webp"
+  },
+  {
+    "id": "02",
     "nomePopular": "Jasmim",
     "nomeCientifico": "Jasminum sambac",
     "localColeta": "Região Nordeste",
-    "imagem": "./https://upload.wikimedia.org/wikipedia/commons/4/49/Jasminum_sambac_01.JPG"
+    "familia": "Oleaceae",
+    "descricao": "Flores brancas muito perfumadas, comuns em regiões tropicais.",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/4/49/Jasminum_sambac_01.JPG"
   },
   {
-    "id":"03",
+    "id": "03",
     "nomePopular": "Samambaia",
     "nomeCientifico": "Nephrolepis exaltata",
     "localColeta": "Região Sul",
+    "familia": "Nephrolepidaceae",
+    "descricao": "Planta ornamental de folhas delicadas, perfeita para ambientes internos.",
     "imagem": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Nephrolepis_exaltata1.jpg"
   },
   {
-    "id":"04",
+    "id": "04",
     "nomePopular": "Alecrim",
     "nomeCientifico": "Rosmarinus officinalis",
     "localColeta": "Região Centro-Oeste",
+    "familia": "Lamiaceae",
+    "descricao": "Erva aromática usada em temperos e também como ornamental.",
     "imagem": "https://upload.wikimedia.org/wikipedia/commons/1/10/Rosmarinus_officinalis_-_Herb.jpg"
   },
   {
-    "id":"05",
+    "id": "05",
     "nomePopular": "Manjericão",
     "nomeCientifico": "Ocimum basilicum",
     "localColeta": "Região Norte",
-    "imagem": "./assets/image/manjericão-santo.webp"
+    "familia": "Lamiaceae",
+    "descricao": "Planta aromática bastante usada na culinária mediterrânea.",
+    "imagem": "./assets/image/manjericao-santo.webp"
   }
 ]

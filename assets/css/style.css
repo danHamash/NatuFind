@@ -13,14 +13,12 @@
     margin: auto;
     background: #ffffff;
   }
-  input[type="text"]{
-    margin: 1rem .5rem;
-    margin-left: 10rem;
-  }
   header{
     width: 100%;
   }
-  
+  p,span{
+    color: var(--primeira);
+  }
   /*nav*/
   .input_icon {
   background: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='24' height='24' viewBox='0 0 24 24' fill='none' stroke='%2364748b' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'><circle cx='11' cy='11' r='8'/><path d='m21 21-4.3-4.3'/></svg>") no-repeat 8px center;
@@ -32,7 +30,11 @@
     border-radius: 4px;
     border: 1px solid #ccc;
     font-size: 16px;
-    width: 35%;
+    width: 100%;
+  }
+  
+  input[type="text"]::placeholder{
+    color: var(--primeira);
   }
   .button button{
     width: 100%;
@@ -45,9 +47,6 @@
     background: var(--botao-bg);
     color: #fff;
   }
-  input[type="text"]::placeholder{
-    color: var(--primeira);
-  }
   nav{
     width: 100%;
     display: flex;
@@ -57,8 +56,7 @@
   .logo_container{
     display: flex;
     flex-direction: row;
-    margin-left: 10rem;
-    margin-top: 1rem;
+    margin: 0 auto;
   }
   .logo_img svg{
     width: 40px;
@@ -71,6 +69,8 @@
     display: flex;
     flex-direction: row;
     align-items: center;
+    margin: 0 auto;
+    width: 50%;
   }
 
   /*header*/
@@ -79,6 +79,9 @@
   flex-direction: column;
   align-items: center;
   justify-content: center;
+}
+header_content:nth-child(0){
+  padding: 20px;
 }
 .header_img{
   max-width: 12rem;
@@ -102,10 +105,95 @@ max-width: 50rem;
 margin: 0 auto;
 margin-top: 4rem;
 }
+/*dinamicamente*/
+#lista {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  width: 92%;
+  max-width: 520px; /* igual à largura do input */
+  background: #fff;
+  border: 1px solid #e2e8f0;
+  border-radius: 6px;
+  position: absolute; /* ficará logo abaixo do input */
+  top: 83px; /* logo abaixo do input */
+  display: none;
+  z-index: 10;
+}
 
-@media (max-width:600px) {
-  header{
-    padding: 10px;
+#lista li {
+  padding: 10px;
+  cursor: pointer;
+  border-bottom: 1px solid #e2e8f0;
+}
+
+#lista li:last-child {
+  border-bottom: none;
+}
+
+#lista li:hover {
+  background: #f1f5f9;
+}
+/*card dinamico*/
+.header_content{
+  width: 60%;
+  margin: 0 auto;
+}
+.header-results-header{
+  width: 900px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  padding: 1.5rem 1.5rem .8rem 1.5rem;
+}
+.cards-container{
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(350px, 1fr));
+  gap: 40px;
+}
+.card{
+  width: 100%;
+  border: 1px solid #e2e8f0;
+  border-radius: 10px;
+  padding: 30px;
+}
+.card__title{
+  font-size: 1.5rem;
+  padding: 1rem 0 1rem 0;
+}
+.card__scientific-img{
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: flex-start;
+  padding: 1rem 0;
+}
+.card__image{
+  max-width: 100%;
+}
+.card__description{
+  padding: .5rem 0 2rem;
+}
+.card__info div{
+  padding: 0  0 1rem;
+}
+.card__info-item{
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+.card__info-item svg{
+  width: 25px;
+  height: 25px;
+  margin-right: .3rem;
+}
+
+@media (min-width: 320px) and (max-width: 600px) {
+  #lista{
+    top: 112px; /* logo abaixo do input */
+    left: 15px;
+    width: 75%;
   }
   .logo_container{
     margin: 0;
@@ -116,14 +204,24 @@ margin-top: 4rem;
     margin: .5rem .2rem .5rem 1rem;
     width: 100%;
   }
+  .input_content{
+    width: 100%;
+  }
   .button{
     margin:.5rem .5rem .5rem .1rem;
+  }
+  .header_content{
+    padding: 2.5rem .8rem;
+    width: 90%;
   }
   .header_img {
     max-width: 9rem;
   }
+  .header_title, .header_paragraphy{
+    width: 90%;
+  }
   .header_title h1{
-    font-size: 2.5rem;
+    font-size: 2.2rem;
   }
   .header_paragraphy p{
     font-size: 1rem;
@@ -131,6 +229,43 @@ margin-top: 4rem;
     margin-top: 1rem;
     font-weight: 600;
   }
+  /*card*/
+  .header-results-title{
+  font-size: 1.2rem;
+}
+.header-results-header{
+  width: 100%;
+  padding: 0;
+}
+.header-results-count{
+  font-size: .8rem;
+}
+.header-results-header{
+  margin-bottom: 2rem;
+}
+.cards-container{
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+}
+.card{
+padding: 20px;
+}
+.card__title{
+  font-size: 1.5rem;
+  font-weight: 600;
+  padding-bottom: .7rem;
+}
+.card__scientific-name, .card__description, .card__info div{
+  font-size: .9rem;
+  padding-bottom: .7rem;
+}
+.card__info div{
+  padding: 0  0 .5rem;
+}
+.card__info-item svg{
+  width: 18px;
+  height: 18px;
+}
+
 }
 
 @keyframes rotate {
