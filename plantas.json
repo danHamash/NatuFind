@@ -1,21 +1,245 @@
 [
+  [
   {
-    "id": "01",
-    "nomePopular": "Espada de São Jorge",
-    "nomeCientifico": "Sansevieria trifasciata",
-    "localColeta": "Região Sudeste",
-    "familia": "Asparagaceae",
-    "descricao": "Planta resistente, popular por suas folhas eretas e longa durabilidade.",
-    "imagem": "./assets/image/espada-são-jorge.webp"
+    "nomePopular": "Abacate",
+    "nomeCientifico": "Persea americana",
+    "familia": "Lauraceae",
+    "localColeta": "América Central",
+    "descricao": "Árvore frutífera com fruto com polpa cremosa e nutritiva.",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Persea_americana_fruit.JPG/320px-Persea_americana_fruit.JPG"
   },
   {
-    "id": "02",
-    "nomePopular": "Manjericão",
-    "nomeCientifico": "Ocimum basilicum",
-    "localColeta": "Região Norte",
+    "nomePopular": "Abacaxi-ornamental",
+    "nomeCientifico": "Ananas comosus",
+    "familia": "Bromeliaceae",
+    "localColeta": "América do Sul",
+    "descricao": "Planta ornamental e frutífera, com folhas rígidas e espinhosas.",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Ananas_comosus_-_Pineapple_fruit.JPG/320px-Ananas_comosus_-_Pineapple_fruit.JPG"
+  },
+  {
+    "nomePopular": "Aroeira",
+    "nomeCientifico": "Schinus terebinthifolia",
+    "familia": "Anacardiaceae",
+    "localColeta": "Brasil",
+    "descricao": "Árvore usada na medicina popular e na fabricação de resinas.",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Schinus_terebinthifolia_-_flower_and_leaves.JPG/320px-Schinus_terebinthifolia_-_flower_and_leaves.JPG"
+  },
+  {
+    "nomePopular": "Babosa",
+    "nomeCientifico": "Aloe vera",
+    "familia": "Asphodelaceae",
+    "localColeta": "África",
+    "descricao": "Planta suculenta conhecida por propriedades medicinais e cosméticas.",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Aloe_vera_flower.JPG/320px-Aloe_vera_flower.JPG"
+  },
+  {
+    "nomePopular": "Boldo",
+    "nomeCientifico": "Peumus boldus",
+    "familia": "Monimiaceae",
+    "localColeta": "Chile",
+    "descricao": "Árvore com folhas usadas em chás para problemas digestivos.",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Peumus_boldus_-_leaves.JPG/320px-Peumus_boldus_-_leaves.JPG"
+  },
+  {
+    "nomePopular": "Cacto",
+    "nomeCientifico": "Cactaceae",
+    "familia": "Cactaceae",
+    "localColeta": "América",
+    "descricao": "Planta suculenta adaptada a ambientes áridos.",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Cactus_Aries_2005.jpg/320px-Cactus_Aries_2005.jpg"
+  },
+  {
+    "nomePopular": "Camomila",
+    "nomeCientifico": "Matricaria chamomilla",
+    "familia": "Asteraceae",
+    "localColeta": "Europa",
+    "descricao": "Planta herbácea usada em chás para aliviar insônia e digestão.",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Matricaria_chamomilla_-_flowers.JPG/320px-Matricaria_chamomilla_-_flowers.JPG"
+  },
+  {
+    "nomePopular": "Canela",
+    "nomeCientifico": "Cinnamomum verum",
+    "familia": "Lauraceae",
+    "localColeta": "Sri Lanka",
+    "descricao": "Árvore cujos caules são usados como especiaria aromática.",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Cinnamomum_verum_bark.jpg/320px-Cinnamomum_verum_bark.jpg"
+  },
+  {
+    "nomePopular": "Capim-limão",
+    "nomeCientifico": "Cymbopogon citratus",
+    "familia": "Poaceae",
+    "localColeta": "Ásia tropical",
+    "descricao": "Planta usada para chás e aromatizantes por seu cheiro cítrico.",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Cymbopogon_citratus_-_Lemongrass.JPG/320px-Cymbopogon_citratus_-_Lemongrass.JPG"
+  },
+  {
+    "nomePopular": "Erva-doce",
+    "nomeCientifico": "Pimpinella anisum",
+    "familia": "Apiaceae",
+    "localColeta": "Mediterrâneo",
+    "descricao": "Planta usada para chás com propriedades digestivas e aromáticas.",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Anise_seed_with_flower.jpg/320px-Anise_seed_with_flower.jpg"
+  },
+  {
+    "nomePopular": "Erva-mate",
+    "nomeCientifico": "Ilex paraguariensis",
+    "familia": "Aquifoliaceae",
+    "localColeta": "América do Sul",
+    "descricao": "Árvore cujas folhas são usadas para o chimarrão e tereré.",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Ilex_paraguariensis_leaves_and_branch.jpg/320px-Ilex_paraguariensis_leaves_and_branch.jpg"
+  },
+  {
+    "nomePopular": "Espinheira-santa",
+    "nomeCientifico": "Maytenus ilicifolia",
+    "familia": "Celastraceae",
+    "localColeta": "Brasil",
+    "descricao": "Planta usada para problemas gástricos e digestivos.",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Maytenus_ilicifolia_1.jpg/320px-Maytenus_ilicifolia_1.jpg"
+  },
+  {
+    "nomePopular": "Figo",
+    "nomeCientifico": "Ficus carica",
+    "familia": "Moraceae",
+    "localColeta": "Ásia Ocidental",
+    "descricao": "Árvore frutífera com frutos doces comestíveis.",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Ficus_carica_-_Ficus_fig_tree.JPG/320px-Ficus_carica_-_Ficus_fig_tree.JPG"
+  },
+  {
+    "nomePopular": "Gengibre",
+    "nomeCientifico": "Zingiber officinale",
+    "familia": "Zingiberaceae",
+    "localColeta": "Ásia tropical",
+    "descricao": "Raiz aromática usada como especiaria e remédio natural.",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Zingiber_officinale_-_K%C3%B6hler%E2%80%93s_Medizinal-Pflanzen-077.jpg/320px-Zingiber_officinale_-_K%C3%B6hler%E2%80%93s_Medizinal-Pflanzen-077.jpg"
+  },
+  {
+    "nomePopular": "Hortelã",
+    "nomeCientifico": "Mentha spicata",
     "familia": "Lamiaceae",
-    "descricao": "Planta aromática bastante usada na culinária mediterrânea.",
-    "imagem": "./assets/image/manjericão-santo.webp"
+    "localColeta": "Eurasia",
+    "descricao": "Planta aromática usada em chás, temperos e cosméticos.",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Mentha_spicata_-_K%C3%B6hler%E2%80%93s_Medizinal-Pflanzen-111.jpg/320px-Mentha_spicata_-_K%C3%B6hler%E2%80%93s_Medizinal-Pflanzen-111.jpg"
+  },
+  {
+    "nomePopular": "Ipê-amarelo",
+    "nomeCientifico": "Handroanthus albus",
+    "familia": "Bignoniaceae",
+    "localColeta": "Brasil",
+    "descricao": "Árvore símbolo do Brasil, com flores amarelas vistosas.",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Handroanthus_albus_Ipê_Amarelo_2009_001.jpg/320px-Handroanthus_albus_Ipê_Amarelo_2009_001.jpg"
+  },
+  {
+    "nomePopular": "Jatobá",
+    "nomeCientifico": "Hymenaea courbaril",
+    "familia": "Fabaceae",
+    "localColeta": "América do Sul",
+    "descricao": "Árvore com fruto comestível e madeira resistente.",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Hymenaea_courbaril_1.jpg/320px-Hymenaea_courbaril_1.jpg"
+  },
+  {
+    "nomePopular": "Lavanda",
+    "nomeCientifico": "Lavandula angustifolia",
+    "familia": "Lamiaceae",
+    "localColeta": "Mediterrâneo",
+    "descricao": "Planta aromática muito usada em perfumes e aromaterapia.",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Lavandula_angustifolia_02.jpg/320px-Lavandula_angustifolia_02.jpg"
+  },
+  {
+    "nomePopular": "Lírio",
+    "nomeCientifico": "Lilium candidum",
+    "familia": "Liliaceae",
+    "localColeta": "Europa",
+    "descricao": "Planta ornamental com flores vistosas e perfume marcante.",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Lilium_candidum_01.jpg/320px-Lilium_candidum_01.jpg"
+  },
+  {
+    "nomePopular": "Mamona",
+    "nomeCientifico": "Ricinus communis",
+    "familia": "Euphorbiaceae",
+    "localColeta": "África",
+    "descricao": "Planta usada para óleo e produtos industriais.",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Ricinus_communis_001.JPG/320px-Ricinus_communis_001.JPG"
+  },
+  {
+    "nomePopular": "Maracujá",
+    "nomeCientifico": "Passiflora edulis",
+    "familia": "Passifloraceae",
+    "localColeta": "América do Sul",
+    "descricao": "Planta trepadeira com frutos comestíveis ricos em vitaminas.",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Passiflora_edulis_-_fruit_and_flower.jpg/320px-Passiflora_edulis_-_fruit_and_flower.jpg"
+  },
+  {
+    "nomePopular": "Menta",
+    "nomeCientifico": "Mentha piperita",
+    "familia": "Lamiaceae",
+    "localColeta": "Europa",
+    "descricao": "Planta aromática usada para chás e temperos.",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Mentha_piperita_leaf.JPG/320px-Mentha_piperita_leaf.JPG"
+  },
+  {
+    "nomePopular": "Orquídea",
+    "nomeCientifico": "Orchidaceae",
+    "familia": "Orchidaceae",
+    "localColeta": "Mundo todo",
+    "descricao": "Família diversa de plantas ornamentais muito apreciadas.",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Orchidaceae_-_Phalaenopsis_1.jpg/320px-Orchidaceae_-_Phalaenopsis_1.jpg"
+  },
+  {
+    "nomePopular": "Pau-brasil",
+    "nomeCientifico": "Paubrasilia echinata",
+    "familia": "Fabaceae",
+    "localColeta": "Brasil",
+    "descricao": "Árvore símbolo nacional do Brasil, madeira de cor avermelhada.",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Paubrasilia_echinata_%28pau-brasil%29.JPG/320px-Paubrasilia_echinata_%28pau-brasil%29.JPG"
+  },
+  {
+    "nomePopular": "Pimenta",
+    "nomeCientifico": "Piper nigrum",
+    "familia": "Piperaceae",
+    "localColeta": "Índia",
+    "descricao": "Planta trepadeira cujos frutos são usados como especiaria.",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Peppercorns.jpg/320px-Peppercorns.jpg"
+  },
+  {
+    "nomePopular": "Pitanga",
+    "nomeCientifico": "Eugenia uniflora",
+    "familia": "Myrtaceae",
+    "localColeta": "Brasil",
+    "descricao": "Arbusto frutífero com frutos vermelhos e sabor ácido.",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Eugenia_uniflora_fruits.jpg/320px-Eugenia_uniflora_fruits.jpg"
+  },
+  {
+    "nomePopular": "Tomate",
+    "nomeCientifico": "Solanum lycopersicum",
+    "familia": "Solanaceae",
+    "localColeta": "América do Sul",
+    "descricao": "Planta cultivada para o fruto comestível amplamente utilizado.",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Tomato_je.jpg/320px-Tomato_je.jpg"
+  },
+  {
+    "nomePopular": "Uva",
+    "nomeCientifico": "Vitis vinifera",
+    "familia": "Vitaceae",
+    "localColeta": "Mediterrâneo",
+    "descricao": "Videira cultivada para frutos usados em consumo e vinho.",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Vitis_vinifera_grapes.jpg/320px-Vitis_vinifera_grapes.jpg"
+  },
+  {
+    "nomePopular": "Vassourinha",
+    "nomeCientifico": "Scoparia dulcis",
+    "familia": "Plantaginaceae",
+    "localColeta": "Tropical América",
+    "descricao": "Planta medicinal usada para tratamento de várias doenças.",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Scoparia_dulcis_flower.jpg/320px-Scoparia_dulcis_flower.jpg"
+  },
+  {
+    "nomePopular": "Vitória-régia",
+    "nomeCientifico": "Victoria amazonica",
+    "familia": "Nymphaeaceae",
+    "localColeta": "Amazônia",
+    "descricao": "Planta aquática famosa por suas folhas enormes e flutuantes.",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Victoria_amazonica_01.JPG/320px-Victoria_amazonica_01.JPG"
   }
-  
+]
+
 ]
