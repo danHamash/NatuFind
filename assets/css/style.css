@@ -150,7 +150,7 @@ margin-top: 4rem;
 }
 .cards-container{
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(350px, 1fr));
+  grid-template-columns: repeat(2, minmax(350px, 1fr));
   gap: 40px;
 }
 .card{
@@ -158,6 +158,10 @@ margin-top: 4rem;
   border: 1px solid #e2e8f0;
   border-radius: 10px;
   padding: 30px;
+  margin: 0 auto;
+  box-shadow: 1px 22px 25px 12px rgba(0,0,0,0.66);
+-webkit-box-shadow: 1px 22px 25px 12px rgba(0,0,0,0.66);
+-moz-box-shadow: 1px 22px 25px 12px rgba(0,0,0,0.66);
 }
 .card__title{
   font-size: 1.5rem;
@@ -172,6 +176,7 @@ margin-top: 4rem;
 }
 .card__image{
   max-width: 100%;
+  border-radius: 12px;
 }
 .card__description{
   padding: .5rem 0 2rem;
