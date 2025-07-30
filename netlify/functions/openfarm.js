@@ -1,24 +1,43 @@
-export async function handler(event, context) {
-  const { nome } = event.queryStringParameters;
+export async function handler(event) {
+  const nome = event.queryStringParameters?.nome;
+
+  const headers = {
+    "Access-Control-Allow-Origin": "*",
+    "Content-Type": "application/json",
+  };
 
   if (!nome) {
-    return { statusCode: 400, body: "Parâmetro 'nome' obrigatório" };
+    return {
+      statusCode: 400,
+      headers,
+      body: JSON.stringify({ error: "Parâmetro 'nome' obrigatório" }),
+    };
   }
 
   try {
     const url = `https://www.openfarm.cc/api/v1/crops/?filter=${encodeURIComponent(nome)}`;
-    const res = await fetch(url);
-    const data = await res.json();
+    const response = await fetch(url, { redirect: "follow" });
+
+    if (!response.ok) {
+      return {
+        statusCode: response.status,
+        headers,
+        body: JSON.stringify({ error: `Erro na OpenFarm: ${response.statusText}` }),
+      };
+    }
+
+    const data = await response.json();
 
     return {
       statusCode: 200,
-      headers: { "Access-Control-Allow-Origin": "*" },
+      headers,
       body: JSON.stringify(data),
     };
-  } catch (err) {
+  } catch (error) {
     return {
       statusCode: 500,
-      body: JSON.stringify({ error: "Erro ao buscar na OpenFarm" }),
+      headers,
+      body: JSON.stringify({ error: "Erro interno no proxy", details: error.message }),
     };
   }
 }

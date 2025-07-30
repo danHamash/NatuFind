@@ -58,15 +58,16 @@ input.addEventListener("keyup", (e) => {
 /* 
  Função auxiliar: buscar dados da OpenFarm API (proxy allOrigins)
 */
+const proxyURL = "https://roaring-strudel-ae77e9.netlify.app/.netlify/functions/openfarm";
+
 async function buscarOpenFarm(nome) {
   try {
-    // URL do seu proxy Netlify (substitua "SEU_SITE")
-    const res = await fetch(`https://SEU_SITE.netlify.app/.netlify/functions/openfarm?nome=${encodeURIComponent(nome)}`);
+    const res = await fetch(`${proxyURL}?nome=${encodeURIComponent(nome)}`);
     if (!res.ok) throw new Error("Erro no proxy");
     const json = await res.json();
 
     if (!json.data || json.data.length === 0) return [];
-    return json.data.map((p) => p.attributes);
+    return json.data.map(p => p.attributes);
   } catch (e) {
     console.error("Erro buscarOpenFarm:", e);
     return [];
