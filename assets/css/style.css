@@ -236,6 +236,7 @@ footer p {
   }
   .header_img {
     max-width: 9rem;
+    margin-top: 1rem;
   }
   .header_title, .header_paragraphy{
     width: 90%;
