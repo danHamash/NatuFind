@@ -200,6 +200,9 @@ font-style:italic ;
   height: 25px;
   margin-right: .3rem;
 }
+.card__family, .card__origin{
+  font-weight: 500;
+}
 footer {
     background: #222;
     text-align: center;
