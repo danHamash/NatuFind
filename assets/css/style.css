@@ -86,7 +86,7 @@ header_content:nth-child(0){
 }
 .header_img{
   max-width: 12rem;
-  margin-top: 5rem;
+  margin-top: 3rem;
 }
 .header_img svg{
   width: 100%;
