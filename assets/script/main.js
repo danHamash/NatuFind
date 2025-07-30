@@ -60,22 +60,10 @@ input.addEventListener("keyup", (e) => {
 */
 async function buscarOpenFarm(nome) {
   try {
-    // URL da OpenFarm
-    const url = `https://www.openfarm.cc/api/v1/crops/?filter=${encodeURIComponent(
-      nome
-    )}`;
-
-    // Proxy allOrigins (retorna { contents: "<string json>" })
-    const proxyUrl = `https://api.allorigins.win/get?url=${encodeURIComponent(
-      url
-    )}`;
-    const res = await fetch(proxyUrl);
-    if (!res.ok) throw new Error("Erro no proxy OpenFarm");
-
-    const proxyData = await res.json();
-
-    // Agora precisamos parsear o JSON que vem como string no campo contents
-    const json = JSON.parse(proxyData.contents);
+    // URL do seu proxy Netlify (substitua "SEU_SITE")
+    const res = await fetch(`https://SEU_SITE.netlify.app/.netlify/functions/openfarm?nome=${encodeURIComponent(nome)}`);
+    if (!res.ok) throw new Error("Erro no proxy");
+    const json = await res.json();
 
     if (!json.data || json.data.length === 0) return [];
     return json.data.map((p) => p.attributes);
