@@ -131,11 +131,7 @@ function buscar() {
     const origemWrapper = document.createElement("div");
     origemWrapper.classList.add("card__info-item");
     origemWrapper.innerHTML = `
-      <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="card__icon">
-        <circle cx="12" cy="12" r="10"></circle>
-        <path d="M12 16v-4"></path>
-        <path d="M12 8h.01"></path>
-      </svg>
+      <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-map-pin h-4 w-4 text-primary" data-lov-id="src/pages/Index.tsx:184:22" data-lov-name="MapPin" data-component-path="src/pages/Index.tsx" data-component-line="184" data-component-file="Index.tsx" data-component-name="MapPin" data-component-content="%7B%22className%22%3A%22h-4%20w-4%20text-primary%22%7D"><path d="M20 10c0 4.993-5.539 10.193-7.399 11.799a1 1 0 0 1-1.202 0C9.539 20.193 4 14.993 4 10a8 8 0 0 1 16 0"></path><circle cx="12" cy="10" r="3"></circle></svg>
       <span class="card__origin">Origem: ${planta.localColeta}</span>
     `;
 
