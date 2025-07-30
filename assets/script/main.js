@@ -82,7 +82,7 @@ function buscar() {
 
   const span = document.createElement("span");
   span.classList.add("header-results-count");
-  span.textContent = `${filtradas.length} plantas encontradas`;
+  span.textContent = ` plantas encontradas ( ${filtradas.length} ) `;
 
   head.appendChild(h1);
   head.appendChild(span);
