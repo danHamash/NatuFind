@@ -210,7 +210,11 @@ footer p {
     font-size: 0.9rem;
 }
 @media (min-width: 320px) and (max-width: 600px) {
-  
+  footer {
+    position:absolute;
+    bottom:0;
+    left:0;
+  }
   #lista{
     top: 112px; /* logo abaixo do input */
     left: 15px;
