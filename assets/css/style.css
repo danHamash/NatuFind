@@ -60,6 +60,7 @@
   }
   .logo_img svg{
     width: 40px;
+    color: #408135;
   }
   .logo_title{
     font-size: 2rem;
@@ -89,7 +90,7 @@ header_content:nth-child(0){
 }
 .header_img svg{
   width: 100%;
-  color: var(--primeira);
+  color: #408135;
   animation: rotate 20s infinite;
 }
 .header_title h1{
