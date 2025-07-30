@@ -210,9 +210,7 @@ footer p {
     font-size: 0.9rem;
 }
 @media (min-width: 320px) and (max-width: 600px) {
-  header{
-    height: 80vh
-  }
+  
   #lista{
     top: 112px; /* logo abaixo do input */
     left: 15px;
