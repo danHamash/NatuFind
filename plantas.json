@@ -1,245 +1,2435 @@
 [
-  [
   {
     "nomePopular": "Abacate",
-    "nomeCientifico": "Persea americana",
+    "nomeCientifico": "Persea americana Mill.",
     "familia": "Lauraceae",
-    "localColeta": "América Central",
-    "descricao": "Árvore frutífera com fruto com polpa cremosa e nutritiva.",
-    "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Persea_americana_fruit.JPG/320px-Persea_americana_fruit.JPG"
+    "localColeta": "América Central e do Sul",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Avocado_Durian_Ridge_2.jpg",
+    "descricao": "Fruto comestível rico em gorduras saudáveis, muito utilizado na culinária."
   },
   {
-    "nomePopular": "Abacaxi-ornamental",
-    "nomeCientifico": "Ananas comosus",
+    "nomePopular": "Abacaxi-Ornamental",
+    "nomeCientifico": "Ananas comosus (L.) Merr.",
     "familia": "Bromeliaceae",
     "localColeta": "América do Sul",
-    "descricao": "Planta ornamental e frutífera, com folhas rígidas e espinhosas.",
-    "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Ananas_comosus_-_Pineapple_fruit.JPG/320px-Ananas_comosus_-_Pineapple_fruit.JPG"
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/2/29/Ananas_comosus_-_Köhler–s_Medizinal-Pflanzen-003.jpg",
+    "descricao": "Planta ornamental com frutos comestíveis, muito cultivada em regiões tropicais."
   },
   {
-    "nomePopular": "Aroeira",
-    "nomeCientifico": "Schinus terebinthifolia",
-    "familia": "Anacardiaceae",
-    "localColeta": "Brasil",
-    "descricao": "Árvore usada na medicina popular e na fabricação de resinas.",
-    "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Schinus_terebinthifolia_-_flower_and_leaves.JPG/320px-Schinus_terebinthifolia_-_flower_and_leaves.JPG"
+    "nomePopular": "Acerola",
+    "nomeCientifico": "Malpighia emarginata DC.",
+    "familia": "Malpighiaceae",
+    "localColeta": "América Tropical",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Malpighia_emarginata_1.jpg",
+    "descricao": "Fruta rica em vitamina C, utilizada para sucos e vitaminas."
+  },
+  {
+    "nomePopular": "Alfazema",
+    "nomeCientifico": "Lavandula angustifolia Mill.",
+    "familia": "Lamiaceae",
+    "localColeta": "Europa e Mediterrâneo",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Lavandula_angustifolia_002.JPG",
+    "descricao": "Planta aromática utilizada em perfumaria e como calmante natural."
+  },
+  {
+    "nomePopular": "Alho",
+    "nomeCientifico": "Allium sativum L.",
+    "familia": "Amaryllidaceae",
+    "localColeta": "Ásia Central",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Allium_sativum_01.JPG",
+    "descricao": "Muito utilizado na culinária e medicina popular pelas propriedades antimicrobianas."
+  },
+  {
+    "nomePopular": "Amendoim",
+    "nomeCientifico": "Arachis hypogaea L.",
+    "familia": "Fabaceae",
+    "localColeta": "América do Sul",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Arachis_hypogaea_-_Köhler–s_Medizinal-Pflanzen-136.jpg",
+    "descricao": "Planta oleaginosa cujas sementes são consumidas torradas ou usadas para extração de óleo."
+  },
+  {
+    "nomePopular": "Anis-estrelado",
+    "nomeCientifico": "Illicium verum Hook. f.",
+    "familia": "Schisandraceae",
+    "localColeta": "China e Vietnã",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Illicium_verum_-_Köhler–s_Medizinal-Pflanzen-008.jpg",
+    "descricao": "Usado como especiaria e em chás para problemas digestivos."
+  },
+  {
+    "nomePopular": "Arnica",
+    "nomeCientifico": "Arnica montana L.",
+    "familia": "Asteraceae",
+    "localColeta": "Europa",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Arnica_montana_01.jpg",
+    "descricao": "Planta medicinal usada topicamente para aliviar dores e inflamações."
+  },
+  {
+    "nomePopular": "Arruda",
+    "nomeCientifico": "Ruta graveolens L.",
+    "familia": "Rutaceae",
+    "localColeta": "Região Mediterrânea",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Ruta_graveolens1.jpg",
+    "descricao": "Planta usada tradicionalmente para proteção e afastar mau-olhado."
   },
   {
     "nomePopular": "Babosa",
-    "nomeCientifico": "Aloe vera",
+    "nomeCientifico": "Aloe vera (L.) Burm. f.",
     "familia": "Asphodelaceae",
-    "localColeta": "África",
-    "descricao": "Planta suculenta conhecida por propriedades medicinais e cosméticas.",
-    "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Aloe_vera_flower.JPG/320px-Aloe_vera_flower.JPG"
+    "localColeta": "África do Norte e Arábia",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Aloe_vera_flower.jpg",
+    "descricao": "Conhecida por suas propriedades cicatrizantes e hidratantes."
+  },
+  {
+    "nomePopular": "Bardana",
+    "nomeCientifico": "Arctium lappa L.",
+    "familia": "Asteraceae",
+    "localColeta": "Europa e Ásia",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Arctium_lappa1.jpg",
+    "descricao": "Raiz usada em fitoterapia para desintoxicação do organismo."
+  },
+  {
+    "nomePopular": "Bergamota",
+    "nomeCientifico": "Citrus bergamia Risso",
+    "familia": "Rutaceae",
+    "localColeta": "Sul da Itália",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Citrus_bergamia_Bergamot_orange.jpg",
+    "descricao": "Fruto utilizado na perfumaria e aromaterapia."
   },
   {
     "nomePopular": "Boldo",
-    "nomeCientifico": "Peumus boldus",
+    "nomeCientifico": "Peumus boldus Molina",
     "familia": "Monimiaceae",
-    "localColeta": "Chile",
-    "descricao": "Árvore com folhas usadas em chás para problemas digestivos.",
-    "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Peumus_boldus_-_leaves.JPG/320px-Peumus_boldus_-_leaves.JPG"
+    "localColeta": "Chile e Argentina",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Boldo_Leaves.jpg",
+    "descricao": "Folhas usadas em chás para problemas digestivos e hepáticos."
   },
   {
-    "nomePopular": "Cacto",
-    "nomeCientifico": "Cactaceae",
-    "familia": "Cactaceae",
-    "localColeta": "América",
-    "descricao": "Planta suculenta adaptada a ambientes áridos.",
-    "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Cactus_Aries_2005.jpg/320px-Cactus_Aries_2005.jpg"
-  },
-  {
-    "nomePopular": "Camomila",
-    "nomeCientifico": "Matricaria chamomilla",
-    "familia": "Asteraceae",
-    "localColeta": "Europa",
-    "descricao": "Planta herbácea usada em chás para aliviar insônia e digestão.",
-    "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Matricaria_chamomilla_-_flowers.JPG/320px-Matricaria_chamomilla_-_flowers.JPG"
+    "nomePopular": "Camu-camu",
+    "nomeCientifico": "Myrciaria dubia (Kunth) McVaugh",
+    "familia": "Myrtaceae",
+    "localColeta": "Região Amazônica",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Myrciaria_dubia_1.jpg",
+    "descricao": "Fruto muito rico em vitamina C, utilizado em sucos e suplementos."
   },
   {
     "nomePopular": "Canela",
-    "nomeCientifico": "Cinnamomum verum",
+    "nomeCientifico": "Cinnamomum verum J.Presl",
     "familia": "Lauraceae",
     "localColeta": "Sri Lanka",
-    "descricao": "Árvore cujos caules são usados como especiaria aromática.",
-    "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Cinnamomum_verum_bark.jpg/320px-Cinnamomum_verum_bark.jpg"
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/4/45/Cinnamomum_verum_bark.jpg",
+    "descricao": "Usada como especiaria e em medicina tradicional."
   },
   {
     "nomePopular": "Capim-limão",
-    "nomeCientifico": "Cymbopogon citratus",
+    "nomeCientifico": "Cymbopogon citratus (DC.) Stapf",
     "familia": "Poaceae",
-    "localColeta": "Ásia tropical",
-    "descricao": "Planta usada para chás e aromatizantes por seu cheiro cítrico.",
-    "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Cymbopogon_citratus_-_Lemongrass.JPG/320px-Cymbopogon_citratus_-_Lemongrass.JPG"
+    "localColeta": "Ásia Tropical",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/1/16/Cymbopogon_citratus_Leaves.jpg",
+    "descricao": "Planta aromática usada em chás e aromaterapia."
+  },
+  {
+    "nomePopular": "Carqueja",
+    "nomeCientifico": "Baccharis trimera (Less.) DC.",
+    "familia": "Asteraceae",
+    "localColeta": "América do Sul",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/2/22/Baccharis_trimera1.jpg",
+    "descricao": "Planta medicinal para tratamentos digestivos e hepáticos."
+  },
+  {
+    "nomePopular": "Chá-mate",
+    "nomeCientifico": "Ilex paraguariensis A.St.-Hil.",
+    "familia": "Aquifoliaceae",
+    "localColeta": "Região Sul do Brasil",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/7/72/Ilex_paraguariensis_Leaves.jpg",
+    "descricao": "Folhas usadas para preparar chá mate, bebida tradicional sul-americana."
+  },
+  {
+    "nomePopular": "Chá-verde",
+    "nomeCientifico": "Camellia sinensis (L.) Kuntze",
+    "familia": "Theaceae",
+    "localColeta": "China",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/4/45/Camellia_sinensis_-_Tea_leaves.jpg",
+    "descricao": "Muito consumido no mundo todo por suas propriedades antioxidantes."
+  },
+  {
+    "nomePopular": "Chuchu",
+    "nomeCientifico": "Sechium edule (Jacq.) Sw.",
+    "familia": "Cucurbitaceae",
+    "localColeta": "América Central e do Sul",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Sechium_edule_fruit.JPG",
+    "descricao": "Fruto muito utilizado na culinária brasileira."
+  },
+  {
+    "nomePopular": "Cipó-mil-homens",
+    "nomeCientifico": "Aristolochia cymbifera Mart.",
+    "familia": "Aristolochiaceae",
+    "localColeta": "Brasil",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Aristolochia_cymbifera.JPG",
+    "descricao": "Usado em medicina tradicional por suas propriedades anti-inflamatórias."
+  },
+  {
+    "nomePopular": "Coentro",
+    "nomeCientifico": "Coriandrum sativum L.",
+    "familia": "Apiaceae",
+    "localColeta": "Oriente Médio e Sul da Europa",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Coriandrum_sativum_Leaves.jpg",
+    "descricao": "Erva aromática muito usada na culinária e medicina popular."
+  },
+  {
+    "nomePopular": "Confrei",
+    "nomeCientifico": "Symphytum officinale L.",
+    "familia": "Boraginaceae",
+    "localColeta": "Europa",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/2/29/Symphytum_officinale_Leaves.jpg",
+    "descricao": "Planta medicinal usada para cicatrização de feridas."
+  },
+  {
+    "nomePopular": "Copaíba",
+    "nomeCientifico": "Copaifera langsdorffii Desf.",
+    "familia": "Fabaceae",
+    "localColeta": "Brasil",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Copaifera_langsdorffii.jpg",
+    "descricao": "Óleo-resina usado para propriedades anti-inflamatórias e cicatrizantes."
+  },
+  {
+    "nomePopular": "Dente-de-leão",
+    "nomeCientifico": "Taraxacum officinale Weber",
+    "familia": "Asteraceae",
+    "localColeta": "Regiões temperadas do hemisfério norte",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/4/47/Taraxacum_officinale_flower_2007.jpg",
+    "descricao": "Usado para desintoxicação do fígado e como diurético."
   },
   {
     "nomePopular": "Erva-doce",
-    "nomeCientifico": "Pimpinella anisum",
+    "nomeCientifico": "Foeniculum vulgare Mill.",
     "familia": "Apiaceae",
-    "localColeta": "Mediterrâneo",
-    "descricao": "Planta usada para chás com propriedades digestivas e aromáticas.",
-    "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Anise_seed_with_flower.jpg/320px-Anise_seed_with_flower.jpg"
+    "localColeta": "Regiões temperadas da Europa e Ásia",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/1/11/Foeniculum_vulgare_Inflorescence.JPG",
+    "descricao": "Semente usada para tratar problemas digestivos e gases."
   },
   {
     "nomePopular": "Erva-mate",
-    "nomeCientifico": "Ilex paraguariensis",
+    "nomeCientifico": "Ilex paraguariensis A.St.-Hil.",
     "familia": "Aquifoliaceae",
-    "localColeta": "América do Sul",
-    "descricao": "Árvore cujas folhas são usadas para o chimarrão e tereré.",
-    "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Ilex_paraguariensis_leaves_and_branch.jpg/320px-Ilex_paraguariensis_leaves_and_branch.jpg"
+    "localColeta": "Brasil, Paraguai e Argentina",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/7/72/Ilex_paraguariensis_Leaves.jpg",
+    "descricao": "Usada para fazer a tradicional bebida mate."
   },
   {
     "nomePopular": "Espinheira-santa",
-    "nomeCientifico": "Maytenus ilicifolia",
+    "nomeCientifico": "Maytenus ilicifolia Mart. ex Reissek",
     "familia": "Celastraceae",
     "localColeta": "Brasil",
-    "descricao": "Planta usada para problemas gástricos e digestivos.",
-    "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Maytenus_ilicifolia_1.jpg/320px-Maytenus_ilicifolia_1.jpg"
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Maytenus_ilicifolia_Leaves.jpg",
+    "descricao": "Planta medicinal usada para problemas gástricos."
   },
   {
-    "nomePopular": "Figo",
-    "nomeCientifico": "Ficus carica",
-    "familia": "Moraceae",
-    "localColeta": "Ásia Ocidental",
-    "descricao": "Árvore frutífera com frutos doces comestíveis.",
-    "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Ficus_carica_-_Ficus_fig_tree.JPG/320px-Ficus_carica_-_Ficus_fig_tree.JPG"
+    "nomePopular": "Erva-cidreira",
+    "nomeCientifico": "Melissa officinalis L.",
+    "familia": "Lamiaceae",
+    "localColeta": "Europa e Ásia Ocidental",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/5/58/Melissa_officinalis_Leaves.jpg",
+    "descricao": "Usada em chás para relaxamento e insônia."
+  },
+  {
+    "nomePopular": "Funcho",
+    "nomeCientifico": "Foeniculum vulgare Mill.",
+    "familia": "Apiaceae",
+    "localColeta": "Europa e Ásia",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/1/11/Foeniculum_vulgare_Inflorescence.JPG",
+    "descricao": "Sementes usadas para aliviar cólicas e problemas digestivos."
   },
   {
     "nomePopular": "Gengibre",
-    "nomeCientifico": "Zingiber officinale",
+    "nomeCientifico": "Zingiber officinale Roscoe",
     "familia": "Zingiberaceae",
-    "localColeta": "Ásia tropical",
-    "descricao": "Raiz aromática usada como especiaria e remédio natural.",
-    "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Zingiber_officinale_-_K%C3%B6hler%E2%80%93s_Medizinal-Pflanzen-077.jpg/320px-Zingiber_officinale_-_K%C3%B6hler%E2%80%93s_Medizinal-Pflanzen-077.jpg"
+    "localColeta": "Ásia Tropical",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/4/43/Zingiber_officinale_01.JPG",
+    "descricao": "Raiz usada na culinária e para tratar náuseas e inflamações."
+  },
+  {
+    "nomePopular": "Guaraná",
+    "nomeCientifico": "Paullinia cupana Kunth",
+    "familia": "Sapindaceae",
+    "localColeta": "Região Amazônica",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Paullinia_cupana_fruit.JPG",
+    "descricao": "Semente utilizada como estimulante natural, presente em bebidas energéticas."
   },
   {
     "nomePopular": "Hortelã",
-    "nomeCientifico": "Mentha spicata",
+    "nomeCientifico": "Mentha spicata L.",
     "familia": "Lamiaceae",
-    "localColeta": "Eurasia",
-    "descricao": "Planta aromática usada em chás, temperos e cosméticos.",
-    "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Mentha_spicata_-_K%C3%B6hler%E2%80%93s_Medizinal-Pflanzen-111.jpg/320px-Mentha_spicata_-_K%C3%B6hler%E2%80%93s_Medizinal-Pflanzen-111.jpg"
+    "localColeta": "Europa e Ásia",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/3/37/Mentha_spicata_Leaves.jpg",
+    "descricao": "Erva aromática usada para chás, culinária e cosméticos."
   },
   {
     "nomePopular": "Ipê-amarelo",
-    "nomeCientifico": "Handroanthus albus",
+    "nomeCientifico": "Handroanthus albus (Cham.) Mattos",
     "familia": "Bignoniaceae",
     "localColeta": "Brasil",
-    "descricao": "Árvore símbolo do Brasil, com flores amarelas vistosas.",
-    "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Handroanthus_albus_Ipê_Amarelo_2009_001.jpg/320px-Handroanthus_albus_Ipê_Amarelo_2009_001.jpg"
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Ip%C3%AA_Amarelo_-_Handroanthus_albus_-_flower_1.jpg",
+    "descricao": "Árvore ornamental conhecida pelas flores amarelas vibrantes."
+  },
+  {
+    "nomePopular": "Jasmim",
+    "nomeCientifico": "Jasminum officinale L.",
+    "familia": "Oleaceae",
+    "localColeta": "Ásia e Mediterrâneo",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Jasminum_officinale_01.jpg",
+    "descricao": "Planta ornamental e aromática usada em perfumaria."
   },
   {
     "nomePopular": "Jatobá",
-    "nomeCientifico": "Hymenaea courbaril",
+    "nomeCientifico": "Hymenaea courbaril L.",
     "familia": "Fabaceae",
-    "localColeta": "América do Sul",
-    "descricao": "Árvore com fruto comestível e madeira resistente.",
-    "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Hymenaea_courbaril_1.jpg/320px-Hymenaea_courbaril_1.jpg"
+    "localColeta": "América Tropical",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Hymenaea_courbaril_fruit.jpg",
+    "descricao": "Árvore nativa usada para madeira e frutos comestíveis."
+  },
+  {
+    "nomePopular": "Laranja",
+    "nomeCientifico": "Citrus sinensis (L.) Osbeck",
+    "familia": "Rutaceae",
+    "localColeta": "Sudeste Asiático",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Citrus_sinensis_-_Orange_-_fruit_and_leaves.jpg",
+    "descricao": "Fruto cítrico muito consumido fresco e em sucos."
   },
   {
     "nomePopular": "Lavanda",
-    "nomeCientifico": "Lavandula angustifolia",
+    "nomeCientifico": "Lavandula angustifolia Mill.",
     "familia": "Lamiaceae",
     "localColeta": "Mediterrâneo",
-    "descricao": "Planta aromática muito usada em perfumes e aromaterapia.",
-    "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Lavandula_angustifolia_02.jpg/320px-Lavandula_angustifolia_02.jpg"
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Lavandula_angustifolia_002.JPG",
+    "descricao": "Planta aromática usada em perfumes e óleos essenciais."
   },
   {
-    "nomePopular": "Lírio",
-    "nomeCientifico": "Lilium candidum",
-    "familia": "Liliaceae",
-    "localColeta": "Europa",
-    "descricao": "Planta ornamental com flores vistosas e perfume marcante.",
-    "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Lilium_candidum_01.jpg/320px-Lilium_candidum_01.jpg"
+    "nomePopular": "Limão",
+    "nomeCientifico": "Citrus limon (L.) Burm. f.",
+    "familia": "Rutaceae",
+    "localColeta": "Sudeste Asiático",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/7/70/Citrus_limon_-_lemon_fruit_and_leaves.jpg",
+    "descricao": "Fruto cítrico muito usado em sucos, temperos e medicamentos."
   },
   {
-    "nomePopular": "Mamona",
-    "nomeCientifico": "Ricinus communis",
-    "familia": "Euphorbiaceae",
-    "localColeta": "África",
-    "descricao": "Planta usada para óleo e produtos industriais.",
-    "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Ricinus_communis_001.JPG/320px-Ricinus_communis_001.JPG"
+    "nomePopular": "Manga",
+    "nomeCientifico": "Mangifera indica L.",
+    "familia": "Anacardiaceae",
+    "localColeta": "Sul da Ásia",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/9/90/Mango_2.jpg",
+    "descricao": "Fruto doce muito consumido fresco ou em preparações culinárias."
   },
   {
     "nomePopular": "Maracujá",
-    "nomeCientifico": "Passiflora edulis",
+    "nomeCientifico": "Passiflora edulis Sims",
     "familia": "Passifloraceae",
-    "localColeta": "América do Sul",
-    "descricao": "Planta trepadeira com frutos comestíveis ricos em vitaminas.",
-    "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Passiflora_edulis_-_fruit_and_flower.jpg/320px-Passiflora_edulis_-_fruit_and_flower.jpg"
+    "localColeta": "América Tropical",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Passiflora_edulis_fruit.jpg",
+    "descricao": "Fruto usado para sucos, sobremesas e em medicina popular."
+  },
+  {
+    "nomePopular": "Melissa",
+    "nomeCientifico": "Melissa officinalis L.",
+    "familia": "Lamiaceae",
+    "localColeta": "Europa e Ásia",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/5/58/Melissa_officinalis_Leaves.jpg",
+    "descricao": "Erva usada em chás para aliviar ansiedade e insônia."
+  },
+  {
+    "nomePopular": "Manjericão",
+    "nomeCientifico": "Ocimum basilicum L.",
+    "familia": "Lamiaceae",
+    "localColeta": "Ásia Tropical",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Ocimum_basilicum_01.JPG",
+    "descricao": "Erva aromática muito usada na culinária mediterrânea."
   },
   {
     "nomePopular": "Menta",
-    "nomeCientifico": "Mentha piperita",
+    "nomeCientifico": "Mentha piperita L.",
     "familia": "Lamiaceae",
+    "localColeta": "Europa e Ásia",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/4/44/Mentha_piperita.jpg",
+    "descricao": "Erva aromática usada em chás e produtos medicinais."
+  },
+  {
+    "nomePopular": "Mostarda",
+    "nomeCientifico": "Brassica juncea (L.) Czern.",
+    "familia": "Brassicaceae",
+    "localColeta": "Sul da Europa e Ásia",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Brassica_juncea_Leaves.jpg",
+    "descricao": "Planta cujas sementes são usadas para temperos e condimentos."
+  },
+  {
+    "nomePopular": "Nabo",
+    "nomeCientifico": "Brassica rapa L.",
+    "familia": "Brassicaceae",
+    "localColeta": "Eurasia",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/3/32/Brassica_rapa_sativa.jpg",
+    "descricao": "Raiz comestível usada em culinária e alimentação animal."
+  },
+  {
+    "nomePopular": "Orégano",
+    "nomeCientifico": "Origanum vulgare L.",
+    "familia": "Lamiaceae",
+    "localColeta": "Europa e Ásia",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Origanum_vulgare_%28Oregano%29_leaves.jpg",
+    "descricao": "Erva aromática usada para temperar pratos, especialmente italianos."
+  },
+  {
+    "nomePopular": "Pimenta",
+    "nomeCientifico": "Piper nigrum L.",
+    "familia": "Piperaceae",
+    "localColeta": "Índia",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Piper_nigrum_fruits.jpg",
+    "descricao": "Fruto usado como especiaria para temperar alimentos."
+  },
+  {
+    "nomePopular": "Romã",
+    "nomeCientifico": "Punica granatum L.",
+    "familia": "Lythraceae",
+    "localColeta": "Região do Mediterrâneo",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Punica_granatum_fruit.JPG",
+    "descricao": "Fruto rico em antioxidantes, consumido fresco e em sucos."
+  },
+  {
+    "nomePopular": "Sálvia",
+    "nomeCientifico": "Salvia officinalis L.",
+    "familia": "Lamiaceae",
+    "localColeta": "Região Mediterrânea",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Salvia_officinalis_Leaves.jpg",
+    "descricao": "Planta medicinal e culinária usada para tratar inflamações."
+  },
+  {
+    "nomePopular": "Tomilho",
+    "nomeCientifico": "Thymus vulgaris L.",
+    "familia": "Lamiaceae",
+    "localColeta": "Região Mediterrânea",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/0/01/Thymus_vulgaris_1.jpg",
+    "descricao": "Erva aromática usada na culinária e medicina tradicional."
+  },
+  {
+    "nomePopular": "Uva",
+    "nomeCientifico": "Vitis vinifera L.",
+    "familia": "Vitaceae",
+    "localColeta": "Região Mediterrânea",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Vitis_vinifera_fruit.JPG",
+    "descricao": "Fruto usado para consumo fresco, sucos e produção de vinho."
+  },
+  {
+    "nomePopular": "Vassourinha",
+    "nomeCientifico": "Scoparia dulcis L.",
+    "familia": "Plantaginaceae",
+    "localColeta": "América Tropical",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Scoparia_dulcis.jpg",
+    "descricao": "Planta medicinal usada para problemas digestivos e inflamações."
+  },
+  {
+    "nomePopular": "Vitex",
+    "nomeCientifico": "Vitex agnus-castus L.",
+    "familia": "Lamiaceae",
+    "localColeta": "Região Mediterrânea e Ásia",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/1/13/Vitex_agnus-castus_Leaves.jpg",
+    "descricao": "Planta usada para regular o ciclo menstrual e tratar sintomas femininos."
+  },
+  {
+    "nomePopular": "Aroeira",
+    "nomeCientifico": "Schinus terebinthifolia Raddi",
+    "familia": "Anacardiaceae",
+    "localColeta": "Brasil",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Schinus_terebinthifolius_Leaves.JPG",
+    "descricao": "Árvore usada em medicina tradicional e para extração de óleo-resina."
+  },
+  {
+    "nomePopular": "Babosa-do-campo",
+    "nomeCientifico": "Aloe arborescens Mill.",
+    "familia": "Asphodelaceae",
+    "localColeta": "África do Sul",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Aloe_arborescens_01.jpg",
+    "descricao": "Planta suculenta usada para cicatrização e hidratação da pele."
+  },
+  {
+    "nomePopular": "Barbatimão",
+    "nomeCientifico": "Stryphnodendron adstringens (Mart.) Coville",
+    "familia": "Fabaceae",
+    "localColeta": "Brasil",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Stryphnodendron_adstringens_bark.jpg",
+    "descricao": "Casca usada para tratamento de feridas e inflamações."
+  },
+  {
+    "nomePopular": "Bergamoteira",
+    "nomeCientifico": "Citrus bergamia Risso",
+    "familia": "Rutaceae",
+    "localColeta": "Sul da Itália",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Citrus_bergamia_Bergamot_orange.jpg",
+    "descricao": "Fruto usado em perfumaria e aromaterapia."
+  },
+  {
+    "nomePopular": "Bétula",
+    "nomeCientifico": "Betula pendula Roth",
+    "familia": "Betulaceae",
+    "localColeta": "Europa e Ásia",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Betula_pendula_leaves_and_bark.jpg",
+    "descricao": "Árvore usada em fitoterapia e para extração de seiva."
+  },
+  {
+    "nomePopular": "Camomila",
+    "nomeCientifico": "Matricaria chamomilla L.",
+    "familia": "Asteraceae",
+    "localColeta": "Europa e Ásia",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/5/59/Matricaria_chamomilla_inflorescences.JPG",
+    "descricao": "Flor usada em chás para acalmar e auxiliar na digestão."
+  },
+  {
+    "nomePopular": "Capim-santo",
+    "nomeCientifico": "Cymbopogon citratus (DC.) Stapf",
+    "familia": "Poaceae",
+    "localColeta": "Ásia Tropical",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/1/16/Cymbopogon_citratus_Leaves.jpg",
+    "descricao": "Planta aromática usada para chás relaxantes e culinária."
+  },
+  {
+    "nomePopular": "Carqueja-doce",
+    "nomeCientifico": "Baccharis genistelloides (Lam.) Pers.",
+    "familia": "Asteraceae",
+    "localColeta": "América do Sul",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/2/22/Baccharis_trimera1.jpg",
+    "descricao": "Planta medicinal para problemas digestivos e hepáticos."
+  },
+  {
+    "nomePopular": "Chá-de-bugre",
+    "nomeCientifico": "Cordia salicifolia Cham.",
+    "familia": "Boraginaceae",
+    "localColeta": "Brasil",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/2/29/Cordia_salicifolia.jpg",
+    "descricao": "Usado para auxiliar na perda de peso e diurético."
+  },
+  {
+    "nomePopular": "Chá-de-cidreira",
+    "nomeCientifico": "Melissa officinalis L.",
+    "familia": "Lamiaceae",
+    "localColeta": "Europa e Ásia Ocidental",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/5/58/Melissa_officinalis_Leaves.jpg",
+    "descricao": "Chá usado para relaxar e ajudar no sono."
+  },
+  {
+    "nomePopular": "Chá-de-mulher",
+    "nomeCientifico": "Pfaffia paniculata (Mart.) Kuntze",
+    "familia": "Amaranthaceae",
+    "localColeta": "Brasil",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Pfaffia_paniculata.jpg",
+    "descricao": "Usado tradicionalmente para melhorar a saúde feminina."
+  },
+  {
+    "nomePopular": "Chia",
+    "nomeCientifico": "Salvia hispanica L.",
+    "familia": "Lamiaceae",
+    "localColeta": "México e Guatemala",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Salvia_hispanica_Leaves.jpg",
+    "descricao": "Semente rica em ômega-3 e fibras."
+  },
+  {
+    "nomePopular": "Chicória",
+    "nomeCientifico": "Cichorium intybus L.",
+    "familia": "Asteraceae",
     "localColeta": "Europa",
-    "descricao": "Planta aromática usada para chás e temperos.",
-    "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Mentha_piperita_leaf.JPG/320px-Mentha_piperita_leaf.JPG"
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/6/67/Cichorium_intybus_-_Köhler–s_Medizinal-Pflanzen-045.jpg",
+    "descricao": "Raiz usada como substituto do café e para problemas digestivos."
+  },
+  {
+    "nomePopular": "Chuchu",
+    "nomeCientifico": "Sechium edule (Jacq.) Sw.",
+    "familia": "Cucurbitaceae",
+    "localColeta": "América Central e do Sul",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Sechium_edule_fruit.JPG",
+    "descricao": "Fruto muito usado na culinária, rico em fibras."
+  },
+  {
+    "nomePopular": "Cidreira",
+    "nomeCientifico": "Cymbopogon citratus (DC.) Stapf",
+    "familia": "Poaceae",
+    "localColeta": "Ásia Tropical",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/1/16/Cymbopogon_citratus_Leaves.jpg",
+    "descricao": "Planta usada em chás para propriedades calmantes."
+  },
+  {
+    "nomePopular": "Coentro",
+    "nomeCientifico": "Coriandrum sativum L.",
+    "familia": "Apiaceae",
+    "localColeta": "Oriente Médio e Sul da Europa",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Coriandrum_sativum_Leaves.jpg",
+    "descricao": "Erva aromática usada em culinária e medicina popular."
+  },
+  {
+    "nomePopular": "Confrei",
+    "nomeCientifico": "Symphytum officinale L.",
+    "familia": "Boraginaceae",
+    "localColeta": "Europa",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/2/29/Symphytum_officinale_Leaves.jpg",
+    "descricao": "Planta medicinal para cicatrização e alívio de dores."
+  },
+  {
+    "nomePopular": "Copaíba",
+    "nomeCientifico": "Copaifera langsdorffii Desf.",
+    "familia": "Fabaceae",
+    "localColeta": "Brasil",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Copaifera_langsdorffii.jpg",
+    "descricao": "Óleo-resina com propriedades anti-inflamatórias e cicatrizantes."
+  },
+  {
+    "nomePopular": "Curcuma",
+    "nomeCientifico": "Curcuma longa L.",
+    "familia": "Zingiberaceae",
+    "localColeta": "Sul da Ásia",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Curcuma_longa_-_Köhler–s_Medizinal-Pflanzen-034.jpg",
+    "descricao": "Raiz usada como tempero e com propriedades medicinais."
+  },
+  {
+    "nomePopular": "Erva-baleeira",
+    "nomeCientifico": "Cordia verbenacea DC.",
+    "familia": "Boraginaceae",
+    "localColeta": "Brasil",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Cordia_verbenacea_-_Cordia_verbenacea.jpg",
+    "descricao": "Planta medicinal usada para tratar inflamações e dores."
+  },
+  {
+    "nomePopular": "Erva-cidreira",
+    "nomeCientifico": "Melissa officinalis L.",
+    "familia": "Lamiaceae",
+    "localColeta": "Europa e Ásia",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/5/58/Melissa_officinalis_Leaves.jpg",
+    "descricao": "Usada para aliviar ansiedade e insônia em chás."
+  },
+  {
+    "nomePopular": "Erva-doce",
+    "nomeCientifico": "Foeniculum vulgare Mill.",
+    "familia": "Apiaceae",
+    "localColeta": "Europa e Ásia",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/1/11/Foeniculum_vulgare_Inflorescence.JPG",
+    "descricao": "Sementes usadas para problemas digestivos."
+  },
+  {
+    "nomePopular": "Erva-mate",
+    "nomeCientifico": "Ilex paraguariensis A.St.-Hil.",
+    "familia": "Aquifoliaceae",
+    "localColeta": "Brasil, Paraguai, Argentina",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/7/72/Ilex_paraguariensis_Leaves.jpg",
+    "descricao": "Folhas usadas para preparo do chá mate."
+  },
+  {
+    "nomePopular": "Espinheira-santa",
+    "nomeCientifico": "Maytenus ilicifolia Mart. ex Reissek",
+    "familia": "Celastraceae",
+    "localColeta": "Brasil",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Maytenus_ilicifolia_Leaves.jpg",
+    "descricao": "Planta medicinal usada para tratar problemas gástricos."
+  },
+  {
+    "nomePopular": "Funcho",
+    "nomeCientifico": "Foeniculum vulgare Mill.",
+    "familia": "Apiaceae",
+    "localColeta": "Europa e Ásia",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/1/11/Foeniculum_vulgare_Inflorescence.JPG",
+    "descricao": "Usado para aliviar cólicas e melhorar digestão."
+  },
+  {
+    "nomePopular": "Gengibre",
+    "nomeCientifico": "Zingiber officinale Roscoe",
+    "familia": "Zingiberaceae",
+    "localColeta": "Ásia Tropical",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/4/43/Zingiber_officinale_01.JPG",
+    "descricao": "Raiz usada na culinária e para tratar náuseas e inflamações."
+  },
+  {
+    "nomePopular": "Guaraná",
+    "nomeCientifico": "Paullinia cupana Kunth",
+    "familia": "Sapindaceae",
+    "localColeta": "Região Amazônica",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Paullinia_cupana_fruit.JPG",
+    "descricao": "Semente usada como estimulante natural."
+  },
+  {
+    "nomePopular": "Hortelã",
+    "nomeCientifico": "Mentha spicata L.",
+    "familia": "Lamiaceae",
+    "localColeta": "Europa e Ásia",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/3/37/Mentha_spicata_Leaves.jpg",
+    "descricao": "Erva aromática usada para chás e culinária."
+  },
+  {
+    "nomePopular": "Ipê-roxo",
+    "nomeCientifico": "Handroanthus impetiginosus (Mart. ex DC.) Mattos",
+    "familia": "Bignoniaceae",
+    "localColeta": "Brasil",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Handroanthus_impetiginosus_flower.jpg",
+    "descricao": "Árvore ornamental com flores roxas vibrantes."
+  },
+  {
+    "nomePopular": "Jabuticaba",
+    "nomeCientifico": "Plinia cauliflora (Mart.) Kausel",
+    "familia": "Myrtaceae",
+    "localColeta": "Brasil",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Plinia_cauliflora_fruits.jpg",
+    "descricao": "Fruto típico brasileiro consumido fresco ou em doces."
+  },
+  {
+    "nomePopular": "Jatobá-do-cerrado",
+    "nomeCientifico": "Hymenaea stigonocarpa Mart.",
+    "familia": "Fabaceae",
+    "localColeta": "Brasil",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Hymenaea_courbaril_fruit.jpg",
+    "descricao": "Árvore com frutos comestíveis usados em alimentação."
+  },
+  {
+    "nomePopular": "Lírio-do-brejo",
+    "nomeCientifico": "Hedychium coronarium J.König",
+    "familia": "Zingiberaceae",
+    "localColeta": "Sul da Ásia",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/6/69/Hedychium_coronarium_flower.jpg",
+    "descricao": "Planta ornamental com flores brancas perfumadas."
+  },
+  {
+    "nomePopular": "Linhaça",
+    "nomeCientifico": "Linum usitatissimum L.",
+    "familia": "Linaceae",
+    "localColeta": "Região Mediterrânea",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Linum_usitatissimum_flower.jpg",
+    "descricao": "Semente rica em fibras e ácidos graxos essenciais."
+  },
+  {
+    "nomePopular": "Louro",
+    "nomeCientifico": "Laurus nobilis L.",
+    "familia": "Lauraceae",
+    "localColeta": "Região Mediterrânea",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Laurus_nobilis_leaves.jpg",
+    "descricao": "Folhas usadas como tempero e em rituais."
+  },
+  {
+    "nomePopular": "Macela",
+    "nomeCientifico": "Achyrocline satureioides (Lam.) DC.",
+    "familia": "Asteraceae",
+    "localColeta": "América do Sul",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Achyrocline_satureioides_Inflorescences.jpg",
+    "descricao": "Flor usada para chás calmantes e anti-inflamatórios."
+  },
+  {
+    "nomePopular": "Mamona",
+    "nomeCientifico": "Ricinus communis L.",
+    "familia": "Euphorbiaceae",
+    "localColeta": "África",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Ricinus_communis_-_Köhler–s_Medizinal-Pflanzen-095.jpg",
+    "descricao": "Planta usada para extração de óleo com propriedades medicinais."
+  },
+  {
+    "nomePopular": "Manjericão-roxo",
+    "nomeCientifico": "Ocimum tenuiflorum L.",
+    "familia": "Lamiaceae",
+    "localColeta": "Ásia Tropical",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/4/43/Ocimum_tenuiflorum.jpg",
+    "descricao": "Variedade de manjericão com folhas arroxeadas, usada em culinária e rituais."
+  },
+  {
+    "nomePopular": "Maracujá-doce",
+    "nomeCientifico": "Passiflora alata Curtis",
+    "familia": "Passifloraceae",
+    "localColeta": "América do Sul",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Passiflora_alata_flower.jpg",
+    "descricao": "Fruto com sabor doce e aromático, usado em sucos e sobremesas."
+  },
+  {
+    "nomePopular": "Marapuama",
+    "nomeCientifico": "Ptychopetalum olacoides Benth.",
+    "familia": "Olacaceae",
+    "localColeta": "Amazônia",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Ptychopetalum_olacoides.jpg",
+    "descricao": "Planta medicinal usada para melhorar a energia e concentração."
+  },
+  {
+    "nomePopular": "Marmeleiro",
+    "nomeCientifico": "Cydonia oblonga Mill.",
+    "familia": "Rosaceae",
+    "localColeta": "Região Mediterrânea e Ásia",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/9/94/Cydonia_oblonga_fruit.jpg",
+    "descricao": "Fruto usado em compotas e doces."
+  },
+  {
+    "nomePopular": "Matricária",
+    "nomeCientifico": "Matricaria chamomilla L.",
+    "familia": "Asteraceae",
+    "localColeta": "Europa e Ásia",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/5/59/Matricaria_chamomilla_inflorescences.JPG",
+    "descricao": "Flor usada em chás calmantes e anti-inflamatórios."
+  },
+  {
+    "nomePopular": "Melão",
+    "nomeCientifico": "Cucumis melo L.",
+    "familia": "Cucurbitaceae",
+    "localColeta": "África e Ásia",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Cucumis_melo_fruit.jpg",
+    "descricao": "Fruto doce consumido fresco e em sucos."
+  },
+  {
+    "nomePopular": "Mimosa",
+    "nomeCientifico": "Mimosa pudica L.",
+    "familia": "Fabaceae",
+    "localColeta": "América do Sul",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Mimosa_pudica_flower.jpg",
+    "descricao": "Planta sensível que fecha suas folhas ao toque."
+  },
+  {
+    "nomePopular": "Mil-folhas",
+    "nomeCientifico": "Achillea millefolium L.",
+    "familia": "Asteraceae",
+    "localColeta": "Europa e Ásia",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Achillea_millefolium_01.jpg",
+    "descricao": "Planta usada para tratar feridas e problemas digestivos."
+  },
+  {
+    "nomePopular": "Noni",
+    "nomeCientifico": "Morinda citrifolia L.",
+    "familia": "Rubiaceae",
+    "localColeta": "Regiões tropicais do Pacífico",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Morinda_citrifolia_fruit.jpg",
+    "descricao": "Fruto usado em medicina tradicional e suplementos."
+  },
+  {
+    "nomePopular": "Nogueira",
+    "nomeCientifico": "Juglans regia L.",
+    "familia": "Juglandaceae",
+    "localColeta": "Europa e Ásia",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Juglans_regia_-_Köhler–s_Medizinal-Pflanzen-129.jpg",
+    "descricao": "Árvore que produz nozes comestíveis."
+  },
+  {
+    "nomePopular": "Oriente",
+    "nomeCientifico": "Cyperus rotundus L.",
+    "familia": "Cyperaceae",
+    "localColeta": "Regiões tropicais",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Cyperus_rotundus.jpg",
+    "descricao": "Planta usada em fitoterapia para tratar inflamações."
+  },
+  {
+    "nomePopular": "Palma",
+    "nomeCientifico": "Opuntia ficus-indica (L.) Mill.",
+    "familia": "Cactaceae",
+    "localColeta": "México",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Opuntia_ficus-indica.jpg",
+    "descricao": "Cacto com frutos comestíveis chamados figos-da-índia."
+  },
+  {
+    "nomePopular": "Pau-brasil",
+    "nomeCientifico": "Paubrasilia echinata (Lam.) Wild.",
+    "familia": "Fabaceae",
+    "localColeta": "Brasil",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/1/13/Paubrasilia_echinata.jpg",
+    "descricao": "Árvore símbolo do Brasil, usada para madeira e pigmentos."
+  },
+  {
+    "nomePopular": "Pau-terra",
+    "nomeCientifico": "Qualea parviflora Mart.",
+    "familia": "Vochysiaceae",
+    "localColeta": "Brasil",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Qualea_parviflora.jpg",
+    "descricao": "Árvore usada em reflorestamento e madeira."
+  },
+  {
+    "nomePopular": "Pitangueira",
+    "nomeCientifico": "Eugenia uniflora L.",
+    "familia": "Myrtaceae",
+    "localColeta": "Brasil",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Eugenia_uniflora_fruit.jpg",
+    "descricao": "Fruto comestível muito usado em sucos e doces."
+  },
+  {
+    "nomePopular": "Pimenta-do-reino",
+    "nomeCientifico": "Piper nigrum L.",
+    "familia": "Piperaceae",
+    "localColeta": "Índia",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Piper_nigrum_fruits.jpg",
+    "descricao": "Especiaria muito usada para temperar alimentos."
+  },
+  {
+    "nomePopular": "Quebra-pedra",
+    "nomeCientifico": "Phyllanthus niruri L.",
+    "familia": "Phyllanthaceae",
+    "localColeta": "Regiões tropicais",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/7/70/Phyllanthus_niruri.jpg",
+    "descricao": "Planta medicinal para problemas renais e urinários."
+  },
+  {
+    "nomePopular": "Rabo-de-galo",
+    "nomeCientifico": "Ptilotus spathulatus (R.Br.) Poir.",
+    "familia": "Amaranthaceae",
+    "localColeta": "Austrália",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/9/98/Ptilotus_spathulatus.jpg",
+    "descricao": "Planta ornamental com flores diferentes e vistosas."
+  },
+  {
+    "nomePopular": "Rosa-do-deserto",
+    "nomeCientifico": "Adenium obesum (Forssk.) Roem. & Schult.",
+    "familia": "Apocynaceae",
+    "localColeta": "África",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Adenium_obesum_flower.jpg",
+    "descricao": "Planta suculenta com flores vistosas, popular como ornamental."
+  },
+  {
+    "nomePopular": "Romãzeira",
+    "nomeCientifico": "Punica granatum L.",
+    "familia": "Lythraceae",
+    "localColeta": "Região do Mediterrâneo",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Punica_granatum_fruit.JPG",
+    "descricao": "Fruto rico em antioxidantes, consumido fresco e em sucos."
+  },
+  {
+    "nomePopular": "Sálvia",
+    "nomeCientifico": "Salvia officinalis L.",
+    "familia": "Lamiaceae",
+    "localColeta": "Região Mediterrânea",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Salvia_officinalis_Leaves.jpg",
+    "descricao": "Planta medicinal e culinária usada para tratar inflamações."
+  },
+  {
+    "nomePopular": "Samambaia",
+    "nomeCientifico": "Nephrolepis exaltata (L.) Schott",
+    "familia": "Nephrolepidaceae",
+    "localColeta": "América Tropical",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Nephrolepis_exaltata_foliage.jpg",
+    "descricao": "Planta ornamental comum em interiores."
+  },
+  {
+    "nomePopular": "Serralha",
+    "nomeCientifico": "Sonchus oleraceus L.",
+    "familia": "Asteraceae",
+    "localColeta": "Regiões temperadas",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Sonchus_oleraceus_flower.JPG",
+    "descricao": "Planta comestível usada em saladas e pratos regionais."
+  },
+  {
+    "nomePopular": "Sibipiruna",
+    "nomeCientifico": "Poincianella pluviosa (DC.) L.P.Queiroz",
+    "familia": "Fabaceae",
+    "localColeta": "Brasil",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/4/48/Poincianella_pluviosa_flower.jpg",
+    "descricao": "Árvore ornamental com flores amarelas."
+  },
+  {
+    "nomePopular": "Tomate",
+    "nomeCientifico": "Solanum lycopersicum L.",
+    "familia": "Solanaceae",
+    "localColeta": "América Central",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/8/89/Tomato_je.jpg",
+    "descricao": "Fruto muito consumido fresco e em preparações culinárias."
+  },
+  {
+    "nomePopular": "Trevo",
+    "nomeCientifico": "Trifolium repens L.",
+    "familia": "Fabaceae",
+    "localColeta": "Europa",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Trifolium_repens_Leaves.jpg",
+    "descricao": "Planta herbácea usada em pastagens e como planta simbólica."
+  },
+  {
+    "nomePopular": "Urtiga",
+    "nomeCientifico": "Urtica dioica L.",
+    "familia": "Urticaceae",
+    "localColeta": "Regiões temperadas",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Urtica_dioica_Leaves.JPG",
+    "descricao": "Planta usada em medicina tradicional para alergias e dores."
+  },
+  {
+    "nomePopular": "Valeriana",
+    "nomeCientifico": "Valeriana officinalis L.",
+    "familia": "Caprifoliaceae",
+    "localColeta": "Europa e Ásia",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/1/18/Valeriana_officinalis_Leaves.jpg",
+    "descricao": "Planta usada para aliviar ansiedade e insônia."
+  },
+  {
+    "nomePopular": "Verbena",
+    "nomeCientifico": "Verbena officinalis L.",
+    "familia": "Verbenaceae",
+    "localColeta": "Europa e Ásia",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Verbena_officinalis_inflorescences.jpg",
+    "descricao": "Usada em chás para propriedades calmantes."
+  },
+  {
+    "nomePopular": "Vincapervinca",
+    "nomeCientifico": "Catharanthus roseus (L.) G.Don",
+    "familia": "Apocynaceae",
+    "localColeta": "Madagascar",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/6/69/Catharanthus_roseus_01.JPG",
+    "descricao": "Planta medicinal usada para tratamento de câncer."
+  },
+  {
+    "nomePopular": "Zimbro",
+    "nomeCientifico": "Juniperus communis L.",
+    "familia": "Cupressaceae",
+    "localColeta": "Hemisfério Norte",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/6/69/Juniperus_communis_fruits.JPG",
+    "descricao": "Frutos usados para temperos e bebidas alcoólicas."
+  },
+
+  {
+    "nomePopular": "Abacateiro",
+    "nomeCientifico": "Persea americana Mill.",
+    "familia": "Lauraceae",
+    "localColeta": "México e América Central",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Persea_americana_fruits.JPG",
+    "descricao": "Árvore frutífera que produz o abacate, rico em gorduras saudáveis."
+  },{
+    "nomePopular": "Amora",
+    "nomeCientifico": "Rubus fruticosus L.",
+    "familia": "Rosaceae",
+    "localColeta": "Região Sudeste",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Rubus_fruticosus_Blackberry_fruit.jpg/320px-Rubus_fruticosus_Blackberry_fruit.jpg"
+  },
+  {
+    "nomePopular": "Arbusto-de-ouro",
+    "nomeCientifico": "Duranta erecta L.",
+    "familia": "Verbenaceae",
+    "localColeta": "Região Sudeste",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Duranta_erecta_Jardin_Botanico_Montevideo.jpg/320px-Duranta_erecta_Jardin_Botanico_Montevideo.jpg"
+  },
+  {
+    "nomePopular": "Babosa",
+    "nomeCientifico": "Aloe vera (L.) Burm.f.",
+    "familia": "Asphodelaceae",
+    "localColeta": "Região Nordeste",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Aloe_vera_flower.JPG/320px-Aloe_vera_flower.JPG"
+  },
+  {
+    "nomePopular": "Bálsamo",
+    "nomeCientifico": "Myroxylon balsamum",
+    "familia": "Fabaceae",
+    "localColeta": "Região Norte",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Myroxylon_balsamum.jpg/320px-Myroxylon_balsamum.jpg"
+  },
+  {
+    "nomePopular": "Barbatimão",
+    "nomeCientifico": "Stryphnodendron adstringens (Mart.) Coville",
+    "familia": "Fabaceae",
+    "localColeta": "Região Centro-Oeste",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Stryphnodendron_adstringens.jpg/320px-Stryphnodendron_adstringens.jpg"
+  },
+  {
+    "nomePopular": "Bardana",
+    "nomeCientifico": "Arctium lappa L.",
+    "familia": "Asteraceae",
+    "localColeta": "Região Sul",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Arctium_lappa_02.JPG/320px-Arctium_lappa_02.JPG"
+  },
+  {
+    "nomePopular": "Boldo",
+    "nomeCientifico": "Peumus boldus Molina",
+    "familia": "Monimiaceae",
+    "localColeta": "Região Sul",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Peumus_boldus2.jpg/320px-Peumus_boldus2.jpg"
+  },
+  {
+    "nomePopular": "Brinco-de-princesa",
+    "nomeCientifico": "Fuchsia magellanica",
+    "familia": "Onagraceae",
+    "localColeta": "Região Sul",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Fuchsia_magellanica_flower2.jpg/320px-Fuchsia_magellanica_flower2.jpg"
+  },
+  {
+    "nomePopular": "Café",
+    "nomeCientifico": "Coffea arabica L.",
+    "familia": "Rubiaceae",
+    "localColeta": "Região Sudeste",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Coffea_arabica_flower.jpg/320px-Coffea_arabica_flower.jpg"
+  },
+  {
+    "nomePopular": "Camomila",
+    "nomeCientifico": "Matricaria chamomilla L.",
+    "familia": "Asteraceae",
+    "localColeta": "Região Sul",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Chamomile-flower-heads.JPG/320px-Chamomile-flower-heads.JPG"
+  },
+  {
+    "nomePopular": "Acerola",
+    "nomeCientifico": "Malpighia emarginata DC.",
+    "familia": "Malpighiaceae",
+    "localColeta": "América Tropical",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Malpighia_emarginata_01.jpg",
+    "descricao": "Fruto rico em vitamina C, consumido fresco ou em sucos."
+  },
+  {
+    "nomePopular": "Agave",
+    "nomeCientifico": "Agave americana L.",
+    "familia": "Asparagaceae",
+    "localColeta": "México e sul dos EUA",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/8/87/Agave_americana_-_Köhler–s_Medizinal-Pflanzen-006.jpg",
+    "descricao": "Planta suculenta usada para produção de fibras e bebidas."
+  },
+  {
+    "nomePopular": "Alfazema",
+    "nomeCientifico": "Lavandula angustifolia Mill.",
+    "familia": "Lamiaceae",
+    "localColeta": "Região Mediterrânea",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Lavandula_angustifolia_2008-05-23_002.jpg",
+    "descricao": "Planta aromática usada em perfumaria e aromaterapia."
+  },
+  {
+    "nomePopular": "Alface",
+    "nomeCientifico": "Lactuca sativa L.",
+    "familia": "Asteraceae",
+    "localColeta": "Oriente Médio",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Lettuce_1_Luc_Viatour.jpg",
+    "descricao": "Verdura muito consumida em saladas."
+  },
+  {
+    "nomePopular": "Alho",
+    "nomeCientifico": "Allium sativum L.",
+    "familia": "Amaryllidaceae",
+    "localColeta": "Ásia Central",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Allium_sativum_%28Garlic%29.JPG",
+    "descricao": "Bulbo usado como condimento e com propriedades medicinais."
+  },
+  {
+    "nomePopular": "Amor-perfeito",
+    "nomeCientifico": "Viola tricolor L.",
+    "familia": "Violaceae",
+    "localColeta": "Europa",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Viola_tricolor_flower.JPG",
+    "descricao": "Flor ornamental com diversas cores vibrantes."
+  },
+  {
+    "nomePopular": "Andiroba",
+    "nomeCientifico": "Carapa guianensis Aubl.",
+    "familia": "Meliaceae",
+    "localColeta": "Amazônia",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Carapa_guianensis_fruit_and_leaves.jpg",
+    "descricao": "Árvore com óleo usado em medicina tradicional e cosméticos."
+  },
+  {
+    "nomePopular": "Araucária",
+    "nomeCientifico": "Araucaria angustifolia (Bertol.) Kuntze",
+    "familia": "Araucariaceae",
+    "localColeta": "Sul do Brasil",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Araucaria_angustifolia_cones.jpg",
+    "descricao": "Árvore símbolo do Paraná, produtora de pinhão."
+  },
+  {
+    "nomePopular": "Arnica",
+    "nomeCientifico": "Arnica montana L.",
+    "familia": "Asteraceae",
+    "localColeta": "Europa",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/9/90/Arnica_montana_01.jpg",
+    "descricao": "Flor usada em pomadas para tratar contusões e dores."
+  },
+  {
+    "nomePopular": "Arruda",
+    "nomeCientifico": "Ruta graveolens L.",
+    "familia": "Rutaceae",
+    "localColeta": "Europa e Norte da África",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Ruta_graveolens_002.JPG",
+    "descricao": "Planta usada popularmente para afastar energias negativas."
+  },
+  {
+    "nomePopular": "Babosa",
+    "nomeCientifico": "Aloe vera (L.) Burm.f.",
+    "familia": "Asphodelaceae",
+    "localColeta": "Região do Mediterrâneo",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Aloe_vera_flower.JPG",
+    "descricao": "Planta suculenta usada para cicatrização e hidratação."
+  },
+  {
+    "nomePopular": "Bacaba",
+    "nomeCientifico": "Oenocarpus bacaba Mart.",
+    "familia": "Arecaceae",
+    "localColeta": "Amazônia",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Oenocarpus_bacaba_fruits.jpg",
+    "descricao": "Fruto usado na culinária regional e bebidas."
+  },
+  {
+    "nomePopular": "Bálsamo",
+    "nomeCientifico": "Myroxylon balsamum (L.) Harms",
+    "familia": "Fabaceae",
+    "localColeta": "América Central e do Sul",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/4/42/Myroxylon_balsamum_fruit.jpg",
+    "descricao": "Árvore que produz resina usada em perfumaria e medicina."
+  },
+  {
+    "nomePopular": "Barbatimão",
+    "nomeCientifico": "Stryphnodendron adstringens (Mart.) Coville",
+    "familia": "Fabaceae",
+    "localColeta": "Brasil",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Stryphnodendron_adstringens_bark.jpg",
+    "descricao": "Casca usada para tratamento de feridas e inflamações."
+  },
+  {
+    "nomePopular": "Barbados Cherry",
+    "nomeCientifico": "Malpighia glabra L.",
+    "familia": "Malpighiaceae",
+    "localColeta": "Caribe",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Malpighia_glabra_02.jpg",
+    "descricao": "Fruto rico em vitamina C consumido fresco ou em sucos."
+  },
+  {
+    "nomePopular": "Bardana",
+    "nomeCientifico": "Arctium lappa L.",
+    "familia": "Asteraceae",
+    "localColeta": "Europa e Ásia",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Arctium_lappa_-_Köhler–s_Medizinal-Pflanzen-021.jpg",
+    "descricao": "Raiz usada para desintoxicação e problemas de pele."
+  },
+  {
+    "nomePopular": "Boldo-do-chile",
+    "nomeCientifico": "Peumus boldus Molina",
+    "familia": "Monimiaceae",
+    "localColeta": "Chile",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Peumus_boldus_-_Köhler–s_Medizinal-Pflanzen-023.jpg",
+    "descricao": "Folhas usadas para auxiliar na digestão e fígado."
+  },
+  {
+    "nomePopular": "Buriti",
+    "nomeCientifico": "Mauritia flexuosa L.f.",
+    "familia": "Arecaceae",
+    "localColeta": "Brasil",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/7/74/Mauritia_flexuosa_%28fruit%29.jpg",
+    "descricao": "Palmeira que produz frutos ricos em vitamina A."
+  },
+  {
+    "nomePopular": "Café",
+    "nomeCientifico": "Coffea arabica L.",
+    "familia": "Rubiaceae",
+    "localColeta": "Etiópia",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Coffea_arabica_berry.jpg",
+    "descricao": "Grão usado para produção da bebida mais consumida no mundo."
+  },
+  {
+    "nomePopular": "Calêndula",
+    "nomeCientifico": "Calendula officinalis L.",
+    "familia": "Asteraceae",
+    "localColeta": "Europa",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/5/58/Calendula_officinalis.jpg",
+    "descricao": "Flor usada em cosméticos e pomadas cicatrizantes."
+  },
+  {
+    "nomePopular": "Camomila",
+    "nomeCientifico": "Matricaria chamomilla L.",
+    "familia": "Asteraceae",
+    "localColeta": "Europa e Ásia",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/5/59/Matricaria_chamomilla_inflorescences.JPG",
+    "descricao": "Flor usada para chás calmantes e digestivos."
+  },
+  {
+    "nomePopular": "Canela",
+    "nomeCientifico": "Cinnamomum verum J.Presl",
+    "familia": "Lauraceae",
+    "localColeta": "Sri Lanka",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Cinnamomum_verum_-_Köhler–s_Medizinal-Pflanzen-028.jpg",
+    "descricao": "Casca usada como tempero e com propriedades medicinais."
+  },
+  {
+    "nomePopular": "Capim-limão",
+    "nomeCientifico": "Cymbopogon citratus (DC.) Stapf",
+    "familia": "Poaceae",
+    "localColeta": "Ásia Tropical",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/1/16/Cymbopogon_citratus_Leaves.jpg",
+    "descricao": "Planta aromática usada para chás e aromaterapia."
+  },
+  {
+    "nomePopular": "Carqueja",
+    "nomeCientifico": "Baccharis trimera (Less.) DC.",
+    "familia": "Asteraceae",
+    "localColeta": "América do Sul",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/2/22/Baccharis_trimera1.jpg",
+    "descricao": "Planta medicinal usada para problemas digestivos e fígado."
+  },
+  {
+    "nomePopular": "Cavalinha",
+    "nomeCientifico": "Equisetum arvense L.",
+    "familia": "Equisetaceae",
+    "localColeta": "Regiões temperadas",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Equisetum_arvense_2009-05-21.JPG",
+    "descricao": "Planta usada para tratar problemas urinários e de pele."
+  },
+  {
+    "nomePopular": "Chá-verde",
+    "nomeCientifico": "Camellia sinensis (L.) Kuntze",
+    "familia": "Theaceae",
+    "localColeta": "China e Índia",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Camellia_sinensis_Leaves.JPG",
+    "descricao": "Folhas usadas para preparar chá rico em antioxidantes."
+  },
+  {
+    "nomePopular": "Chuchu",
+    "nomeCientifico": "Sechium edule (Jacq.) Sw.",
+    "familia": "Cucurbitaceae",
+    "localColeta": "América Central e do Sul",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Sechium_edule_fruit.JPG",
+    "descricao": "Fruto usado na culinária, rico em fibras."
+  },
+  {
+    "nomePopular": "Coentro",
+    "nomeCientifico": "Coriandrum sativum L.",
+    "familia": "Apiaceae",
+    "localColeta": "Oriente Médio e Sul da Europa",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Coriandrum_sativum_Leaves.jpg",
+    "descricao": "Erva aromática usada em culinária e medicina popular."
+  },
+  {
+    "nomePopular": "Confrei",
+    "nomeCientifico": "Symphytum officinale L.",
+    "familia": "Boraginaceae",
+    "localColeta": "Europa",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/2/29/Symphytum_officinale_Leaves.jpg",
+    "descricao": "Planta medicinal para cicatrização e alívio de dores."
+  },
+  {
+    "nomePopular": "Copaíba",
+    "nomeCientifico": "Copaifera langsdorffii Desf.",
+    "familia": "Fabaceae",
+    "localColeta": "Brasil",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Copaifera_langsdorffii.jpg",
+    "descricao": "Óleo-resina com propriedades anti-inflamatórias e cicatrizantes."
+  },
+  {
+    "nomePopular": "Curcuma",
+    "nomeCientifico": "Curcuma longa L.",
+    "familia": "Zingiberaceae",
+    "localColeta": "Sul da Ásia",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/5/57/Curcuma_longa_-_Köhler–s_Medizinal-Pflanzen-027.jpg",
+    "descricao": "Raiz usada como especiaria e com propriedades medicinais."
+  },
+  {
+    "nomePopular": "Dente-de-leão",
+    "nomeCientifico": "Taraxacum officinale Weber",
+    "familia": "Asteraceae",
+    "localColeta": "Regiões temperadas",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/6/68/Taraxacum_officinale_Leaves.jpg",
+    "descricao": "Planta com flores amarelas usadas para desintoxicação."
+  },
+  {
+    "nomePopular": "Erva-doce",
+    "nomeCientifico": "Foeniculum vulgare Mill.",
+    "familia": "Apiaceae",
+    "localColeta": "Região Mediterrânea",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/7/72/Foeniculum_vulgare_Leaves.jpg",
+    "descricao": "Semente usada para chás digestivos e temperos."
+  },
+  {
+    "nomePopular": "Erva-mate",
+    "nomeCientifico": "Ilex paraguariensis A.St.-Hil.",
+    "familia": "Aquifoliaceae",
+    "localColeta": "América do Sul",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Ilex_paraguariensis_-_Köhler–s_Medizinal-Pflanzen-051.jpg",
+    "descricao": "Folha usada para preparar o chimarrão tradicional."
+  },
+  {
+    "nomePopular": "Espinheira-santa",
+    "nomeCientifico": "Maytenus ilicifolia Mart. ex Reissek",
+    "familia": "Celastraceae",
+    "localColeta": "Brasil",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Maytenus_ilicifolia.jpg",
+    "descricao": "Planta medicinal usada para problemas digestivos."
+  },
+  {
+    "nomePopular": "Espinheiro-branco",
+    "nomeCientifico": "Crataegus monogyna Jacq.",
+    "familia": "Rosaceae",
+    "localColeta": "Europa e Ásia",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Crataegus_monogyna_fruits.jpg",
+    "descricao": "Frutos usados para saúde cardíaca."
+  },
+  {
+    "nomePopular": "Erva-cidreira",
+    "nomeCientifico": "Melissa officinalis L.",
+    "familia": "Lamiaceae",
+    "localColeta": "Europa e Ásia",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Melissa_officinalis_Leaves.jpg",
+    "descricao": "Planta usada em chás para ansiedade e insônia."
+  },
+  {
+    "nomePopular": "Fumo-bravo",
+    "nomeCientifico": "Nicotiana rustica L.",
+    "familia": "Solanaceae",
+    "localColeta": "América do Sul",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Nicotiana_rustica_flower.jpg",
+    "descricao": "Planta usada para tabaco tradicional e rituais."
+  },
+  {
+    "nomePopular": "Gengibre",
+    "nomeCientifico": "Zingiber officinale Roscoe",
+    "familia": "Zingiberaceae",
+    "localColeta": "Ásia Tropical",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Zingiber_officinale_Rhizome.jpg",
+    "descricao": "Raiz usada como condimento e em remédios naturais."
+  },
+  {
+    "nomePopular": "Goiabeira",
+    "nomeCientifico": "Psidium guajava L.",
+    "familia": "Myrtaceae",
+    "localColeta": "América Tropical",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Psidium_guajava_fruit.jpg",
+    "descricao": "Fruto comestível usado em sucos e doces."
+  },
+  {
+    "nomePopular": "Guaraná",
+    "nomeCientifico": "Paullinia cupana Kunth",
+    "familia": "Sapindaceae",
+    "localColeta": "Amazônia",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Paullinia_cupana_fruit.jpg",
+    "descricao": "Semente usada em bebidas energéticas e suplementos."
+  },
+  {
+    "nomePopular": "Hortelã",
+    "nomeCientifico": "Mentha spicata L.",
+    "familia": "Lamiaceae",
+    "localColeta": "Europa e Ásia",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/4/48/Mentha_spicata_Leaves.jpg",
+    "descricao": "Erva aromática usada em chás e culinária."
+  },
+  {
+    "nomePopular": "Ipê-amarelo",
+    "nomeCientifico": "Handroanthus albus (Cham.) Mattos",
+    "familia": "Bignoniaceae",
+    "localColeta": "Brasil",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/1/10/Handroanthus_albus_flower.jpg",
+    "descricao": "Árvore ornamental com flores amarelas vibrantes."
+  },
+  {
+    "nomePopular": "Jabuticaba",
+    "nomeCientifico": "Plinia cauliflora (Mart.) Kausel",
+    "familia": "Myrtaceae",
+    "localColeta": "Brasil",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/8/82/Plinia_cauliflora_fruits.jpg",
+    "descricao": "Fruto típico brasileiro, com casca escura e polpa doce."
+  },
+  {
+    "nomePopular": "Jatobá",
+    "nomeCientifico": "Hymenaea courbaril L.",
+    "familia": "Fabaceae",
+    "localColeta": "América Tropical",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Hymenaea_courbaril_fruit.jpg",
+    "descricao": "Árvore que produz fruto comestível e madeira resistente."
+  },
+  {
+    "nomePopular": "Jenipapo",
+    "nomeCientifico": "Genipa americana L.",
+    "familia": "Rubiaceae",
+    "localColeta": "América Tropical",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/1/19/Genipa_americana_fruit.jpg",
+    "descricao": "Fruto usado em tinturas e bebidas."
+  },
+  {
+    "nomePopular": "Jussara",
+    "nomeCientifico": "Euterpe edulis Mart.",
+    "familia": "Arecaceae",
+    "localColeta": "Brasil",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/4/44/Euterpe_edulis_fruits.jpg",
+    "descricao": "Palmeira que produz frutos comestíveis muito usados."
+  },
+  {
+    "nomePopular": "Lavanda",
+    "nomeCientifico": "Lavandula dentata L.",
+    "familia": "Lamiaceae",
+    "localColeta": "Região Mediterrânea",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/2/20/Lavandula_dentata_flower.jpg",
+    "descricao": "Planta aromática usada em perfumes e chás."
+  },
+  {
+    "nomePopular": "Lírio",
+    "nomeCientifico": "Lilium candidum L.",
+    "familia": "Liliaceae",
+    "localColeta": "Europa e Ásia",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Lilium_candidum_2011.jpg",
+    "descricao": "Flor ornamental muito cultivada."
+  },
+  {
+    "nomePopular": "Louro",
+    "nomeCientifico": "Laurus nobilis L.",
+    "familia": "Lauraceae",
+    "localColeta": "Região Mediterrânea",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Laurus_nobilis_leaves.jpg",
+    "descricao": "Folhas usadas como tempero e em rituais."
+  },
+  {
+    "nomePopular": "Magnólia",
+    "nomeCientifico": "Magnolia grandiflora L.",
+    "familia": "Magnoliaceae",
+    "localColeta": "América do Norte",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Magnolia_grandiflora_flower.jpg",
+    "descricao": "Árvore ornamental com flores grandes e perfumadas."
+  },
+  {
+    "nomePopular": "Malva",
+    "nomeCientifico": "Malva sylvestris L.",
+    "familia": "Malvaceae",
+    "localColeta": "Europa e Ásia",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Malva_sylvestris_01.jpg",
+    "descricao": "Planta medicinal usada para tratar inflamações e tosse."
+  },
+  {
+    "nomePopular": "Mamona",
+    "nomeCientifico": "Ricinus communis L.",
+    "familia": "Euphorbiaceae",
+    "localColeta": "África",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Ricinus_communis_-_Köhler–s_Medizinal-Pflanzen-095.jpg",
+    "descricao": "Planta usada para extração de óleo com propriedades medicinais."
+  },
+  {
+    "nomePopular": "Manjericão",
+    "nomeCientifico": "Ocimum basilicum L.",
+    "familia": "Lamiaceae",
+    "localColeta": "Ásia Tropical",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/4/40/Ocimum_basilicum_leaves.jpg",
+    "descricao": "Erva aromática usada em culinária."
+  },
+  {
+    "nomePopular": "Maracujá",
+    "nomeCientifico": "Passiflora edulis Sims",
+    "familia": "Passifloraceae",
+    "localColeta": "América Tropical",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Passiflora_edulis_1.jpg",
+    "descricao": "Fruto com sabor azedo usado em sucos e doces."
+  },
+  {
+    "nomePopular": "Marmeleiro",
+    "nomeCientifico": "Cydonia oblonga Mill.",
+    "familia": "Rosaceae",
+    "localColeta": "Região Mediterrânea",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/9/94/Cydonia_oblonga_fruit.jpg",
+    "descricao": "Fruto usado em compotas e doces."
+  },
+  {
+    "nomePopular": "Mil-folhas",
+    "nomeCientifico": "Achillea millefolium L.",
+    "familia": "Asteraceae",
+    "localColeta": "Europa e Ásia",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Achillea_millefolium_01.jpg",
+    "descricao": "Planta usada para tratar feridas e problemas digestivos."
+  },
+  {
+    "nomePopular": "Mimosa",
+    "nomeCientifico": "Mimosa pudica L.",
+    "familia": "Fabaceae",
+    "localColeta": "América do Sul",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Mimosa_pudica_flower.jpg",
+    "descricao": "Planta sensível que fecha suas folhas ao toque."
+  },
+  {
+    "nomePopular": "Noni",
+    "nomeCientifico": "Morinda citrifolia L.",
+    "familia": "Rubiaceae",
+    "localColeta": "Regiões tropicais do Pacífico",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Morinda_citrifolia_fruit.jpg",
+    "descricao": "Fruto usado em medicina tradicional e suplementos."
   },
   {
     "nomePopular": "Orquídea",
     "nomeCientifico": "Orchidaceae",
     "familia": "Orchidaceae",
-    "localColeta": "Mundo todo",
-    "descricao": "Família diversa de plantas ornamentais muito apreciadas.",
-    "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Orchidaceae_-_Phalaenopsis_1.jpg/320px-Orchidaceae_-_Phalaenopsis_1.jpg"
+    "localColeta": "Regiões tropicais",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Orchidaceae_flowers.jpg",
+    "descricao": "Família de plantas com flores muito variadas e ornamentais."
+  },
+  {
+    "nomePopular": "Palmeira-juçara",
+    "nomeCientifico": "Euterpe edulis Mart.",
+    "familia": "Arecaceae",
+    "localColeta": "Brasil",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/4/44/Euterpe_edulis_fruits.jpg",
+    "descricao": "Palmeira que produz frutos comestíveis muito usados."
   },
   {
     "nomePopular": "Pau-brasil",
-    "nomeCientifico": "Paubrasilia echinata",
+    "nomeCientifico": "Paubrasilia echinata (Lam.) Wild.",
     "familia": "Fabaceae",
     "localColeta": "Brasil",
-    "descricao": "Árvore símbolo nacional do Brasil, madeira de cor avermelhada.",
-    "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Paubrasilia_echinata_%28pau-brasil%29.JPG/320px-Paubrasilia_echinata_%28pau-brasil%29.JPG"
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/1/13/Paubrasilia_echinata.jpg",
+    "descricao": "Árvore símbolo do Brasil, usada para madeira e pigmentos."
   },
   {
-    "nomePopular": "Pimenta",
-    "nomeCientifico": "Piper nigrum",
-    "familia": "Piperaceae",
-    "localColeta": "Índia",
-    "descricao": "Planta trepadeira cujos frutos são usados como especiaria.",
-    "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Peppercorns.jpg/320px-Peppercorns.jpg"
-  },
-  {
-    "nomePopular": "Pitanga",
-    "nomeCientifico": "Eugenia uniflora",
+    "nomePopular": "Pitangueira",
+    "nomeCientifico": "Eugenia uniflora L.",
     "familia": "Myrtaceae",
     "localColeta": "Brasil",
-    "descricao": "Arbusto frutífero com frutos vermelhos e sabor ácido.",
-    "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Eugenia_uniflora_fruits.jpg/320px-Eugenia_uniflora_fruits.jpg"
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Eugenia_uniflora_fruit.jpg",
+    "descricao": "Fruto comestível muito usado em sucos e doces."
   },
   {
-    "nomePopular": "Tomate",
-    "nomeCientifico": "Solanum lycopersicum",
-    "familia": "Solanaceae",
-    "localColeta": "América do Sul",
-    "descricao": "Planta cultivada para o fruto comestível amplamente utilizado.",
-    "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Tomato_je.jpg/320px-Tomato_je.jpg"
+    "nomePopular": "Quebra-pedra",
+    "nomeCientifico": "Phyllanthus niruri L.",
+    "familia": "Phyllanthaceae",
+    "localColeta": "Regiões tropicais",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Phyllanthus_niruri.jpg",
+    "descricao": "Planta usada para tratamento de problemas renais."
+  },
+  {
+    "nomePopular": "Romã",
+    "nomeCientifico": "Punica granatum L.",
+    "familia": "Lythraceae",
+    "localColeta": "Região Mediterrânea",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Punica_granatum_fruit.jpg",
+    "descricao": "Fruto com sementes vermelhas consumidas frescas ou sucos."
+  },
+  {
+    "nomePopular": "Salsa",
+    "nomeCientifico": "Petroselinum crispum (Mill.) A.W.Hill",
+    "familia": "Apiaceae",
+    "localColeta": "Europa e Ásia",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Petroselinum_crispum_Leaves.jpg",
+    "descricao": "Erva aromática usada como tempero."
+  },
+  {
+    "nomePopular": "Sambucus",
+    "nomeCientifico": "Sambucus nigra L.",
+    "familia": "Adoxaceae",
+    "localColeta": "Europa e América do Norte",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Sambucus_nigra_fruit.jpg",
+    "descricao": "Frutos usados em chás e suplementos."
+  },
+  {
+    "nomePopular": "Sândalo",
+    "nomeCientifico": "Santalum album L.",
+    "familia": "Santalaceae",
+    "localColeta": "Índia e Indonésia",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Santalum_album_bark_and_wood.jpg",
+    "descricao": "Madeira aromática usada em incensos e perfumes."
+  },
+  {
+    "nomePopular": "Tomilho",
+    "nomeCientifico": "Thymus vulgaris L.",
+    "familia": "Lamiaceae",
+    "localColeta": "Região Mediterrânea",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/2/21/Thymus_vulgaris_Leaves.jpg",
+    "descricao": "Erva aromática usada em culinária e medicina popular."
   },
   {
     "nomePopular": "Uva",
-    "nomeCientifico": "Vitis vinifera",
+    "nomeCientifico": "Vitis vinifera L.",
     "familia": "Vitaceae",
-    "localColeta": "Mediterrâneo",
-    "descricao": "Videira cultivada para frutos usados em consumo e vinho.",
-    "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Vitis_vinifera_grapes.jpg/320px-Vitis_vinifera_grapes.jpg"
+    "localColeta": "Região Mediterrânea",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Vitis_vinifera_fruits.jpg",
+    "descricao": "Fruto usado para consumo fresco e produção de vinhos."
+  },
+  {
+    "nomePopular": "Urucum",
+    "nomeCientifico": "Bixa orellana L.",
+    "familia": "Bixaceae",
+    "localColeta": "América Tropical",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Bixa_orellana_fruit.jpg",
+    "descricao": "Fruto usado como corante natural e tempero."
+  },
+  {
+    "nomePopular": "Vitória-régia",
+    "nomeCientifico": "Victoria amazonica (Poepp.) J.C.Sowerby",
+    "familia": "Nymphaeaceae",
+    "localColeta": "Amazônia",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/5/58/Victoria_amazonica_leaf.jpg",
+    "descricao": "Maior planta aquática com folhas flutuantes gigantes."
+  },{
+    "nomePopular": "Caneleira",
+    "nomeCientifico": "Cinnamomum verum",
+    "familia": "Lauraceae",
+    "localColeta": "Região Sudeste",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Cinnamomum_verum_cinnamon_bark.jpg/320px-Cinnamomum_verum_cinnamon_bark.jpg"
+  },
+  {
+    "nomePopular": "Capim-limão",
+    "nomeCientifico": "Cymbopogon citratus",
+    "familia": "Poaceae",
+    "localColeta": "Região Nordeste",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Cymbopogon_citratus_01.jpg/320px-Cymbopogon_citratus_01.jpg"
+  },
+  {
+    "nomePopular": "Carqueja",
+    "nomeCientifico": "Baccharis trimera",
+    "familia": "Asteraceae",
+    "localColeta": "Região Sul",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Baccharis_trimera.jpg/320px-Baccharis_trimera.jpg"
+  },
+  {
+    "nomePopular": "Castanha-do-pará",
+    "nomeCientifico": "Bertholletia excelsa",
+    "familia": "Lecythidaceae",
+    "localColeta": "Região Norte",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Bertholletia_excelsa_fruit.JPG/320px-Bertholletia_excelsa_fruit.JPG"
+  },
+  {
+    "nomePopular": "Catuaba",
+    "nomeCientifico": "Erythroxylum catuaba",
+    "familia": "Erythroxylaceae",
+    "localColeta": "Região Norte",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Erythroxylum_catuaba_leaves.jpg/320px-Erythroxylum_catuaba_leaves.jpg"
+  },
+  {
+    "nomePopular": "Chá-verde",
+    "nomeCientifico": "Camellia sinensis",
+    "familia": "Theaceae",
+    "localColeta": "Região Sul",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Camellia_sinensis.jpg/320px-Camellia_sinensis.jpg"
+  },
+  {
+    "nomePopular": "Chá-mate",
+    "nomeCientifico": "Ilex paraguariensis",
+    "familia": "Aquifoliaceae",
+    "localColeta": "Região Sul",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Ilex_paraguariensis_Leaves_1.jpg/320px-Ilex_paraguariensis_Leaves_1.jpg"
+  },
+  {
+    "nomePopular": "Chá-de-bugre",
+    "nomeCientifico": "Cordia salicifolia",
+    "familia": "Boraginaceae",
+    "localColeta": "Região Sudeste",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Cordia_salicifolia_leaf.jpg/320px-Cordia_salicifolia_leaf.jpg"
+  },
+  {
+    "nomePopular": "Chá-de-erva-doce",
+    "nomeCientifico": "Pimpinella anisum",
+    "familia": "Apiaceae",
+    "localColeta": "Região Sudeste",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Pimpinella_anisum_001.jpg/320px-Pimpinella_anisum_001.jpg"
+  },
+  {
+    "nomePopular": "Chá-de-cipó",
+    "nomeCientifico": "Aristolochia cymbifera",
+    "familia": "Aristolochiaceae",
+    "localColeta": "Região Norte",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Aristolochia_cymbifera.jpg/320px-Aristolochia_cymbifera.jpg"
+  },
+  {
+    "nomePopular": "Caneleira",
+    "nomeCientifico": "Cinnamomum verum",
+    "familia": "Lauraceae",
+    "localColeta": "Região Sudeste",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Cinnamomum_verum_cinnamon_bark.jpg/320px-Cinnamomum_verum_cinnamon_bark.jpg"
+  },
+  {
+    "nomePopular": "Capim-limão",
+    "nomeCientifico": "Cymbopogon citratus",
+    "familia": "Poaceae",
+    "localColeta": "Região Nordeste",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Cymbopogon_citratus_01.jpg/320px-Cymbopogon_citratus_01.jpg"
+  },
+  {
+    "nomePopular": "Carqueja",
+    "nomeCientifico": "Baccharis trimera",
+    "familia": "Asteraceae",
+    "localColeta": "Região Sul",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Baccharis_trimera.jpg/320px-Baccharis_trimera.jpg"
+  },
+  {
+    "nomePopular": "Castanha-do-pará",
+    "nomeCientifico": "Bertholletia excelsa",
+    "familia": "Lecythidaceae",
+    "localColeta": "Região Norte",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Bertholletia_excelsa_fruit.JPG/320px-Bertholletia_excelsa_fruit.JPG"
+  },
+  {
+    "nomePopular": "Catuaba",
+    "nomeCientifico": "Erythroxylum catuaba",
+    "familia": "Erythroxylaceae",
+    "localColeta": "Região Norte",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Erythroxylum_catuaba_leaves.jpg/320px-Erythroxylum_catuaba_leaves.jpg"
+  },
+  {
+    "nomePopular": "Chá-verde",
+    "nomeCientifico": "Camellia sinensis",
+    "familia": "Theaceae",
+    "localColeta": "Região Sul",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Camellia_sinensis.jpg/320px-Camellia_sinensis.jpg"
+  },
+  {
+    "nomePopular": "Chá-mate",
+    "nomeCientifico": "Ilex paraguariensis",
+    "familia": "Aquifoliaceae",
+    "localColeta": "Região Sul",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Ilex_paraguariensis_Leaves_1.jpg/320px-Ilex_paraguariensis_Leaves_1.jpg"
+  },
+  {
+    "nomePopular": "Chá-de-bugre",
+    "nomeCientifico": "Cordia salicifolia",
+    "familia": "Boraginaceae",
+    "localColeta": "Região Sudeste",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Cordia_salicifolia_leaf.jpg/320px-Cordia_salicifolia_leaf.jpg"
+  },
+  {
+    "nomePopular": "Chá-de-erva-doce",
+    "nomeCientifico": "Pimpinella anisum",
+    "familia": "Apiaceae",
+    "localColeta": "Região Sudeste",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Pimpinella_anisum_001.jpg/320px-Pimpinella_anisum_001.jpg"
+  },
+  {
+    "nomePopular": "Chá-de-cipó",
+    "nomeCientifico": "Aristolochia cymbifera",
+    "familia": "Aristolochiaceae",
+    "localColeta": "Região Norte",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Aristolochia_cymbifera.jpg/320px-Aristolochia_cymbifera.jpg"
+  },
+  {
+    "nomePopular": "Cipó-mil-homens",
+    "nomeCientifico": "Mikania glomerata",
+    "familia": "Asteraceae",
+    "localColeta": "Região Sul",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Mikania_glomerata.jpg/320px-Mikania_glomerata.jpg"
+  },
+  {
+    "nomePopular": "Cipó-cravo",
+    "nomeCientifico": "Arrabidaea chica",
+    "familia": "Bignoniaceae",
+    "localColeta": "Região Norte",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Arrabidaea_chica_Leaves_2.JPG/320px-Arrabidaea_chica_Leaves_2.JPG"
+  },
+  {
+    "nomePopular": "Confrei",
+    "nomeCientifico": "Symphytum officinale",
+    "familia": "Boraginaceae",
+    "localColeta": "Região Sul",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Symphytum_officinale2.jpg/320px-Symphytum_officinale2.jpg"
+  },
+  {
+    "nomePopular": "Copaíba",
+    "nomeCientifico": "Copaifera langsdorffii",
+    "familia": "Fabaceae",
+    "localColeta": "Região Centro-Oeste",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Copaifera_langsdorffii.jpg/320px-Copaifera_langsdorffii.jpg"
+  },
+  {
+    "nomePopular": "Dente-de-leão",
+    "nomeCientifico": "Taraxacum officinale",
+    "familia": "Asteraceae",
+    "localColeta": "Região Sudeste",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Taraxacum_officinale_wb.jpg/320px-Taraxacum_officinale_wb.jpg"
+  },
+  {
+    "nomePopular": "Espinheira-santa",
+    "nomeCientifico": "Maytenus ilicifolia",
+    "familia": "Celastraceae",
+    "localColeta": "Região Sul",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Maytenus_ilicifolia1.jpg/320px-Maytenus_ilicifolia1.jpg"
+  },
+  {
+    "nomePopular": "Erva-cidreira",
+    "nomeCientifico": "Melissa officinalis",
+    "familia": "Lamiaceae",
+    "localColeta": "Região Sudeste",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Melissa_officinalis_01.JPG/320px-Melissa_officinalis_01.JPG"
+  },
+  {
+    "nomePopular": "Erva-doce",
+    "nomeCientifico": "Foeniculum vulgare",
+    "familia": "Apiaceae",
+    "localColeta": "Região Sul",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Foeniculum_vulgare_001.JPG/320px-Foeniculum_vulgare_001.JPG"
+  },
+  {
+    "nomePopular": "Erva-mate",
+    "nomeCientifico": "Ilex paraguariensis",
+    "familia": "Aquifoliaceae",
+    "localColeta": "Região Sul",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Ilex_paraguariensis_Leaves_1.jpg/320px-Ilex_paraguariensis_Leaves_1.jpg"
+  },
+  {
+    "nomePopular": "Guaraná",
+    "nomeCientifico": "Paullinia cupana",
+    "familia": "Sapindaceae",
+    "localColeta": "Região Norte",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Paullinia_cupana_fruit_and_leaves.JPG/320px-Paullinia_cupana_fruit_and_leaves.JPG"
+  },
+  {
+    "nomePopular": "Gengibre",
+    "nomeCientifico": "Zingiber officinale",
+    "familia": "Zingiberaceae",
+    "localColeta": "Região Norte",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Zingiber_officinale_plant.jpg/320px-Zingiber_officinale_plant.jpg"
+  },
+  {
+    "nomePopular": "Guaco",
+    "nomeCientifico": "Mikania glomerata",
+    "familia": "Asteraceae",
+    "localColeta": "Região Sul",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Mikania_glomerata.jpg/320px-Mikania_glomerata.jpg"
+  },
+  {
+    "nomePopular": "Hortelã",
+    "nomeCientifico": "Mentha spicata",
+    "familia": "Lamiaceae",
+    "localColeta": "Região Sudeste",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Mentha_spicata_003.JPG/320px-Mentha_spicata_003.JPG"
+  },
+  {
+    "nomePopular": "Ipê-amarelo",
+    "nomeCientifico": "Handroanthus albus",
+    "familia": "Bignoniaceae",
+    "localColeta": "Região Centro-Oeste",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Handroanthus_albus_in_Brazil.jpg/320px-Handroanthus_albus_in_Brazil.jpg"
+  },
+  {
+    "nomePopular": "Jatobá",
+    "nomeCientifico": "Hymenaea courbaril",
+    "familia": "Fabaceae",
+    "localColeta": "Região Norte",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Hymenaea_courbaril_fruit.JPG/320px-Hymenaea_courbaril_fruit.JPG"
+  },
+  {
+    "nomePopular": "Jasmim",
+    "nomeCientifico": "Jasminum officinale",
+    "familia": "Oleaceae",
+    "localColeta": "Região Sul",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Jasminum_officinale_01.jpg/320px-Jasminum_officinale_01.jpg"
+  },
+  {
+    "nomePopular": "Louro",
+    "nomeCientifico": "Laurus nobilis",
+    "familia": "Lauraceae",
+    "localColeta": "Região Sudeste",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Laurus_nobilis_Leaves.JPG/320px-Laurus_nobilis_Leaves.JPG"
+  },
+  {
+    "nomePopular": "Malva",
+    "nomeCientifico": "Malva sylvestris",
+    "familia": "Malvaceae",
+    "localColeta": "Região Sul",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Malva_sylvestris_02.jpg/320px-Malva_sylvestris_02.jpg"
+  },
+  {
+    "nomePopular": "Maracujá",
+    "nomeCientifico": "Passiflora edulis",
+    "familia": "Passifloraceae",
+    "localColeta": "Região Nordeste",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Passiflora_edulis_2.jpg/320px-Passiflora_edulis_2.jpg"
+  },
+  {
+    "nomePopular": "Mate",
+    "nomeCientifico": "Ilex paraguariensis",
+    "familia": "Aquifoliaceae",
+    "localColeta": "Região Sul",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Ilex_paraguariensis_Leaves_1.jpg/320px-Ilex_paraguariensis_Leaves_1.jpg"
+  },
+  {
+    "nomePopular": "Melissa",
+    "nomeCientifico": "Melissa officinalis",
+    "familia": "Lamiaceae",
+    "localColeta": "Região Sudeste",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Melissa_officinalis_01.JPG/320px-Melissa_officinalis_01.JPG"
+  },
+  {
+    "nomePopular": "Mil-em-rama",
+    "nomeCientifico": "Achyrocline satureioides",
+    "familia": "Asteraceae",
+    "localColeta": "Região Sul",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Achyrocline_satureioides_flower.JPG/320px-Achyrocline_satureioides_flower.JPG"
+  },
+  {
+    "nomePopular": "Noni",
+    "nomeCientifico": "Morinda citrifolia",
+    "familia": "Rubiaceae",
+    "localColeta": "Região Norte",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Morinda_citrifolia_fruit_2.JPG/320px-Morinda_citrifolia_fruit_2.JPG"
+  },
+  {
+    "nomePopular": "Oliveira",
+    "nomeCientifico": "Olea europaea",
+    "familia": "Oleaceae",
+    "localColeta": "Região Sudeste",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Olea_europaea_-_Köhler–s_Medizinal-Pflanzen-089.jpg/320px-Olea_europaea_-_Köhler–s_Medizinal-Pflanzen-089.jpg"
+  },
+  {
+    "nomePopular": "Orégano",
+    "nomeCientifico": "Origanum vulgare",
+    "familia": "Lamiaceae",
+    "localColeta": "Região Sul",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Origanum_vulgare_01.JPG/320px-Origanum_vulgare_01.JPG"
+  },
+  {
+    "nomePopular": "Pata-de-vaca",
+    "nomeCientifico": "Bauhinia forficata",
+    "familia": "Fabaceae",
+    "localColeta": "Região Sudeste",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Bauhinia_forficata_flower.JPG/320px-Bauhinia_forficata_flower.JPG"
+  },
+  {
+    "nomePopular": "Pitangueira",
+    "nomeCientifico": "Eugenia uniflora",
+    "familia": "Myrtaceae",
+    "localColeta": "Região Sudeste",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Eugenia_uniflora_fruit.JPG/320px-Eugenia_uniflora_fruit.JPG"
+  },
+  {
+    "nomePopular": "Própolis",
+    "nomeCientifico": "Propolis",
+    "familia": "Várias famílias",
+    "localColeta": "Região Sul",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Propolis_bees.JPG/320px-Propolis_bees.JPG"
+  },
+  {
+    "nomePopular": "Rosa-do-campo",
+    "nomeCientifico": "Rosa centifolia",
+    "familia": "Rosaceae",
+    "localColeta": "Região Sudeste",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Rosa_centifolia_%281%29.jpg/320px-Rosa_centifolia_%281%29.jpg"
+  },
+  {
+    "nomePopular": "Sabugueiro",
+    "nomeCientifico": "Sambucus nigra",
+    "familia": "Adoxaceae",
+    "localColeta": "Região Sul",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Sambucus_nigra_berries.JPG/320px-Sambucus_nigra_berries.JPG"
+  },
+  {
+    "nomePopular": "Sálvia",
+    "nomeCientifico": "Salvia officinalis",
+    "familia": "Lamiaceae",
+    "localColeta": "Região Sudeste",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Salvia_officinalis_01.jpg/320px-Salvia_officinalis_01.jpg"
+  },
+  {
+    "nomePopular": "Serralha",
+    "nomeCientifico": "Sonchus oleraceus",
+    "familia": "Asteraceae",
+    "localColeta": "Região Sul",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Sonchus_oleraceus1.jpg/320px-Sonchus_oleraceus1.jpg"
+  },
+  {
+    "nomePopular": "Sibipiruna",
+    "nomeCientifico": "Poincianella pluviosa",
+    "familia": "Fabaceae",
+    "localColeta": "Região Sudeste",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Poincianella_pluviosa.jpg/320px-Poincianella_pluviosa.jpg"
+  },
+  {
+    "nomePopular": "Tanchagem",
+    "nomeCientifico": "Plantago major",
+    "familia": "Plantaginaceae",
+    "localColeta": "Região Sudeste",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Plantago_major_004.JPG/320px-Plantago_major_004.JPG"
+  },
+  {
+    "nomePopular": "Tomilho",
+    "nomeCientifico": "Thymus vulgaris",
+    "familia": "Lamiaceae",
+    "localColeta": "Região Sudeste",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Thymus_vulgaris_001.JPG/320px-Thymus_vulgaris_001.JPG"
+  },
+  {
+    "nomePopular": "Unha-de-gato",
+    "nomeCientifico": "Uncaria tomentosa",
+    "familia": "Rubiaceae",
+    "localColeta": "Região Norte",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Uncaria_tomentosa_Leaves.JPG/320px-Uncaria_tomentosa_Leaves.JPG"
   },
   {
     "nomePopular": "Vassourinha",
     "nomeCientifico": "Scoparia dulcis",
     "familia": "Plantaginaceae",
-    "localColeta": "Tropical América",
-    "descricao": "Planta medicinal usada para tratamento de várias doenças.",
-    "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Scoparia_dulcis_flower.jpg/320px-Scoparia_dulcis_flower.jpg"
+    "localColeta": "Região Sudeste",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Scoparia_dulcis.JPG/320px-Scoparia_dulcis.JPG"
   },
   {
-    "nomePopular": "Vitória-régia",
-    "nomeCientifico": "Victoria amazonica",
-    "familia": "Nymphaeaceae",
-    "localColeta": "Amazônia",
-    "descricao": "Planta aquática famosa por suas folhas enormes e flutuantes.",
-    "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Victoria_amazonica_01.JPG/320px-Victoria_amazonica_01.JPG"
+    "nomePopular": "Vitex",
+    "nomeCientifico": "Vitex agnus-castus",
+    "familia": "Lamiaceae",
+    "localColeta": "Região Sul",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Vitex_agnus-castus_01.jpg/320px-Vitex_agnus-castus_01.jpg"
+  },
+  {
+    "nomePopular": "Zimbro",
+    "nomeCientifico": "Juniperus communis",
+    "familia": "Cupressaceae",
+    "localColeta": "Região Sul",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Juniperus_communis_fruits.jpg/320px-Juniperus_communis_fruits.jpg"
+  },
+  {
+    "nomePopular": "Abiu",
+    "nomeCientifico": "Pouteria caimito",
+    "familia": "Sapotaceae",
+    "localColeta": "Região Norte",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Pouteria_caimito_fruits.jpg/320px-Pouteria_caimito_fruits.jpg"
+  },
+  {
+    "nomePopular": "Açafrão",
+    "nomeCientifico": "Crocus sativus",
+    "familia": "Iridaceae",
+    "localColeta": "Região Sul",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Crocus_sativus_-_Saffron_flower.JPG/320px-Crocus_sativus_-_Saffron_flower.JPG"
+  },
+  {
+    "nomePopular": "Agave",
+    "nomeCientifico": "Agave americana",
+    "familia": "Asparagaceae",
+    "localColeta": "Região Nordeste",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Agave_americana.JPG/320px-Agave_americana.JPG"
+  },
+  {
+    "nomePopular": "Alfavaca-roxa",
+    "nomeCientifico": "Ocimum basilicum 'Purpurascens'",
+    "familia": "Lamiaceae",
+    "localColeta": "Região Sudeste",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Ocimum_basilicum_Red_Leaf.jpg/320px-Ocimum_basilicum_Red_Leaf.jpg"
+  },
+  {
+    "nomePopular": "Alfavaca-do-campo",
+    "nomeCientifico": "Ocimum selloi",
+    "familia": "Lamiaceae",
+    "localColeta": "Região Centro-Oeste",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Ocimum_selloi.jpg/320px-Ocimum_selloi.jpg"
+  },
+  {
+    "nomePopular": "Amora",
+    "nomeCientifico": "Rubus fruticosus",
+    "familia": "Rosaceae",
+    "localColeta": "Região Sul",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Rubus_fruticosus_Blackberries.jpg/320px-Rubus_fruticosus_Blackberries.jpg"
+  },
+  {
+    "nomePopular": "Anis-estrelado",
+    "nomeCientifico": "Illicium verum",
+    "familia": "Schisandraceae",
+    "localColeta": "Região Sul",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Illicium_verum_fruits.jpg/320px-Illicium_verum_fruits.jpg"
+  },
+  {
+    "nomePopular": "Arnica",
+    "nomeCientifico": "Arnica montana",
+    "familia": "Asteraceae",
+    "localColeta": "Região Sul",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Arnica_montana_2012_08_12_09_04_54_1.jpg/320px-Arnica_montana_2012_08_12_09_04_54_1.jpg"
+  },
+  {
+    "nomePopular": "Arruda",
+    "nomeCientifico": "Ruta graveolens",
+    "familia": "Rutaceae",
+    "localColeta": "Região Sudeste",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Ruta_graveolens_-_Köhler–s_Medizinal-Pflanzen-092.jpg/320px-Ruta_graveolens_-_Köhler–s_Medizinal-Pflanzen-092.jpg"
+  },
+  {
+    "nomePopular": "Babosa",
+    "nomeCientifico": "Aloe vera",
+    "familia": "Asphodelaceae",
+    "localColeta": "Região Nordeste",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Aloe_vera_flower.JPG/320px-Aloe_vera_flower.JPG"
+  },
+  {
+    "nomePopular": "Boldo",
+    "nomeCientifico": "Peumus boldus",
+    "familia": "Monimiaceae",
+    "localColeta": "Região Sul",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Peumus_boldus_leaf.JPG/320px-Peumus_boldus_leaf.JPG"
+  },
+  {
+    "nomePopular": "Camomila",
+    "nomeCientifico": "Matricaria chamomilla",
+    "familia": "Asteraceae",
+    "localColeta": "Região Sul",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Chamomile_-_Matricaria_chamomilla.jpg/320px-Chamomile_-_Matricaria_chamomilla.jpg"
+  },
+  {
+    "nomePopular": "Canela-de-ema",
+    "nomeCientifico": "Vellozia squamata",
+    "familia": "Velloziaceae",
+    "localColeta": "Região Centro-Oeste",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Vellozia_squamata.jpg/320px-Vellozia_squamata.jpg"
+  },
+  {
+    "nomePopular": "Capim-cidreira",
+    "nomeCientifico": "Cymbopogon citratus",
+    "familia": "Poaceae",
+    "localColeta": "Região Nordeste",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Cymbopogon_citratus_01.jpg/320px-Cymbopogon_citratus_01.jpg"
+  },
+  {
+    "nomePopular": "Carqueja-branca",
+    "nomeCientifico": "Baccharis genistelloides",
+    "familia": "Asteraceae",
+    "localColeta": "Região Sul",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Baccharis_genistelloides.jpg/320px-Baccharis_genistelloides.jpg"
+  },
+  {
+    "nomePopular": "Catuaba-roxa",
+    "nomeCientifico": "Erythroxylum vaccinifolium",
+    "familia": "Erythroxylaceae",
+    "localColeta": "Região Norte",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Erythroxylum_vaccinifolium_leaves.jpg/320px-Erythroxylum_vaccinifolium_leaves.jpg"
+  },
+  {
+    "nomePopular": "Chapéu-de-couro",
+    "nomeCientifico": "Echinodorus grandiflorus",
+    "familia": "Alismataceae",
+    "localColeta": "Região Centro-Oeste",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Echinodorus_grandiflorus.jpg/320px-Echinodorus_grandiflorus.jpg"
+  },
+  {
+    "nomePopular": "Chá-de-erva-cidreira",
+    "nomeCientifico": "Melissa officinalis",
+    "familia": "Lamiaceae",
+    "localColeta": "Região Sudeste",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Melissa_officinalis_01.JPG/320px-Melissa_officinalis_01.JPG"
+  },
+  {
+    "nomePopular": "Chá-de-mulungu",
+    "nomeCientifico": "Erythrina mulungu",
+    "familia": "Fabaceae",
+    "localColeta": "Região Sudeste",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Erythrina_mulungu_flower.jpg/320px-Erythrina_mulungu_flower.jpg"
+  },
+  {
+    "nomePopular": "Chá-de-sílica",
+    "nomeCientifico": "Equisetum arvense",
+    "familia": "Equisetaceae",
+    "localColeta": "Região Sul",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Equisetum_arvense_Sporangium.jpg/320px-Equisetum_arvense_Sporangium.jpg"
+  },
+  {
+    "nomePopular": "Chá-verde-japonês",
+    "nomeCientifico": "Camellia sinensis",
+    "familia": "Theaceae",
+    "localColeta": "Região Sudeste",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Camellia_sinensis.jpg/320px-Camellia_sinensis.jpg"
+  },
+  {
+    "nomePopular": "Chá-vermelho",
+    "nomeCientifico": "Aspalathus linearis",
+    "familia": "Fabaceae",
+    "localColeta": "Região Sul",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Aspalathus_linearis.jpg/320px-Aspalathus_linearis.jpg"
+  },
+  {
+    "nomePopular": "Cidreira",
+    "nomeCientifico": "Cymbopogon citratus",
+    "familia": "Poaceae",
+    "localColeta": "Região Nordeste",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Cymbopogon_citratus_01.jpg/320px-Cymbopogon_citratus_01.jpg"
+  },
+  {
+    "nomePopular": "Damasco",
+    "nomeCientifico": "Prunus armeniaca",
+    "familia": "Rosaceae",
+    "localColeta": "Região Sul",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Prunus_armeniaca_fruit.JPG/320px-Prunus_armeniaca_fruit.JPG"
+  },
+  {
+    "nomePopular": "Erva-baleeira",
+    "nomeCientifico": "Cordia verbenacea",
+    "familia": "Boraginaceae",
+    "localColeta": "Região Sudeste",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Cordia_verbenacea.jpg/320px-Cordia_verbenacea.jpg"
+  },
+  {
+    "nomePopular": "Erva-doce-silvestre",
+    "nomeCientifico": "Foeniculum vulgare",
+    "familia": "Apiaceae",
+    "localColeta": "Região Sul",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Foeniculum_vulgare_001.JPG/320px-Foeniculum_vulgare_001.JPG"
+  },
+  {
+    "nomePopular": "Espinheira-santa-branca",
+    "nomeCientifico": "Maytenus ilicifolia",
+    "familia": "Celastraceae",
+    "localColeta": "Região Sul",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Maytenus_ilicifolia1.jpg/320px-Maytenus_ilicifolia1.jpg"
+  },
+  {
+    "nomePopular": "Guaco-amargo",
+    "nomeCientifico": "Mikania glomerata",
+    "familia": "Asteraceae",
+    "localColeta": "Região Sul",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Mikania_glomerata.jpg/320px-Mikania_glomerata.jpg"
+  },
+  {
+    "nomePopular": "Guaraná-do-mato",
+    "nomeCientifico": "Paullinia cupana",
+    "familia": "Sapindaceae",
+    "localColeta": "Região Norte",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Paullinia_cupana_fruit_and_leaves.JPG/320px-Paullinia_cupana_fruit_and_leaves.JPG"
+  },
+  {
+    "nomePopular": "Hortelã-pimenta",
+    "nomeCientifico": "Mentha piperita",
+    "familia": "Lamiaceae",
+    "localColeta": "Região Sudeste",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Mentha_piperita_plant.jpg/320px-Mentha_piperita_plant.jpg"
+  },
+  {
+    "nomePopular": "Ipê-roxo",
+    "nomeCientifico": "Handroanthus impetiginosus",
+    "familia": "Bignoniaceae",
+    "localColeta": "Região Centro-Oeste",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Handroanthus_impetiginosus.jpg/320px-Handroanthus_impetiginosus.jpg"
+  },
+  {
+    "nomePopular": "Jaborandi",
+    "nomeCientifico": "Pilocarpus microphyllus",
+    "familia": "Rutaceae",
+    "localColeta": "Região Norte",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Pilocarpus_microphyllus.JPG/320px-Pilocarpus_microphyllus.JPG"
+  },
+  {
+    "nomePopular": "Jatobazeiro",
+    "nomeCientifico": "Hymenaea stigonocarpa",
+    "familia": "Fabaceae",
+    "localColeta": "Região Centro-Oeste",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Hymenaea_stigonocarpa.JPG/320px-Hymenaea_stigonocarpa.JPG"
+  },
+  {
+    "nomePopular": "Jucá",
+    "nomeCientifico": "Libidibia ferrea",
+    "familia": "Fabaceae",
+    "localColeta": "Região Nordeste",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Libidibia_ferrea.jpg/320px-Libidibia_ferrea.jpg"
+  },
+  {
+    "nomePopular": "Lavanda",
+    "nomeCientifico": "Lavandula angustifolia",
+    "familia": "Lamiaceae",
+    "localColeta": "Região Sul",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Lavandula_angustifolia_1.jpg/320px-Lavandula_angustifolia_1.jpg"
+  },
+  {
+    "nomePopular": "Lírio-do-brejo",
+    "nomeCientifico": "Hedychium coronarium",
+    "familia": "Zingiberaceae",
+    "localColeta": "Região Norte",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Hedychium_coronarium.jpg/320px-Hedychium_coronarium.jpg"
+  },
+  {
+    "nomePopular": "Mamona",
+    "nomeCientifico": "Ricinus communis",
+    "familia": "Euphorbiaceae",
+    "localColeta": "Região Nordeste",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Ricinus_communis_Leaves.JPG/320px-Ricinus_communis_Leaves.JPG"
+  },
+  {
+    "nomePopular": "Manjericão",
+    "nomeCientifico": "Ocimum basilicum",
+    "familia": "Lamiaceae",
+    "localColeta": "Região Sudeste",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Ocimum_basilicum_01.jpg/320px-Ocimum_basilicum_01.jpg"
+  },
+  {
+    "nomePopular": "Maracujá-do-mato",
+    "nomeCientifico": "Passiflora cincinnata",
+    "familia": "Passifloraceae",
+    "localColeta": "Região Norte",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Passiflora_cincinnata.jpg/320px-Passiflora_cincinnata.jpg"
+  },
+  {
+    "nomePopular": "Marmeleiro",
+    "nomeCientifico": "Cydonia oblonga",
+    "familia": "Rosaceae",
+    "localColeta": "Região Sul",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Cydonia_oblonga_fruit.jpg/320px-Cydonia_oblonga_fruit.jpg"
+  },
+  {
+    "nomePopular": "Melissa",
+    "nomeCientifico": "Melissa officinalis",
+    "familia": "Lamiaceae",
+    "localColeta": "Região Sudeste",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Melissa_officinalis_01.JPG/320px-Melissa_officinalis_01.JPG"
+  },
+  {
+    "nomePopular": "Murici",
+    "nomeCientifico": "Byrsonima crassifolia",
+    "familia": "Malpighiaceae",
+    "localColeta": "Região Norte",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Byrsonima_crassifolia_fruits.JPG/320px-Byrsonima_crassifolia_fruits.JPG"
+  },
+  {
+    "nomePopular": "Nogueira",
+    "nomeCientifico": "Juglans regia",
+    "familia": "Juglandaceae",
+    "localColeta": "Região Sul",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Juglans_regia_-_Köhler–s_Medizinal-Pflanzen-116.jpg/320px-Juglans_regia_-_Köhler–s_Medizinal-Pflanzen-116.jpg"
+  },
+  {
+    "nomePopular": "Pequi",
+    "nomeCientifico": "Caryocar brasiliense",
+    "familia": "Caryocaraceae",
+    "localColeta": "Região Centro-Oeste",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Caryocar_brasiliense_fruit.jpg/320px-Caryocar_brasiliense_fruit.jpg"
+  },
+  {
+    "nomePopular": "Pitanga",
+    "nomeCientifico": "Eugenia uniflora",
+    "familia": "Myrtaceae",
+    "localColeta": "Região Sudeste",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Eugenia_uniflora_fruit.JPG/320px-Eugenia_uniflora_fruit.JPG"
+  },
+  {
+    "nomePopular": "Romã",
+    "nomeCientifico": "Punica granatum",
+    "familia": "Lythraceae",
+    "localColeta": "Região Sul",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Punica_granatum_fruit_and_tree.jpg/320px-Punica_granatum_fruit_and_tree.jpg"
+  },
+  {
+    "nomePopular": "Salsa",
+    "nomeCientifico": "Petroselinum crispum",
+    "familia": "Apiaceae",
+    "localColeta": "Região Sudeste",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Petroselinum_crispum2.jpg/320px-Petroselinum_crispum2.jpg"
+  },
+  {
+    "nomePopular": "Sálvia",
+    "nomeCientifico": "Salvia officinalis",
+    "familia": "Lamiaceae",
+    "localColeta": "Região Sudeste",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Salvia_officinalis_01.jpg/320px-Salvia_officinalis_01.jpg"
+  },
+  {
+    "nomePopular": "Seriguela",
+    "nomeCientifico": "Spondias purpurea",
+    "familia": "Anacardiaceae",
+    "localColeta": "Região Nordeste",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Spondias_purpurea_fruit.JPG/320px-Spondias_purpurea_fruit.JPG"
+  },
+  {
+    "nomePopular": "Serralha",
+    "nomeCientifico": "Sonchus oleraceus",
+    "familia": "Asteraceae",
+    "localColeta": "Região Sul",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Sonchus_oleraceus1.jpg/320px-Sonchus_oleraceus1.jpg"
+  },
+  {
+    "nomePopular": "Tanchagem",
+    "nomeCientifico": "Plantago major",
+    "familia": "Plantaginaceae",
+    "localColeta": "Região Sudeste",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Plantago_major_004.JPG/320px-Plantago_major_004.JPG"
+  },
+  {
+    "nomePopular": "Tomilho",
+    "nomeCientifico": "Thymus vulgaris",
+    "familia": "Lamiaceae",
+    "localColeta": "Região Sudeste",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Thymus_vulgaris_001.JPG/320px-Thymus_vulgaris_001.JPG"
+  },
+  {
+    "nomePopular": "Unha-de-gato",
+    "nomeCientifico": "Uncaria tomentosa",
+    "familia": "Rubiaceae",
+    "localColeta": "Região Norte",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Uncaria_tomentosa_Leaves.JPG/320px-Uncaria_tomentosa_Leaves.JPG"
+  },
+  {
+    "nomePopular": "Urucum",
+    "nomeCientifico": "Bixa orellana",
+    "familia": "Bixaceae",
+    "localColeta": "Região Norte",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Bixa_orellana_fruit.JPG/320px-Bixa_orellana_fruit.JPG"
+  },
+  {
+    "nomePopular": "Vassourinha",
+    "nomeCientifico": "Scoparia dulcis",
+    "familia": "Plantaginaceae",
+    "localColeta": "Região Sudeste",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Scoparia_dulcis.JPG/320px-Scoparia_dulcis.JPG"
+  },
+  {
+    "nomePopular": "Vitex",
+    "nomeCientifico": "Vitex agnus-castus",
+    "familia": "Lamiaceae",
+    "localColeta": "Região Sul",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Vitex_agnus-castus_01.jpg/320px-Vitex_agnus-castus_01.jpg"
+  },
+  {
+    "nomePopular": "Zimbro",
+    "nomeCientifico": "Juniperus communis",
+    "familia": "Cupressaceae",
+    "localColeta": "Região Sul",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Juniperus_communis_fruits.jpg/320px-Juniperus_communis_fruits.jpg"
   }
-]
-
 ]
