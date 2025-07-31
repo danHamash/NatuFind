@@ -96,11 +96,19 @@ function buscar() {
     const card = document.createElement("div");
     card.classList.add("card");
 
+    // Nome popular
     const h3 = document.createElement("h3");
     h3.classList.add("card__title");
     h3.textContent = planta.nome_popular;
     card.appendChild(h3);
 
+    // Nome científico
+    const cientifico = document.createElement("p");
+    cientifico.classList.add("card__scientific-name");
+    cientifico.textContent = planta.nome_cientifico;
+    card.appendChild(cientifico);
+
+    // Linha com imagem
     const linha = document.createElement("div");
     linha.classList.add("card__scientific-img");
 
@@ -112,11 +120,6 @@ function buscar() {
       img.classList.add("card__image");
       linha.appendChild(img);
     }
-
-    const cientifico = document.createElement("p");
-    cientifico.classList.add("card__scientific-name");
-    cientifico.textContent = planta.nome_cientifico;
-    linha.appendChild(cientifico);
 
     card.appendChild(linha);
 
