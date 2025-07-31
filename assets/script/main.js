@@ -24,18 +24,18 @@ input.addEventListener("input", () => {
 
   const filtradas = plantas.filter(
     (p) =>
-      p.nomePopular?.toLowerCase().includes(termo) ||
-      p.nomeCientifico?.toLowerCase().includes(termo) ||
-      p.localColeta?.toLowerCase().includes(termo)
+      p.nome_popular?.toLowerCase().includes(termo) ||
+      p.nome_cientifico?.toLowerCase().includes(termo) ||
+      p.familia?.toLowerCase().includes(termo)
   );
 
   if (filtradas.length > 0) {
     listaSugestoes.style.display = "block";
     filtradas.slice(0, 5).forEach((p) => {
       const li = document.createElement("li");
-      li.textContent = p.nomePopular;
+      li.textContent = p.nome_popular;
       li.addEventListener("click", () => {
-        input.value = p.nomePopular;
+        input.value = p.nome_popular;
         listaSugestoes.style.display = "none";
       });
       listaSugestoes.appendChild(li);
@@ -61,16 +61,16 @@ function buscar() {
 
   const filtradas = plantas.filter(
     (p) =>
-      p.nomePopular?.toLowerCase().includes(termo) ||
-      p.nomeCientifico?.toLowerCase().includes(termo) ||
-      p.localColeta?.toLowerCase().includes(termo)
+      p.nome_popular?.toLowerCase().includes(termo) ||
+      p.nome_cientifico?.toLowerCase().includes(termo) ||
+      p.familia?.toLowerCase().includes(termo)
   );
 
   // Esconde o container inicial e limpa resultados
   headerContainer.style.display = "none";
   headerContent.innerHTML = "";
 
-  // Cabeçalho resultados (fora do grid)
+  // Cabeçalho resultados
   const head = document.createElement("div");
   head.classList.add("header-results-header");
 
@@ -86,19 +86,19 @@ function buscar() {
   head.appendChild(span);
   headerContent.appendChild(head);
 
-  // Criar container para os cards (esse sim terá grid)
+  // Cards container
   const cardsContainer = document.createElement("div");
   cardsContainer.classList.add("cards-container");
   headerContent.appendChild(cardsContainer);
 
-  // Gerar os cards dentro do cardsContainer
+  // Criar os cards
   filtradas.forEach((planta) => {
     const card = document.createElement("div");
     card.classList.add("card");
 
     const h3 = document.createElement("h3");
     h3.classList.add("card__title");
-    h3.textContent = planta.nomePopular;
+    h3.textContent = planta.nome_popular;
     card.appendChild(h3);
 
     const linha = document.createElement("div");
@@ -106,52 +106,34 @@ function buscar() {
 
     const cientifico = document.createElement("p");
     cientifico.classList.add("card__scientific-name");
-    cientifico.textContent = planta.nomeCientifico;
-
-    const img = document.createElement("img");
-    img.classList.add("card__image");
-    img.src = planta.imagem;
-    img.alt = planta.nomePopular;
-
+    cientifico.textContent = planta.nome_cientifico;
     linha.appendChild(cientifico);
-    linha.appendChild(img);
+
     card.appendChild(linha);
 
-    const desc = document.createElement("p");
-    desc.classList.add("card__description");
-    desc.textContent = planta.descricao || "Sem descrição disponível.";
-    card.appendChild(desc);
-
-    // Linha final com SVGs de origem e família
+    // Família
     const bottom = document.createElement("div");
     bottom.classList.add("card__info");
-
-    const origemWrapper = document.createElement("div");
-    origemWrapper.classList.add("card__info-item");
-    origemWrapper.innerHTML = `
-      <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-map-pin h-4 w-4 text-primary">
-        <path d="M20 10c0 4.993-5.539 10.193-7.399 11.799a1 1 0 0 1-1.202 0C9.539 20.193 4 14.993 4 10a8 8 0 0 1 16 0"></path>
-        <circle cx="12" cy="10" r="3"></circle>
-      </svg>
-      <span class="card__origin">Origem: ${planta.localColeta}</span>
-    `;
 
     const familiaWrapper = document.createElement("div");
     familiaWrapper.classList.add("card__info-item");
     familiaWrapper.innerHTML = `
-      <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="card__icon">
+      <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" 
+        viewBox="0 0 24 24" fill="none" stroke="currentColor" 
+        stroke-width="2" stroke-linecap="round" stroke-linejoin="round" 
+        class="card__icon">
         <circle cx="12" cy="12" r="10"></circle>
         <path d="M12 16v-4"></path>
         <path d="M12 8h.01"></path>
       </svg>
-      <span class="card__family">Família: ${planta.familia ? planta.familia : "Não informado"}</span>
+      <span class="card__family">
+        Família: ${planta.familia ? planta.familia : "Não informado"}
+      </span>
     `;
 
-    bottom.appendChild(origemWrapper);
     bottom.appendChild(familiaWrapper);
     card.appendChild(bottom);
 
-    // Adiciona card no container
     cardsContainer.appendChild(card);
   });
 }
