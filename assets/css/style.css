@@ -182,8 +182,9 @@ font-style:italic ;
   align-items: flex-start;
 }
 .card__image{
-  max-width: 100%;
+  max-width: 80%;
   border-radius: 12px;
+  margin: 2rem auto;
 }
 .card__description{
   padding: .5rem 0 2rem;

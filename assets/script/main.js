@@ -104,6 +104,15 @@ function buscar() {
     const linha = document.createElement("div");
     linha.classList.add("card__scientific-img");
 
+    // Adiciona imagem se houver
+    if (planta.imagem) {
+      const img = document.createElement("img");
+      img.src = planta.imagem;
+      img.alt = planta.nome_popular;
+      img.classList.add("card__image");
+      linha.appendChild(img);
+    }
+
     const cientifico = document.createElement("p");
     cientifico.classList.add("card__scientific-name");
     cientifico.textContent = planta.nome_cientifico;
