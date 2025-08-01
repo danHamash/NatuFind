@@ -188,8 +188,8 @@ function buscar() {
         // SVG para cada categoria
         const svgIcon = document.createElementNS("http://www.w3.org/2000/svg", "svg");
         svgIcon.setAttribute("xmlns", "http://www.w3.org/2000/svg");
-        svgIcon.setAttribute("width", "18");
-        svgIcon.setAttribute("height", "18");
+        svgIcon.setAttribute("width", "15");
+        svgIcon.setAttribute("height", "15");
         svgIcon.setAttribute("viewBox", "0 0 24 24");
         svgIcon.setAttribute("fill", "none");
         svgIcon.setAttribute("stroke", "currentColor");
