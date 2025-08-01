@@ -129,23 +129,106 @@ function buscar() {
 
     const familiaWrapper = document.createElement("div");
     familiaWrapper.classList.add("card__info-item");
-    familiaWrapper.innerHTML = `
-      <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" 
-        viewBox="0 0 24 24" fill="none" stroke="currentColor" 
-        stroke-width="2" stroke-linecap="round" stroke-linejoin="round" 
-        class="card__icon">
-        <circle cx="12" cy="12" r="10"></circle>
-        <path d="M12 16v-4"></path>
-        <path d="M12 8h.01"></path>
-      </svg>
-      <span class="card__family">
-        Família: ${planta.familia ? planta.familia : "Não informado"}
-      </span>
-    `;
+
+    // SVG para Família
+    const svgIconFamilia = document.createElementNS("http://www.w3.org/2000/svg", "svg");
+    svgIconFamilia.setAttribute("xmlns", "http://www.w3.org/2000/svg");
+    svgIconFamilia.setAttribute("width", "18");
+    svgIconFamilia.setAttribute("height", "18");
+    svgIconFamilia.setAttribute("viewBox", "0 0 24 24");
+    svgIconFamilia.setAttribute("fill", "none");
+    svgIconFamilia.setAttribute("stroke", "currentColor");
+    svgIconFamilia.setAttribute("stroke-width", "2");
+    svgIconFamilia.setAttribute("stroke-linecap", "round");
+    svgIconFamilia.setAttribute("stroke-linejoin", "round");
+    svgIconFamilia.classList.add("card__icon");
+
+    const circleFam = document.createElementNS("http://www.w3.org/2000/svg", "circle");
+    circleFam.setAttribute("cx", "12");
+    circleFam.setAttribute("cy", "12");
+    circleFam.setAttribute("r", "10");
+    svgIconFamilia.appendChild(circleFam);
+
+    const path1Fam = document.createElementNS("http://www.w3.org/2000/svg", "path");
+    path1Fam.setAttribute("d", "M12 16v-4");
+    svgIconFamilia.appendChild(path1Fam);
+
+    const path2Fam = document.createElementNS("http://www.w3.org/2000/svg", "path");
+    path2Fam.setAttribute("d", "M12 8h.01");
+    svgIconFamilia.appendChild(path2Fam);
+
+    const labelFamilia = document.createElement("span");
+    labelFamilia.classList.add("card__label");
+    labelFamilia.textContent = "Família: ";
+
+    const valueFamilia = document.createElement("span");
+    valueFamilia.classList.add("card__value");
+    valueFamilia.textContent = planta.familia ? planta.familia : "Não informado";
+
+    familiaWrapper.appendChild(svgIconFamilia);
+    familiaWrapper.appendChild(labelFamilia);
+    familiaWrapper.appendChild(valueFamilia);
 
     bottom.appendChild(familiaWrapper);
-    card.appendChild(bottom);
 
+    // Categorias extras
+    const categorias = [
+      { chave: "reino", label: "Reino" },
+      { chave: "divisão", label: "Divisão" },
+      { chave: "classe", label: "Classe" },
+      { chave: "ordem", label: "Ordem" },
+      { chave: "género", label: "Gênero" },
+    ];
+
+    categorias.forEach(({ chave, label }) => {
+      if (planta[chave]) {
+        const divCat = document.createElement("div");
+        divCat.classList.add("card__info-item");
+
+        // SVG para cada categoria
+        const svgIcon = document.createElementNS("http://www.w3.org/2000/svg", "svg");
+        svgIcon.setAttribute("xmlns", "http://www.w3.org/2000/svg");
+        svgIcon.setAttribute("width", "18");
+        svgIcon.setAttribute("height", "18");
+        svgIcon.setAttribute("viewBox", "0 0 24 24");
+        svgIcon.setAttribute("fill", "none");
+        svgIcon.setAttribute("stroke", "currentColor");
+        svgIcon.setAttribute("stroke-width", "2");
+        svgIcon.setAttribute("stroke-linecap", "round");
+        svgIcon.setAttribute("stroke-linejoin", "round");
+        svgIcon.classList.add("card__icon");
+
+        const circle = document.createElementNS("http://www.w3.org/2000/svg", "circle");
+        circle.setAttribute("cx", "12");
+        circle.setAttribute("cy", "12");
+        circle.setAttribute("r", "10");
+        svgIcon.appendChild(circle);
+
+        const path1 = document.createElementNS("http://www.w3.org/2000/svg", "path");
+        path1.setAttribute("d", "M12 16v-4");
+        svgIcon.appendChild(path1);
+
+        const path2 = document.createElementNS("http://www.w3.org/2000/svg", "path");
+        path2.setAttribute("d", "M12 8h.01");
+        svgIcon.appendChild(path2);
+
+        const labelSpan = document.createElement("span");
+        labelSpan.classList.add("card__label");
+        labelSpan.textContent = label + ": ";
+
+        const valueSpan = document.createElement("span");
+        valueSpan.classList.add("card__value");
+        valueSpan.textContent = planta[chave];
+
+        divCat.appendChild(svgIcon);
+        divCat.appendChild(labelSpan);
+        divCat.appendChild(valueSpan);
+
+        bottom.appendChild(divCat);
+      }
+    });
+
+    card.appendChild(bottom);
     cardsContainer.appendChild(card);
   });
 }

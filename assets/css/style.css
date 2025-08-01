@@ -203,7 +203,15 @@ font-style:italic ;
   height: 25px;
   margin-right: .3rem;
 }
+.card__label {
+  font-weight: bold;
+  color: #333;
+}
 
+.card__value {
+  color: #666;
+  font-style: italic;
+}
 footer {
     background: #222;
     text-align: center;
