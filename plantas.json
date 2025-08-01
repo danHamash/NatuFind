@@ -4406,7 +4406,13 @@
         "nome_popular": "PONTO-ALÍVIO",
         "nome_cientifico": "Argyranthemum foeniculaceum (Willd.) Webb ex Sch.Bip.",
         "familia": "ASTERACEAE",
-        "imagem": "./assets/imagens/PONTO-ALÍVIO.jpg"
+        "imagem": "./assets/imagens/PONTO-ALÍVIO.jpg",
+        "reino": "Plantae",
+        "divisão": "Magnoliophyta",
+        "classe": "Magnoliopsida",
+        "ordem": "Myrtales",
+        "família": "Melastomataceae",
+        "género": "Argyranthemum"
     },
     {
         "nome_popular": "PRIMAVERA",
