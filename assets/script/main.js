@@ -43,10 +43,18 @@ input.addEventListener("input", () => {
   const filtradas = plantas.filter((p) => {
     const nomePopular = normalizar(p.nome_popular || "");
     const nomeCientifico = normalizar(p.nome_cientifico || "");
-    const familia = normalizar(p.familia || "");
+    const reino = normalizar(p.Reino || "");
+    const divisao = normalizar(p.Divisão || "");
+    const classe = normalizar(p.Classe || "");
+    const ordem = normalizar(p.Ordem || "");
+    const familia = normalizar(p["Família"] || "");
     return (
       nomePopular.includes(termo) ||
       nomeCientifico.includes(termo) ||
+      reino.includes(termo) ||
+      divisao.includes(termo) ||
+      classe.includes(termo) ||
+      ordem.includes(termo) ||
       familia.includes(termo)
     );
   });
@@ -86,10 +94,18 @@ function buscar() {
   const filtradas = plantas.filter((p) => {
     const nomePopular = normalizar(p.nome_popular || "");
     const nomeCientifico = normalizar(p.nome_cientifico || "");
-    const familia = normalizar(p.familia || "");
+    const reino = normalizar(p.Reino || "");
+    const divisao = normalizar(p.Divisão || "");
+    const classe = normalizar(p.Classe || "");
+    const ordem = normalizar(p.Ordem || "");
+    const familia = normalizar(p["Família"] || "");
     return (
       nomePopular.includes(termo) ||
       nomeCientifico.includes(termo) ||
+      reino.includes(termo) ||
+      divisao.includes(termo) ||
+      classe.includes(termo) ||
+      ordem.includes(termo) ||
       familia.includes(termo)
     );
   });
@@ -203,7 +219,7 @@ function buscar() {
 
     const valueFamilia = document.createElement("span");
     valueFamilia.classList.add("card__value");
-    valueFamilia.textContent = planta.familia ? planta.familia : "Não informado";
+    valueFamilia.textContent = planta["Família"] ? planta["Família"] : "Não informado";
 
     familiaWrapper.appendChild(svgIconFamilia);
     familiaWrapper.appendChild(labelFamilia);
@@ -213,11 +229,11 @@ function buscar() {
 
     // Categorias extras
     const categorias = [
-      { chave: "reino", label: "Reino" },
-      { chave: "divisão", label: "Divisão" },
-      { chave: "classe", label: "Classe" },
-      { chave: "ordem", label: "Ordem" },
-      { chave: "género", label: "Gênero" },
+      { chave: "Reino", label: "Reino" },
+      { chave: "Divisão", label: "Divisão" },
+      { chave: "Classe", label: "Classe" },
+      { chave: "Ordem", label: "Ordem" },
+      { chave: "Género", label: "Gênero" },
     ];
 
     categorias.forEach(({ chave, label }) => {

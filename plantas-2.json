@@ -7,7 +7,7 @@
     "Classe": "Magnoliopsida",
     "Ordem": "Laurales",
     "Família": "Lauraceae",
-    "imagem": "./assets/imagens/ABACATE.jpg"
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Persea_americana_fruit.JPG/330px-Persea_americana_fruit.JPG"
   },
   {
     "nome_popular": "Abacaxi ornamental",
@@ -133,8 +133,7 @@
     "Divisão": "Magnoliophyta",
     "Classe": "Liliopsida",
     "Ordem": "Alismatales",
-    "Família": "Araceae",
-    "imagem": "./assets/imagens/ALFACE-D´ÁGUA.jpg"
+    "Família": "Araceae"
   },
   {
     "nome_popular": "Alfavaca",
@@ -163,7 +162,7 @@
     "Classe": "Magnoliopsida",
     "Ordem": "Lamiales",
     "Família": "Lamiaceae",
-    "imagem": "./assets/imagens/ALFAZEMA_DENTATA.jpg"
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Lavandula-angustifolia-flowering.JPG/330px-Lavandula-angustifolia-flowering.JPG"
   },
   {
     "nome_popular": "Alfazema",
@@ -244,15 +243,13 @@
     "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Ambrosia_artemisiifolia_1.JPG/330px-Ambrosia_artemisiifolia_1.JPG"
   },
   {
-    "nome_popular": "Amescla",
+    "nome_popular": "Amelsca",
     "nome_cientifico": "Protium icicariba",
     "Reino": "Plantae",
     "Divisão": "Magnoliophyta",
     "Classe": "Magnoliopsida",
     "Ordem": "Sapindales",
-    "Família": "Burseraceae",
-    "imagem": "./assets/imagens/AMESCLA.jpg"
-    
+    "Família": "Burseraceae"
   },
   {
     "nome_popular": "Amora",
@@ -529,7 +526,7 @@
     "Classe": "Liliopsida",
     "Ordem": "Asparagales",
     "Família": "Xanthorrhoeaceae",
-    "imagem": "./assets/imagens/BABOSA_ARBORESCENS.jpg"
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Aloe_vera_flower_inset.png/330px-Aloe_vera_flower_inset.png"
   },
   {
     "nome_popular": "Babosa",
@@ -539,7 +536,7 @@
     "Classe": "Liliopsida",
     "Ordem": "Asparagales",
     "Família": "Xanthorrhoeaceae",
-    "imagem": "./assets/imagens/BABOSA_MACULATA.jpg"
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Aloe_vera_flower_inset.png/330px-Aloe_vera_flower_inset.png"
   },
   {
     "nome_popular": "Babosa",
@@ -549,7 +546,7 @@
     "Classe": "Liliopsida",
     "Ordem": "Asparagales",
     "Família": "Asphodelaceae",
-    "imagem": "./assets/imagens/BABOSA_SUCCOTRINA.jpg"
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Aloe_vera_flower_inset.png/330px-Aloe_vera_flower_inset.png"
   },
   {
     "nome_popular": "Babosa",
@@ -579,7 +576,7 @@
     "Classe": "Magnoliopsida",
     "Ordem": "Ericales",
     "Família": "Bercht.",
-    "imagem": "./assets/imagens/BALSAMO.jpg"
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Balm_of_Gilead_IMG_97811.JPG/330px-Balm_of_Gilead_IMG_97811.JPG"
   },
   {
     "nome_popular": "Banana de jardim",
@@ -852,7 +849,7 @@
     "Classe": "Liliopsida",
     "Ordem": "Zingiberales",
     "Família": "Costaceae",
-    "imagem": "./assets/imagens/CANA_DE_MACACO.jpg"
+    "imagem": "./assets/imagens/CANA-DE-MACACO.jpg"
   },
   {
     "nome_popular": "Cana do brejo",
@@ -862,7 +859,7 @@
     "Classe": "Liliopsida",
     "Ordem": "Zingiberales",
     "Família": "Costaceae",
-    "imagem": "./assets/imagens/COSTUS_SPIRALIS.jpg"
+    "imagem": "./assets/imagens/CANA-DO-BREJO.jpg"
   },
   {
     "nome_popular": "Cana do brejo",
@@ -872,7 +869,7 @@
     "Classe": "Liliopsida",
     "Ordem": "Zingiberales",
     "Família": "Costaceae",
-    "imagem": "./assets/imagens/COSTUS_ARABICUS.jpg"
+    "imagem": "./assets/imagens/CANA-DO-BREJO.jpg"
   },
   {
     "nome_popular": "Cana do brejo",
@@ -882,7 +879,7 @@
     "Classe": "Liliopsida",
     "Ordem": "Zingiberales",
     "Família": "Costaceae",
-    "imagem": "./assets/imagens/COSTUS_SPICATUS.jpg"
+    "imagem": "./assets/imagens/CANA-DO-BREJO.jpg"
   },
   {
     "nome_popular": "Canela",
@@ -3937,26 +3934,5 @@
     "Ordem": "Lamiales",
     "Família": "Lamiaceae",
     "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Mentha_spicata-IMG_6186.jpg/330px-Mentha_spicata-IMG_6186.jpg"
-  },{
-    "nome_popular": "Assa Peixe Branco",
-    "nome_cientifico": "Piper aduncum",
-    "Família": "Piperaceae",
-    "imagem": "./assets/imagens/ASSA-PEIXE-BRANCO.jpg",
-    "Reino": "Plantae",
-    "Divisão": "Magnoliophyta",
-    "Classe": "Magnoliopsida",
-    "Ordem": "Piperales",
-    "Género": "Piper"
-  },
-  {
-    "nome_popular": "Assa Peixe",
-    "nome_cientifico": "Piper hispidum",
-    "Família": "Piperaceae",
-    "imagem": "./assets/imagens/ASSA-PEIXE.jpg",
-    "Reino": "Plantae",
-    "Divisão": "Magnoliophyta",
-    "Classe": "Magnoliopsida",
-    "Ordem": "Piperales",
-    "Género": "Piper"
   }
 ]
