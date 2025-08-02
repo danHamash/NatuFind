@@ -357,7 +357,7 @@
         "família": "Mimosoideae",
         "género": "Anadenanthera"
     },
-    {
+    {CINERÁRIA
         "nome_popular": "ANIS",
         "nome_cientifico": "Ocimum carnosum (Spreng.) Link & Otto ex Benth.",
         "familia": "LAMIACEAE",
@@ -1691,7 +1691,7 @@
         "nome_popular": "CINERÁRIA",
         "nome_cientifico": "Jacobaea maritima (L.) Pelser & Meijden",
         "familia": "ASTERACEAE",
-        "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Norderhov_kirke_krypt.jpg/330px-Norderhov_kirke_krypt.jpg"
+        "imagem": "./assets/imagens/CINERÁRIA.jpg"
     },
     {
         "nome_popular": "CIPÓ-CABELUDO",
