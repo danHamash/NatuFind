@@ -106,7 +106,7 @@
     "Classe": "Magnoliopsida",
     "Ordem": "Lamiales",
     "Família": "Lamiaceae",
-    "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Rosemary.jpg/330px-Rosemary.jpg"
+    "imagem": "./assets/imagens/ALECRIM.jpg"
   },
   {
     "nome_popular": "Alecrim do campo",
@@ -154,7 +154,7 @@
     "Classe": "Magnoliopsida",
     "Ordem": "Lamiales",
     "Família": "Lamiaceae",
-    "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Starr_070124-3940_Ocimum_gratissimum.jpg/330px-Starr_070124-3940_Ocimum_gratissimum.jpg"
+    "imagem": "./assets/imagens/ALFAVACÃO.jpg"
   },
   {
     "nome_popular": "Alfazema",
@@ -199,7 +199,7 @@
     "Classe": "Magnoliopsida",
     "Ordem": "Malvales",
     "Família": "Malvaceae",
-    "imagem": "https://upload.wikimedia.org/wikipedia/commons/6/6f/CottonBolls.jpg"
+    "imagem": "./assets/imagens/ALGODÃO.jpg"
   },
   {
     "nome_popular": "Alho",
@@ -233,7 +233,7 @@
     "Reino": "Plantae",
     "Ordem": "Asterales",
     "Família": "Asteraceae",
-    "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Vernonia._Aluman.JPG/330px-Vernonia._Aluman.JPG"
+    "imagem": "./assets/imagens/ALUMÃ.jpg"
   },
   {
     "nome_popular": "Ambrosia",
@@ -241,7 +241,7 @@
     "Reino": "Plantae",
     "Ordem": "Asterales",
     "Família": "Asteraceae",
-    "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Ambrosia_artemisiifolia_1.JPG/330px-Ambrosia_artemisiifolia_1.JPG"
+    "imagem": "./assets/imagens/AMBROSIA.jpg"
   },
   {
     "nome_popular": "Amescla",
@@ -290,7 +290,7 @@
     "Classe": "Magnoliopsida",
     "Ordem": "Sapindales",
     "Família": "Meliaceae",
-    "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Andirobaatacada.JPG/330px-Andirobaatacada.JPG"
+    "imagem": "./assets/imagens/ANDIROBA.jpg"
   },
   {
     "nome_popular": "Angico vermelho",
@@ -304,12 +304,12 @@
   },
   {
     "nome_popular": "Anis",
-    "nome_cientifico": "Ocimum",
+    "nome_cientifico": "Ocimum campechianum Mill",
     "Reino": "Plantae",
     "Classe": "Magnoliopsida",
     "Ordem": "Lamiales",
     "Família": "Lamiaceae",
-    "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Gardenology.org-IMG_2835_rbgs11jan.jpg/330px-Gardenology.org-IMG_2835_rbgs11jan.jpg"
+    "imagem": "./assets/imagens/ANIS.jpg"
   },
   {
     "nome_popular": "Araça",
@@ -422,7 +422,7 @@
     "Reino": "Plantae",
     "Ordem": "Asterales",
     "Família": "Asteraceae",
-    "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/ArtemisiaVulgaris.jpg/330px-ArtemisiaVulgaris.jpg"
+    "imagem": "./assets/imagens/ARTEMISIA.jpg"
   },
   {
     "nome_popular": "Árvore de papel",
@@ -460,7 +460,7 @@
     "Classe": "Magnoliopsida",
     "Ordem": "Malpighiales",
     "Família": "Euphorbiaceae",
-    "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Euphorbia_tirucalli_0002.jpg/330px-Euphorbia_tirucalli_0002.jpg"
+    "imagem": "./assets/imagens/AVELOZ.jpg"
   },
   {
     "nome_popular": "Avenca",
@@ -470,7 +470,7 @@
     "Classe": "Pteridopsida",
     "Ordem": "Polypodiales",
     "Família": "Pteridaceae",
-    "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Adiantum_capillus-veneris_2601.jpg/330px-Adiantum_capillus-veneris_2601.jpg"
+    "imagem": "./assets/imagens/AVENCA.jpg"
   },
   {
     "nome_popular": "Avenca miúda",
@@ -625,7 +625,7 @@
     "Classe": "Magnoliopsida",
     "Ordem": "Asterales",
     "Família": "Asteraceae",
-    "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/ArctiumLappa1.jpg/330px-ArctiumLappa1.jpg"
+    "imagem": "./assets/imagens/BARDANA.jpg"
   },
   {
     "nome_popular": "Basilicão",
@@ -673,7 +673,7 @@
     "Classe": "Eudicotiledôneas",
     "Ordem": "Caryophyllales",
     "Família": "Portulacaceae",
-    "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Portulaca_oleracea_%28tonrulkens%29.jpg/330px-Portulaca_oleracea_%28tonrulkens%29.jpg"
+    "imagem": "./assets/imagens/BELDROEGA.jpg"
   },
   {
     "nome_popular": "Beldroega gorda",
@@ -740,7 +740,7 @@
     "Classe": "Magnoliopsida",
     "Ordem": "Buxales",
     "Família": "Buxaceae",
-    "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Buchsbaum-Baum2.JPG/330px-Buchsbaum-Baum2.JPG"
+    "imagem": "./assets/imagens/BUXO.jpg"
   },
   {
     "nome_popular": "Cabaça",
@@ -766,7 +766,7 @@
     "Reino": "Plantae",
     "Ordem": "Gentianales",
     "Família": "Rubiaceae",
-    "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Coffea_arabica_-_K%C3%B6hler%E2%80%93s_Medizinal-Pflanzen-189.jpg/330px-Coffea_arabica_-_K%C3%B6hler%E2%80%93s_Medizinal-Pflanzen-189.jpg"
+    "imagem": "./assets/imagens/CAFÉ.jpg"
   },
   {
     "nome_popular": "Caju",
@@ -814,7 +814,7 @@
     "Classe": "Magnoliopsida",
     "Ordem": "Myrtales",
     "Família": "Myrtaceae",
-    "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Webysther_20190219235610_-_Fruta_do_cambuci_%28Campomanesia_phaea%29-_na_esquerda-direita_%C3%A9_o_fruto_maduro_e_no_centro_%C3%A9_o_fruto_verde.jpg/330px-Webysther_20190219235610_-_Fruta_do_cambuci_%28Campomanesia_phaea%29-_na_esquerda-direita_%C3%A9_o_fruto_maduro_e_no_centro_%C3%A9_o_fruto_verde.jpg"
+    "imagem": "./assets/imagens/CAMBUCI.jpg"
   },
   {
     "nome_popular": "Cambuí",
@@ -832,7 +832,7 @@
     "Reino": "Plantae",
     "Ordem": "Isifonus",
     "Família": "Asteraceae",
-    "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Matricaria_February_2008-1.jpg/330px-Matricaria_February_2008-1.jpg"
+    "imagem": "./assets/imagens/CAMOMILA.jpg"
   },
   {
     "nome_popular": "Cana caiana",
@@ -891,7 +891,7 @@
     "Classe": "Magnoliopsida",
     "Ordem": "Laurales",
     "Família": "Lauraceae",
-    "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Cinnamomum_verum_002.JPG/330px-Cinnamomum_verum_002.JPG"
+    "imagem": "./assets/imagens/CANELA.jpg"
   },
   {
     "nome_popular": "Canela de velho",
@@ -911,7 +911,7 @@
     "Classe": "Magnoliopsida",
     "Ordem": "Fabales",
     "Família": "Fabaceae",
-    "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Cassia_bicapsularis_in_Jimei_University_20131224.jpg/330px-Cassia_bicapsularis_in_Jimei_University_20131224.jpg"
+    "imagem": "./assets/imagens/CANUDO.jpg"
   },
   {
     "nome_popular": "Capiçoba",
@@ -939,7 +939,7 @@
     "Classe": "Liliopsida",
     "Ordem": "Poales",
     "Família": "Poaceae",
-    "imagem": "./assets/imagens/CAPIM-LIMÃO.jpg"
+    "imagem": "./assets/imagens/CAPIM-LIMÃO_CITRATUS.jpg"
   },
   {
     "nome_popular": "Capororoca",
@@ -1027,7 +1027,7 @@
     "Reino": "Plantae",
     "Ordem": "Asparagales",
     "Família": "Amaryllidaceae",
-    "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Allium_schoenoprasium_%E2%80%94_Flora_Batava_%E2%80%94_Volume_v10.jpg/330px-Allium_schoenoprasium_%E2%80%94_Flora_Batava_%E2%80%94_Volume_v10.jpg"
+    "imagem": "./assets/imagens/CEBOLINHA.jpg"
   },
   {
     "nome_popular": "Cedro",
@@ -1037,7 +1037,7 @@
     "Classe": "Magnoliopsida",
     "Ordem": "Sapindales",
     "Família": "Meliaceae",
-    "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Cedrela_odorata_foliage.jpg/330px-Cedrela_odorata_foliage.jpg"
+    "imagem": "./assets/imagens/CEDRO.jpg"
   },
   {
     "nome_popular": "Centelha asiática",
@@ -1087,7 +1087,7 @@
     "Classe": "Magnoliopsida",
     "Ordem": "Violales",
     "Família": "Cucurbitaceae",
-    "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Chayote_cross_section_BNC.jpg/330px-Chayote_cross_section_BNC.jpg"
+    "imagem": "./assets/imagens/CHUCHU.jpg"
   },
   {
     "nome_popular": "Cipó chumbo",
@@ -1127,7 +1127,7 @@
     "Classe": "Pinopsida",
     "Ordem": "Pinales",
     "Família": "Cupressaceae",
-    "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/A_description_of_the_genus_Pinus_%28Tab._XLII%29_%287797088544%29.jpg/330px-A_description_of_the_genus_Pinus_%28Tab._XLII%29_%287797088544%29.jpg"
+    "imagem": "./assets/imagens/CIPRESTE.jpg"
   },
   {
     "nome_popular": "Clorofito",
@@ -1137,7 +1137,7 @@
     "Classe": "Liliopsida",
     "Ordem": "Asparagales",
     "Família": "Asparagaceae",
-    "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Chlorophytum_comosum0.jpg/330px-Chlorophytum_comosum0.jpg"
+    "imagem": "./assets/imagens/CLOROFITO.jpg"
   },
   {
     "nome_popular": "Coentro bravo",
@@ -1196,7 +1196,7 @@
     "Reino": "Plantae",
     "Ordem": "Magnoliales",
     "Família": "Annonaceae",
-    "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Annona_reticulata_Blanco1.197-cropped.jpg/330px-Annona_reticulata_Blanco1.197-cropped.jpg"
+    "imagem": "./assets/imagens/CONDESSA.jpg"
   },
   {
     "nome_popular": "Confrei",
@@ -1204,7 +1204,7 @@
     "Reino": "Plantae",
     "Ordem": "Lamiales",
     "Família": "Boraginaceae",
-    "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Beinwell.JPG/330px-Beinwell.JPG"
+    "imagem": "./assets/imagens/CONFREI.jpg"
   },
   {
     "nome_popular": "Copo de leite",
@@ -1279,7 +1279,7 @@
     "Reino": "Plantae",
     "Ordem": "Malpighiales",
     "Família": "Euphorbiaceae",
-    "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Colpfl05.jpg/330px-Colpfl05.jpg"
+    "imagem": "./assets/imagens/CROTON.jpg"
   },
   {
     "nome_popular": "Cúrcuma",
@@ -1289,10 +1289,10 @@
     "Classe": "Liliopsida",
     "Ordem": "Zingiberales",
     "Família": "Zingiberaceae",
-    "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Curcuma_longa_001.JPG/330px-Curcuma_longa_001.JPG"
+    "imagem": "./assets/imagens/CURCUMA.jpg"
   },
   {
-    "nome_popular": "Dama da noite 2",
+    "nome_popular": "Dama da noite",
     "nome_cientifico": "Cestrum nocturnum",
     "Reino": "Plantae",
     "Ordem": "Solanales",
@@ -1336,49 +1336,54 @@
     "imagem": "./assets/imagens/ERVA-CAPITÃO.jpg"
   },
   {
-    "nome_popular": "Erva cidreira / quimiotipo linalol",
+    "nome_popular": "Erva cidreira",
     "nome_cientifico": "Lippia alba",
     "Reino": "Plantae",
     "Divisão": "Magnoliophyta",
     "Classe": "Magnoliopsida",
     "Ordem": "Lamiales",
-    "Família": "Verbenaceae"
+    "Família": "Verbenaceae",
+    "imagem":"./assets/imagens/ERVA_CIDREIRA_LINELOL.jpg"
   },
   {
-    "nome_popular": "Erva cidreira / quimiotipo carvona",
+    "nome_popular": "Erva cidreira",
     "nome_cientifico": "Lippia alba",
     "Reino": "Plantae",
     "Divisão": "Magnoliophyta",
     "Classe": "Magnoliopsida",
     "Ordem": "Lamiales",
-    "Família": "Verbenaceae"
+    "Família": "Verbenaceae",
+    "imagem":"./assets/imagens/ERVA_CIDREIRA_CARVONA.jpg"
   },
   {
-    "nome_popular": "Erva cidreira / quimiotipo citral",
+    "nome_popular": "Erva cidreira",
     "nome_cientifico": "Lippia alba",
     "Reino": "Plantae",
     "Divisão": "Magnoliophyta",
     "Classe": "Magnoliopsida",
     "Ordem": "Lamiales",
-    "Família": "Verbenaceae"
+    "Família": "Verbenaceae",
+    "imagem":"./assets/imagens/ERVA_CIDREIRA_CITRAL.jpg"
   },
   {
-    "nome_popular": "Erva da jurema / azul",
+    "nome_popular": "Erva da jurema - azul",
     "nome_cientifico": "Vitex agnus-castus",
     "Reino": "Plantae",
     "Divisão": "Magnoliophyta",
     "Classe": "Magnoliopsida",
     "Ordem": "Lamiales",
-    "Família": "Lamiaceae"
+    "Família": "Lamiaceae",
+    "imagem":"./assets/imagens/ERVA_DA_JUREMA_AZUL.jpg"
   },
   {
-    "nome_popular": "Erva da jurema / branca",
+    "nome_popular": "Erva da jurema - branca",
     "nome_cientifico": "Vitex agnus-castus",
     "Reino": "Plantae",
     "Divisão": "Magnoliophyta",
     "Classe": "Magnoliopsida",
     "Ordem": "Lamiales",
-    "Família": "Lamiaceae"
+    "Família": "Lamiaceae",
+    "imagem":"./assets/imagens/ERVA_DA_JUREMA_BRANCA.jpg"
   },
   {
     "nome_popular": "Erva de bicho",
@@ -1397,7 +1402,7 @@
     "Ordem": "Caryophyllales",
     "Família": "Amaranthaceae",
     "Gênero": "Dysphania",
-    "imagem": "./assets/imagens/ERVA-DE-SANTA-MARIA.jpg"
+    "imagem": "./assets/imagens/ERVA_SANTA_MARIA.jpg"
   },
   {
     "nome_popular": "Erva de são joão",
