@@ -7,14 +7,32 @@ const headerContent = document.querySelector(".header_content");
 
 let plantas = [];
 
-// Carrega o JSON
+// Função para normalizar texto (remove espaços e hífens, converte para minúsculas)
+function normalizar(texto) {
+  return texto
+    .toLowerCase()
+    .normalize("NFD")              // separa os caracteres acentuados
+    .replace(/[\u0300-\u036f]/g, "") // remove os diacríticos (acentos)
+    .replace(/[\s\-]+/g, "");     // remove espaços e hífens;
+}
+
+// Carrega o JSON e só depois habilita a busca
 fetch("./plantas.json")
   .then((res) => res.json())
-  .then((data) => (plantas = data));
+  .then((data) => {
+    plantas = data;
+    // Opcional: console.log para garantir que carregou
+    console.log("Plantas carregadas:", plantas.length);
+  })
+  .catch((err) => {
+    console.error("Erro ao carregar plantas.json:", err);
+  });
 
 // Sugestões enquanto digita
 input.addEventListener("input", () => {
-  const termo = input.value.trim().toLowerCase();
+  if (!plantas.length) return; // evita erro se JSON não carregou ainda
+
+  const termo = normalizar(input.value.trim());
   listaSugestoes.innerHTML = "";
 
   if (termo.length < 2) {
@@ -22,12 +40,16 @@ input.addEventListener("input", () => {
     return;
   }
 
-  const filtradas = plantas.filter(
-    (p) =>
-      p.nome_popular?.toLowerCase().includes(termo) ||
-      p.nome_cientifico?.toLowerCase().includes(termo) ||
-      p.familia?.toLowerCase().includes(termo)
-  );
+  const filtradas = plantas.filter((p) => {
+    const nomePopular = normalizar(p.nome_popular || "");
+    const nomeCientifico = normalizar(p.nome_cientifico || "");
+    const familia = normalizar(p.familia || "");
+    return (
+      nomePopular.includes(termo) ||
+      nomeCientifico.includes(termo) ||
+      familia.includes(termo)
+    );
+  });
 
   if (filtradas.length > 0) {
     listaSugestoes.style.display = "block";
@@ -56,15 +78,21 @@ input.addEventListener("keyup", (e) => {
 });
 
 function buscar() {
-  const termo = input.value.trim().toLowerCase();
+  if (!plantas.length) return; // evita erro se JSON não carregou
+
+  const termo = normalizar(input.value.trim());
   if (!termo) return;
 
-  const filtradas = plantas.filter(
-    (p) =>
-      p.nome_popular?.toLowerCase().includes(termo) ||
-      p.nome_cientifico?.toLowerCase().includes(termo) ||
-      p.familia?.toLowerCase().includes(termo)
-  );
+  const filtradas = plantas.filter((p) => {
+    const nomePopular = normalizar(p.nome_popular || "");
+    const nomeCientifico = normalizar(p.nome_cientifico || "");
+    const familia = normalizar(p.familia || "");
+    return (
+      nomePopular.includes(termo) ||
+      nomeCientifico.includes(termo) ||
+      familia.includes(termo)
+    );
+  });
 
   // Esconde o container inicial e limpa resultados
   headerContainer.style.display = "none";
@@ -131,7 +159,10 @@ function buscar() {
     familiaWrapper.classList.add("card__info-item");
 
     // SVG para Família
-    const svgIconFamilia = document.createElementNS("http://www.w3.org/2000/svg", "svg");
+    const svgIconFamilia = document.createElementNS(
+      "http://www.w3.org/2000/svg",
+      "svg"
+    );
     svgIconFamilia.setAttribute("xmlns", "http://www.w3.org/2000/svg");
     svgIconFamilia.setAttribute("width", "18");
     svgIconFamilia.setAttribute("height", "18");
@@ -143,17 +174,26 @@ function buscar() {
     svgIconFamilia.setAttribute("stroke-linejoin", "round");
     svgIconFamilia.classList.add("card__icon");
 
-    const circleFam = document.createElementNS("http://www.w3.org/2000/svg", "circle");
+    const circleFam = document.createElementNS(
+      "http://www.w3.org/2000/svg",
+      "circle"
+    );
     circleFam.setAttribute("cx", "12");
     circleFam.setAttribute("cy", "12");
     circleFam.setAttribute("r", "10");
     svgIconFamilia.appendChild(circleFam);
 
-    const path1Fam = document.createElementNS("http://www.w3.org/2000/svg", "path");
+    const path1Fam = document.createElementNS(
+      "http://www.w3.org/2000/svg",
+      "path"
+    );
     path1Fam.setAttribute("d", "M12 16v-4");
     svgIconFamilia.appendChild(path1Fam);
 
-    const path2Fam = document.createElementNS("http://www.w3.org/2000/svg", "path");
+    const path2Fam = document.createElementNS(
+      "http://www.w3.org/2000/svg",
+      "path"
+    );
     path2Fam.setAttribute("d", "M12 8h.01");
     svgIconFamilia.appendChild(path2Fam);
 
@@ -186,7 +226,10 @@ function buscar() {
         divCat.classList.add("card__info-item");
 
         // SVG para cada categoria
-        const svgIcon = document.createElementNS("http://www.w3.org/2000/svg", "svg");
+        const svgIcon = document.createElementNS(
+          "http://www.w3.org/2000/svg",
+          "svg"
+        );
         svgIcon.setAttribute("xmlns", "http://www.w3.org/2000/svg");
         svgIcon.setAttribute("width", "15");
         svgIcon.setAttribute("height", "15");
@@ -198,17 +241,26 @@ function buscar() {
         svgIcon.setAttribute("stroke-linejoin", "round");
         svgIcon.classList.add("card__icon");
 
-        const circle = document.createElementNS("http://www.w3.org/2000/svg", "circle");
+        const circle = document.createElementNS(
+          "http://www.w3.org/2000/svg",
+          "circle"
+        );
         circle.setAttribute("cx", "12");
         circle.setAttribute("cy", "12");
         circle.setAttribute("r", "10");
         svgIcon.appendChild(circle);
 
-        const path1 = document.createElementNS("http://www.w3.org/2000/svg", "path");
+        const path1 = document.createElementNS(
+          "http://www.w3.org/2000/svg",
+          "path"
+        );
         path1.setAttribute("d", "M12 16v-4");
         svgIcon.appendChild(path1);
 
-        const path2 = document.createElementNS("http://www.w3.org/2000/svg", "path");
+        const path2 = document.createElementNS(
+          "http://www.w3.org/2000/svg",
+          "path"
+        );
         path2.setAttribute("d", "M12 8h.01");
         svgIcon.appendChild(path2);
 
