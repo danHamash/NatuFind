@@ -38,7 +38,7 @@
         "nome_popular": "ABIU",
         "nome_cientifico": "Pouteria caimito (Ruiz & Pav.) Radlk",
         "familia": "SAPOTACEAE",
-        "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Abiu_em_fundo_preto_-_Pouteria_caimito.jpg/330px-Abiu_em_fundo_preto_-_Pouteria_caimito.jpg",
+        "imagem": "./assets/imagens/ABIU.jpg",
         "reino": "Plantae",
         "divisão": "Magnoliophyta",
         "classe": "Magnoliopsida",
@@ -191,12 +191,12 @@
         "nome_popular": "ALFAZEMA",
         "nome_cientifico": "Lavandula dentata L.",
         "familia": "LAMIACEAE",
-        "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Lavandula-angustifolia-flowering.JPG/330px-Lavandula-angustifolia-flowering.JPG",
+        "imagem": "./assets/imagens/LAVANDULA_DENTATA.jpg",
         "reino": "Plantae",
         "classe": "Magnoliopsida",
         "ordem": "Lamiales",
         "família": "Lamiaceae",
-        "género": "L."
+        "género": "L. dentata"
     },
     {
         "nome_popular": "ALFAZEMA",
@@ -246,7 +246,7 @@
         "nome_popular": "ALHO",
         "nome_cientifico": "Allium sativum L.",
         "familia": "AMARYLLIDACEAE",
-        "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Garlic.jpg/330px-Garlic.jpg",
+        "imagem": "./assets/imagens/ALHO.jpg",
         "reino": "Plantae",
         "divisão": "Magnoliophyta",
         "classe": "Liliopsida",
@@ -287,10 +287,10 @@
         "género": "Ambrosia"
     },
     {
-        "nome_popular": "AMELSCA",
+        "nome_popular": "AMESCLA",
         "nome_cientifico": "Protium icicariba (DC.) Marchand",
         "familia": "BURSERACEAE",
-        "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Canarium_indicum_-_Icica_icicariba_-_K%C3%B6hler%E2%80%93s_Medizinal-Pflanzen-171.jpg/330px-Canarium_indicum_-_Icica_icicariba_-_K%C3%B6hler%E2%80%93s_Medizinal-Pflanzen-171.jpg",
+        "imagem": "./assets/imagens/AMESCLA.jpg",
         "reino": "Plantae",
         "divisão": "Magnoliophyta",
         "classe": "Magnoliopsida",
@@ -367,7 +367,7 @@
         "nome_popular": "APERTA-RUÃO",
         "nome_cientifico": "Piper aduncum L.",
         "familia": "PIPERACEAE",
-        "imagem": "./assets/imagens/APERTA-RUÃO.jpg"
+        "imagem": "./assets/imagens/APERTA-RUÃO_ADUNCUM.jpg"
     },
     {
         "nome_popular": "APERTA-RUÃO",
@@ -426,7 +426,7 @@
         "nome_popular": "ARAUCÁRIA",
         "nome_cientifico": "Araucaria angustifolia (Bertol.) Kuntze",
         "familia": "ARAUCARIACEAE",
-        "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Itaimbezinho_-_Parque_Nacional_Aparados_da_Serra_32.JPG/330px-Itaimbezinho_-_Parque_Nacional_Aparados_da_Serra_32.JPG",
+        "imagem": "./assets/imagens/ARAUCÁRIA.jpg",
         "reino": "Plantae",
         "divisão": "Pinophyta",
         "classe": "Pinopsida",
@@ -444,7 +444,7 @@
         "nome_popular": "ARNICA",
         "nome_cientifico": "Solidago chilensis Meyen",
         "familia": "ASTERACEAE",
-        "imagem": ""
+        "imagem": "./assets/imagens/ARNICA_MEYEN.jpg"
     },
     {
         "nome_popular": "ARNICA-DA-TERRA",
@@ -677,7 +677,7 @@
         "nome_popular": "BABOSA",
         "nome_cientifico": "Aloe arborescens Mill.",
         "familia": "ASPARAGACEAE",
-        "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Aloe_vera_flower_inset.png/330px-Aloe_vera_flower_inset.png",
+        "imagem": "./assets/imagens/BABOSA_ARBORESCENS.jpg",
         "reino": "Plantae",
         "divisão": "Magnoliophyta",
         "classe": "Liliopsida",
@@ -689,7 +689,7 @@
         "nome_popular": "BABOSA",
         "nome_cientifico": "Aloe maculata All.",
         "familia": "ASPARAGACEAE",
-        "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Aloe_vera_flower_inset.png/330px-Aloe_vera_flower_inset.png",
+        "imagem": "./assets/imagens/BABOSA_MACULATA.jpg",
         "reino": "Plantae",
         "divisão": "Magnoliophyta",
         "classe": "Liliopsida",
@@ -701,7 +701,7 @@
         "nome_popular": "BABOSA",
         "nome_cientifico": "Aloe succotrina Weston",
         "familia": "ASPARAGACEAE",
-        "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Aloe_vera_flower_inset.png/330px-Aloe_vera_flower_inset.png",
+        "imagem": "./assets/imagens/BABOSA_SUCCOTRINA.jpg",
         "reino": "Plantae",
         "divisão": "Magnoliophyta",
         "classe": "Liliopsida",
@@ -723,7 +723,7 @@
         "nome_popular": "BACUPARI",
         "nome_cientifico": "Garcinia brasiliensis Mart.",
         "familia": "CLUSIACEAE",
-        "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Fruit_Stall_in_Barcelona_Market.jpg/330px-Fruit_Stall_in_Barcelona_Market.jpg",
+        "imagem": "./assets/imagens/BACUPARI.jpg",
         "reino": "Plantae",
         "classe": "Magnoliidae",
         "ordem": "Malpighiales",
@@ -990,7 +990,7 @@
         "nome_popular": "BROMIL",
         "nome_cientifico": "Senega paniculata (L.) J.F.B.Pastore & J.R.Abbott",
         "familia": "POLYGALACEAE",
-        "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Goya-Guerra_%2809%29.jpg/330px-Goya-Guerra_%2809%29.jpg"
+        "imagem": "./assets/imagens/BROMIL.jpg"
     },
     {
         "nome_popular": "BUCHA-VEGETAL",
@@ -1093,7 +1093,7 @@
         "nome_popular": "CAJU",
         "nome_cientifico": "Anacardium occidentale L.",
         "familia": "ANACARDIACEAE",
-        "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Anacardium_occidentale_-_K%C3%B6hler%E2%80%93s_Medizinal-Pflanzen-010.jpg/330px-Anacardium_occidentale_-_K%C3%B6hler%E2%80%93s_Medizinal-Pflanzen-010.jpg",
+        "imagem": "./assets/imagens/CAJU.jpg",
         "reino": "Plantae",
         "divisão": "Magnoliophyta",
         "classe": "Magnoliopsida",
@@ -1213,7 +1213,7 @@
         "nome_popular": "CAMBUÍ",
         "nome_cientifico": "Myrcia multiflora (Lam.) DC.",
         "familia": "MYRTACEAE",
-        "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Falta_imagem_aves.svg/langpt-320px-Falta_imagem_aves.svg.png",
+        "imagem": "./assets/imagens/CAMBUÍ.jpg",
         "reino": "Plantae",
         "divisão": "Magnoliophyta",
         "classe": "Magnoliopsida",
@@ -1326,7 +1326,7 @@
         "nome_popular": "CANUDINHO",
         "nome_cientifico": "Mesosphaerum pectinatum (L.) Kuntze",
         "familia": "LAMIACEAE",
-        "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/DrinkingStraws.jpg/330px-DrinkingStraws.jpg"
+        "imagem": "./assets/imagens/CANUDINHO.jpg"
     },
     {
         "nome_popular": "CANUDO",
@@ -1934,7 +1934,7 @@
         "nome_popular": "COTONETE",
         "nome_cientifico": "Clerodendrum quadriloculare (Blanco) Merr.",
         "familia": "LAMIACEAE",
-        "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/White_menbo.jpg/330px-White_menbo.jpg"
+        "imagem": "./assets/imagens/COTONETE.jpg"
     },
     {
         "nome_popular": "COUVE-CRAVINHO",
@@ -2782,7 +2782,7 @@
         "nome_popular": "GUAMIRIM",
         "nome_cientifico": "Eugenia florida DC.",
         "familia": "MYRTACEAE",
-        "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Falta_imagem_aves.svg/langpt-320px-Falta_imagem_aves.svg.png",
+        "imagem": "./assets/imagens/GUAMIRIM.jpg",
         "reino": "Plantae",
         "divisão": "Magnoliophyta",
         "classe": "Magnoliopsida",
@@ -2906,16 +2906,20 @@
         "género": "Colocasia"
     },
     {
-        "nome_popular": "INSULINA 1",
+        "nome_popular": "INSULINA",
         "nome_cientifico": "Cissus sulcicaulis (Baker) Planch.",
         "familia": "VITACEAE",
-        "imagem": ""
+        "imagem": "./assets/imagens/INSULINA_1.jpg",
+        "reino": "Animalia",
+        "classe": "Insecta",
+        "ordem": "Coleoptera",
+        "família": "Eurhynchidae"
     },
     {
-        "nome_popular": "INSULINA 2",
+        "nome_popular": "INSULINA",
         "nome_cientifico": "Cissus verticillata (L.) Nicolson & C.E.Jarvis",
         "familia": "VITACEAE",
-        "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Eurhinus_magnificus_115832031.jpg/330px-Eurhinus_magnificus_115832031.jpg",
+        "imagem": "./assets/imagens/INSULINA_2.jpg",
         "reino": "Animalia",
         "classe": "Insecta",
         "ordem": "Coleoptera",
@@ -3853,7 +3857,7 @@
         "nome_popular": "NEGRAMINA",
         "nome_cientifico": "Siparuna guianensis Aubl.",
         "familia": "SIPARUNACEAE",
-        "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Fruit_Stall_in_Barcelona_Market.jpg/330px-Fruit_Stall_in_Barcelona_Market.jpg",
+        "imagem": "./assets/imagens/NEGRAMINA.jpg",
         "reino": "Plantae",
         "divisão": "Magnoliophyta",
         "ordem": "Laurales",
@@ -3884,7 +3888,7 @@
         "nome_popular": "NORANTEA",
         "nome_cientifico": "Schwartzia brasiliensis (Choisy) Bedell ex Gir.-Cañas",
         "familia": "MARCGRAVIACEAE",
-        "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Blond-crested_Woodpecker.jpg/330px-Blond-crested_Woodpecker.jpg",
+        "imagem": "./assets/imagens/NORANTE.jpg",
         "reino": "Animalia",
         "classe": "Aves",
         "ordem": "Piciformes",
@@ -4123,7 +4127,7 @@
         "nome_popular": "PEIXINHO",
         "nome_cientifico": "Stachys byzantina K.Koch",
         "familia": "LAMIACEAE",
-        "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Myrtenaster_Pink_Star_%28Aster_ericoides%29_Wollziest_%28Stachys_byzantina%29_Blumeng%C3%A4rten_Hirschstetten_Wien_2014.jpg/330px-Myrtenaster_Pink_Star_%28Aster_ericoides%29_Wollziest_%28Stachys_byzantina%29_Blumeng%C3%A4rten_Hirschstetten_Wien_2014.jpg"
+        "imagem": "./assets/imagens/PEIXINHO.jpg"
     },
     {
         "nome_popular": "PELOTEIRA",
@@ -4742,16 +4746,16 @@
         "género": "Satureja"
     },
     {
-        "nome_popular": "SEM NOME",
+        "nome_popular": "EUGENIA",
         "nome_cientifico": "Eugenia sp.",
         "familia": "MYRTACEAE",
-        "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Piper_PA-24-250_ZS-CNJ_%2811715687364%29.jpg/330px-Piper_PA-24-250_ZS-CNJ_%2811715687364%29.jpg"
+        "imagem": "./assets/imagens/EUGENIA.jpg"
     },
     {
-        "nome_popular": "SEM NOME",
+        "nome_popular": "MYRCIA",
         "nome_cientifico": "Myrcia sp.",
         "familia": "MYRTACEAE",
-        "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Piper_PA-24-250_ZS-CNJ_%2811715687364%29.jpg/330px-Piper_PA-24-250_ZS-CNJ_%2811715687364%29.jpg",
+        "imagem": "./assets/imagens/MYRCIA.jpg",
         "reino": "Plantae",
         "divisão": "Magnoliophyta",
         "classe": "Rosidae",
@@ -4761,10 +4765,10 @@
         "espécie": "[1]"
     },
     {
-        "nome_popular": "SEM NOME",
+        "nome_popular": "PIPER",
         "nome_cientifico": "Piper sp.",
         "familia": "PIPERACEAE",
-        "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Piper_PA-24-250_ZS-CNJ_%2811715687364%29.jpg/330px-Piper_PA-24-250_ZS-CNJ_%2811715687364%29.jpg"
+        "imagem": "./assets/imagens/PIPER.jpg"
     },
     {
         "nome_popular": "SERRALHA",
@@ -4823,18 +4827,6 @@
         "nome_popular": "TAIOBA-BRAVA",
         "nome_cientifico": "Colocasia esculenta (L.) Schott",
         "familia": "ARACEAE",
-        "imagem": "./assets/imagens/TAIOBA-BRAVA.jpg",
-        "reino": "Plantae",
-        "divisão": "Magnoliophyta",
-        "classe": "Liliopsida",
-        "ordem": "Alismatales",
-        "família": "Araceae",
-        "género": "Colocasia"
-    },
-    {
-        "nome_popular": "TAIOBA-BRAVA",
-        "nome_cientifico": "Colocasia esculenta (L.) Schott",
-        "familia": "",
         "imagem": "./assets/imagens/TAIOBA-BRAVA.jpg",
         "reino": "Plantae",
         "divisão": "Magnoliophyta",
@@ -4963,7 +4955,7 @@
         "nome_popular": "TRANSAGEM",
         "nome_cientifico": "Plantago australis",
         "familia": "PLANTAGINACEAE",
-        "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Plantago_lanceolata_plant.jpg/330px-Plantago_lanceolata_plant.jpg",
+        "imagem": "./assets/imagens/PANTAGO_AUSTRALIS.jpg",
         "reino": "Plantae",
         "divisão": "Magnoliophyta",
         "classe": "Magnoliopsida",
@@ -4974,7 +4966,7 @@
         "nome_popular": "TRANSAGEM",
         "nome_cientifico": "Plantago major L.",
         "familia": "PLANTAGINACEAE",
-        "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Plantago_lanceolata_plant.jpg/330px-Plantago_lanceolata_plant.jpg",
+        "imagem": "./assets/imagens/TRANSAGEM_PANTAGO_MAJOR.jpg",
         "reino": "Plantae",
         "divisão": "Eudicotyledoneae",
         "classe": "Asterídeas",
@@ -5057,10 +5049,10 @@
         "género": "Thunbergia"
     },
     {
-        "nome_popular": "TUMBÉRGIA-BRANCA",
+        "nome_popular": "TUMBÉRGIA LARANJA",
         "nome_cientifico": "Thunbergia alata Bojer ex Sims",
         "familia": "ACANTHACEAE",
-        "imagem": "./assets/imagens/TUMBÉRGIA-BRANCA.jpg",
+        "imagem": "./assets/imagens/TREPADEIRA_DE_OLHOS_PRETOS.jpg",
         "reino": "Plantae",
         "ordem": "Lamiales",
         "família": "Acanthaceae",
@@ -5092,7 +5084,7 @@
         "nome_popular": "TUYA",
         "nome_cientifico": "Thuya occidentalis L.",
         "familia": "CUPRESSACEAE",
-        "imagem": ""
+        "imagem": "./assets/imagens/TUYA.jpg"
     },
     {
         "nome_popular": "UNHA-DE-VACA",

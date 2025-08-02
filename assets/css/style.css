@@ -175,16 +175,27 @@ font-weight: 500;
 margin-bottom: 1rem;
 font-style:italic ;
 }
-.card__scientific-img{
+.card__scientific-img {
   display: flex;
-  flex-direction: column;
-  justify-content: space-between;
-  align-items: flex-start;
-}
-.card__image{
-  max-width: 75%;
+  justify-content: center;      /* centraliza horizontalmente */
+  align-items: center;          /* centraliza verticalmente */
+  padding: 0.5rem 0;
+  width: 200px;                  /* ocupa toda a largura do card */
+  height: 200px;                /* altura fixa para cards com imagem consistente */
+  overflow: hidden;             /* corta o que passar do tamanho */
+  background-color: #f9f9f9;   /* fundo leve para destacar */
   border-radius: 12px;
-  margin: 1rem auto;
+  position: relative;
+}
+
+.card__image {
+  max-width: 100%;
+  max-height: 100%;
+  object-fit: cover;            /* mantém proporção e corta se precisar */
+  border-radius: 12px;
+  display: block;
+  margin: 0 auto;
+  position: absolute;
 }
 .card__description{
   padding: .5rem 0 2rem;
