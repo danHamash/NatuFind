@@ -234,7 +234,7 @@ function buscar() {
       { chave: "classe", label: "Classe" },
       { chave: "ordem", label: "Ordem" },
       { chave: "género", label: "Gênero"},
-      { chave: "local", label: "Local"},
+      { chave: "Local", label: "Local"},
     ];
 
     categorias.forEach(({ chave, label }) => {

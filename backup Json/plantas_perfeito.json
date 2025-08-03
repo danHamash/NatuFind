@@ -9,7 +9,8 @@
     "ordem": "Laurales",
     "família": "Lauraceae",
     "género": "Persea",
-    "imagem": "./assets/imagens/ABACATE.jpg"
+    "imagem": "./assets/imagens/ABACATE.jpg",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "ABACAXI-ORNAMENTAL",
@@ -21,7 +22,8 @@
     "ordem": "Poales",
     "família": "Bromelioideae",
     "género": "Ananas",
-    "imagem": "./assets/imagens/ABACAXI-ORNAMENTAL.jpg"
+    "imagem": "./assets/imagens/ABACAXI-ORNAMENTAL.jpg",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "ABAJERU",
@@ -32,7 +34,8 @@
     "ordem": "Malpighiales",
     "família": "Chrysobalanaceae",
     "género": "Chrysobalanus",
-    "imagem": "./assets/imagens/ABAJERU.jpg"
+    "imagem": "./assets/imagens/ABAJERU.jpg",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "ABIU",
@@ -44,7 +47,8 @@
     "ordem": "Ericales",
     "família": "Sapotaceae",
     "género": "Pouteria",
-    "imagem": "./assets/imagens/ABIU.jpg"
+    "imagem": "./assets/imagens/ABIU.jpg",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "ABRE-CAMINHO",
@@ -54,7 +58,8 @@
     "classe": "Polypodiidae",
     "ordem": "Schizaeales",
     "família": "Lygodiaceae",
-    "imagem": "./assets/imagens/ABRE-CAMINHO.jpg"
+    "imagem": "./assets/imagens/ABRE-CAMINHO.jpg",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "ABRICÓ-DO-PARÁ",
@@ -66,7 +71,8 @@
     "ordem": "Malpighiales",
     "família": "Kielmeyeroideae",
     "género": "Mammea",
-    "imagem": "./assets/imagens/ABRICÓ-DO-PARÁ.jpg"
+    "imagem": "./assets/imagens/ABRICÓ-DO-PARÁ.jpg",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "ACEROLA",
@@ -76,7 +82,8 @@
     "ordem": "Malpighiales",
     "família": "Malpighiaceae",
     "género": "Malpighia",
-    "imagem": "./assets/imagens/ACEROLA.jpg"
+    "imagem": "./assets/imagens/ACEROLA.jpg",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "AGAPANTO-AZUL",
@@ -88,7 +95,8 @@
     "ordem": "Asparagales",
     "família": "Amaryllidaceae",
     "género": "Agapanthus",
-    "imagem": "./assets/imagens/AGAPANTO-AZUL.jpg"
+    "imagem": "./assets/imagens/AGAPANTO-AZUL.jpg",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "AGAVE",
@@ -98,7 +106,8 @@
     "ordem": "Asparagales",
     "família": "Agavaceae",
     "género": "Agave",
-    "imagem": "./assets/imagens/AGAVE.jpg"
+    "imagem": "./assets/imagens/AGAVE.jpg",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "AGONIADA",
@@ -110,7 +119,8 @@
     "ordem": "Gentianales",
     "família": "Apocynaceae",
     "género": "Plumeria",
-    "imagem": "./assets/imagens/AGONIADA.jpg"
+    "imagem": "./assets/imagens/AGONIADA.jpg",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "ALCACHOFRA",
@@ -120,7 +130,8 @@
     "ordem": "Asterales",
     "família": "Asteraceae",
     "género": "Cynara",
-    "imagem": "./assets/imagens/ALCACHOFRA.jpg"
+    "imagem": "./assets/imagens/ALCACHOFRA.jpg",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "ALECRIM",
@@ -132,7 +143,8 @@
     "ordem": "Lamiales",
     "família": "Lamiaceae",
     "género": "Linnaeus",
-    "imagem": "./assets/imagens/ALECRIM.jpg"
+    "imagem": "./assets/imagens/ALECRIM.jpg",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "ALECRIM-DO-CAMPO",
@@ -142,7 +154,8 @@
     "ordem": "Asterales",
     "família": "Asteraceae",
     "género": "Baccharis",
-    "imagem": "./assets/imagens/ALECRIM-DO-CAMPO.jpg"
+    "imagem": "./assets/imagens/ALECRIM-DO-CAMPO.jpg",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "ALECRIM-PIMENTA",
@@ -153,7 +166,8 @@
     "classe": "Magnoliopsida",
     "ordem": "Lamiales",
     "família": "Verbenaceae",
-    "imagem": "./assets/imagens/ALECRIM-PIMENTA.jpg"
+    "imagem": "./assets/imagens/ALECRIM-PIMENTA.jpg",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "Alface da agua",
@@ -164,7 +178,8 @@
     "ordem": "Alismatales",
     "família": "Araceae",
     "imagem": "./assets/imagens/ALFACE-D´ÁGUA.jpg",
-    "local": "Carregando..."
+    "local": "Carregando...",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "ALFAVACA",
@@ -176,7 +191,8 @@
     "ordem": "Lamiales",
     "família": "Lamiaceae",
     "género": "Ocimum",
-    "imagem": "./assets/imagens/ALFAVACA.jpg"
+    "imagem": "./assets/imagens/ALFAVACA.jpg",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "ALFAVACÃO",
@@ -188,7 +204,8 @@
     "ordem": "Lamiales",
     "família": "Lamiaceae",
     "género": "Ocimum",
-    "imagem": "./assets/imagens/ALFAVACÃO.jpg"
+    "imagem": "./assets/imagens/ALFAVACÃO.jpg",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "ALFAZEMA",
@@ -199,7 +216,8 @@
     "ordem": "Lamiales",
     "família": "Lamiaceae",
     "género": "L.",
-    "imagem": "./assets/imagens/ALFAZEMA.jpg"
+    "imagem": "./assets/imagens/ALFAZEMA.jpg",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "ALFAZEMA",
@@ -211,7 +229,8 @@
     "ordem": "Lamiales",
     "família": "Lamiaceae",
     "género": "Lavandula",
-    "imagem": "./assets/imagens/ALFAZEMA.jpg"
+    "imagem": "./assets/imagens/ALFAZEMA.jpg",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "ALFAZEMA-ALGODÃO",
@@ -221,7 +240,8 @@
     "ordem": "Asterales",
     "família": "Asteraceae",
     "género": "Santolina",
-    "imagem": "./assets/imagens/ALFAZEMA-ALGODÃO.jpg"
+    "imagem": "./assets/imagens/ALFAZEMA-ALGODÃO.jpg",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "ALFAZEMA-DO-BRASIL",
@@ -231,7 +251,8 @@
     "ordem": "Lamiales",
     "família": "Verbenaceae",
     "género": "Aloysia",
-    "imagem": "./assets/imagens/ALFAZEMA-DO-BRASIL.jpg"
+    "imagem": "./assets/imagens/ALFAZEMA-DO-BRASIL.jpg",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "ALGODÃO",
@@ -243,7 +264,8 @@
     "ordem": "Malvales",
     "família": "Malvaceae",
     "género": "L.",
-    "imagem": "./assets/imagens/ALGODÃO.jpg"
+    "imagem": "./assets/imagens/ALGODÃO.jpg",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "ALHO",
@@ -255,7 +277,8 @@
     "ordem": "Asparagales",
     "família": "Amaryllidaceae",
     "género": "Allium",
-    "imagem": "./assets/imagens/ALHO.jpg"
+    "imagem": "./assets/imagens/ALHO.jpg",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "ALMEIRÃO-DO-MATO",
@@ -264,7 +287,8 @@
     "ordem": "Asterales",
     "família": "Asteraceae",
     "imagem": "./assets/imagens/ALMEIRÃO-DO-MATO.jpg",
-    "local": "G 13"
+    "local": "G 13",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "ALMEIRÃO-ROXO",
@@ -274,7 +298,8 @@
     "ordem": "Asterales",
     "família": "Asteraceae",
     "género": "Cichorium",
-    "imagem": "./assets/imagens/ALMEIRÃO-ROXO.jpg"
+    "imagem": "./assets/imagens/ALMEIRÃO-ROXO.jpg",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "ALUMÃ",
@@ -283,7 +308,8 @@
     "ordem": "Asterales",
     "família": "Asteraceae",
     "imagem": "./assets/imagens/ALUMÃ.jpg",
-    "local": "G 7"
+    "local": "G 7",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "AMBROSIA",
@@ -293,7 +319,8 @@
     "ordem": "Asterales",
     "família": "Asteraceae",
     "género": "Ambrosia",
-    "imagem": "./assets/imagens/AMBROSIA.jpg"
+    "imagem": "./assets/imagens/AMBROSIA.jpg",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "AMESCLA",
@@ -305,7 +332,8 @@
     "ordem": "Sapindales",
     "família": "Burseraceae",
     "género": "Protium",
-    "imagem": "./assets/imagens/AMELSCA.jpg"
+    "imagem": "./assets/imagens/AMELSCA.jpg",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "AMORA",
@@ -317,7 +345,8 @@
     "ordem": "Rosales",
     "família": "Moraceae",
     "género": "Morus",
-    "imagem": "./assets/imagens/AMORA.jpg"
+    "imagem": "./assets/imagens/AMORA.jpg",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "AMORA-GIGANTE",
@@ -329,7 +358,8 @@
     "ordem": "Rosales",
     "família": "Moraceae",
     "género": "Morus",
-    "imagem": "./assets/imagens/AMORA-GIGANTE.jpg"
+    "imagem": "./assets/imagens/AMORA-GIGANTE.jpg",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "ANADOR",
@@ -340,7 +370,8 @@
     "família": "Amaranthaceae",
     "género": "Alternanthera",
     "espécie": "A. betzickiana",
-    "imagem": "./assets/imagens/ANADOR.jpg"
+    "imagem": "./assets/imagens/ANADOR.jpg",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "ANDIROBA",
@@ -352,7 +383,8 @@
     "ordem": "Sapindales",
     "família": "Meliaceae",
     "género": "Carapa",
-    "imagem": "./assets/imagens/ANDIROBA.jpg"
+    "imagem": "./assets/imagens/ANDIROBA.jpg",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "ANGICO-VERMELHO",
@@ -364,7 +396,8 @@
     "ordem": "Fabales",
     "família": "Mimosoideae",
     "género": "Anadenanthera",
-    "imagem": "./assets/imagens/ANGICO-VERMELHO.jpg"
+    "imagem": "./assets/imagens/ANGICO-VERMELHO.jpg",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "ANIS",
@@ -374,21 +407,24 @@
     "ordem": "Lamiales",
     "família": "Lamiaceae",
     "imagem": "./assets/imagens/ANIS.jpg",
-    "local": "G 6"
+    "local": "G 6",
+    "Local": "Carregando..."
   },
   {
     "falta": " falta",
     "nome_popular": "APERTA-RUÃO",
     "nome_cientifico": "Piper aduncum L.",
     "familia": "PIPERACEAE",
-    "imagem": "./assets/imagens/APERTA-RUÃO.jpg"
+    "imagem": "./assets/imagens/APERTA-RUÃO.jpg",
+    "Local": "Carregando..."
   },
   {
     "falta": " falta",
     "nome_popular": "APERTA-RUÃO",
     "nome_cientifico": "Piper mollicomum Kunth",
     "familia": "PIPERACEAE",
-    "imagem": "./assets/imagens/APERTA-RUÃO.jpg"
+    "imagem": "./assets/imagens/APERTA-RUÃO.jpg",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "ARAÇA",
@@ -400,7 +436,8 @@
     "ordem": "Myrtales",
     "família": "Myrtaceae",
     "género": "Psidium",
-    "imagem": "./assets/imagens/ARAÇA.jpg"
+    "imagem": "./assets/imagens/ARAÇA.jpg",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "ARARUTA",
@@ -413,7 +450,8 @@
     "família": "Marantaceae",
     "género": "Maranta",
     "espécie": "M. arundinacea",
-    "imagem": "./assets/imagens/ARARUTA.jpg"
+    "imagem": "./assets/imagens/ARARUTA.jpg",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "ARARUTA-BRANCA",
@@ -424,7 +462,8 @@
     "classe": "Liliopsida",
     "ordem": "Zingiberales",
     "família": "Marantaceae",
-    "imagem": "./assets/imagens/ARARUTA-BRANCA.jpg"
+    "imagem": "./assets/imagens/ARARUTA-BRANCA.jpg",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "ARARUTA-ROXA",
@@ -435,7 +474,8 @@
     "classe": "Liliopsida",
     "ordem": "Zingiberales",
     "família": "Marantaceae",
-    "imagem": "./assets/imagens/ARARUTA-ROXA.jpg"
+    "imagem": "./assets/imagens/ARARUTA-ROXA.jpg",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "ARAUCÁRIA",
@@ -447,14 +487,16 @@
     "ordem": "Araucariales",
     "família": "Araucariaceae",
     "género": "Araucaria",
-    "imagem": "./assets/imagens/ARAUCÁRIA.jpg"
+    "imagem": "./assets/imagens/ARAUCÁRIA.jpg",
+    "Local": "Carregando..."
   },
   {
     "falta": " falta",
     "nome_popular": "ARECA-BAMBU",
     "nome_cientifico": "Dypsis lutescens (H.Wendl.) Beentje & J.Dransf.",
     "familia": "ASTERACEAE",
-    "imagem": "./assets/imagens/ARECA-BAMBU.jpg"
+    "imagem": "./assets/imagens/ARECA-BAMBU.jpg",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "ARNICA",
@@ -463,7 +505,8 @@
     "ordem": "Asterales",
     "família": "Asteraceae",
     "imagem": "./assets/imagens/ARNICA_MEYEN.jpg",
-    "local": "G 7"
+    "local": "G 7",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "ARNICA-DA-TERRA",
@@ -473,7 +516,8 @@
     "ordem": "Asterales",
     "família": "Asteraceae",
     "gênero": "Tithonia",
-    "imagem": "./assets/imagens/ARNICA-DA-TERRA.jpg"
+    "imagem": "./assets/imagens/ARNICA-DA-TERRA.jpg",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "ARNICA-DO-MATO",
@@ -483,7 +527,8 @@
     "ordem": "Asterales",
     "família": "Asteraceae",
     "género": "Chromolaena",
-    "imagem": "./assets/imagens/ARNICA-DO-MATO.jpg"
+    "imagem": "./assets/imagens/ARNICA-DO-MATO.jpg",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "AROEIRA",
@@ -495,7 +540,8 @@
     "ordem": "Sapindales",
     "família": "Anacardiaceae",
     "género": "Schinus",
-    "imagem": "./assets/imagens/AROEIRA.jpg"
+    "imagem": "./assets/imagens/AROEIRA.jpg",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "AROEIRA-DO-SERTÃO",
@@ -507,7 +553,8 @@
     "ordem": "Sapindales",
     "família": "Anacardiaceae",
     "género": "Schinopsis",
-    "imagem": "./assets/imagens/AROEIRA-DO-SERTÃO.jpg"
+    "imagem": "./assets/imagens/AROEIRA-DO-SERTÃO.jpg",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "ARRUDA",
@@ -519,7 +566,8 @@
     "ordem": "Sapindales",
     "família": "Rutaceae",
     "género": "Ruta",
-    "imagem": "./assets/imagens/ARRUDA.jpg"
+    "imagem": "./assets/imagens/ARRUDA.jpg",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "ARTEMISIA",
@@ -529,7 +577,8 @@
     "ordem": "Asterales",
     "família": "Asteraceae",
     "género": "Artemisia",
-    "imagem": "./assets/imagens/ARTEMISIA.jpg"
+    "imagem": "./assets/imagens/ARTEMISIA.jpg",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "ÁRVORE-DE-PAPEL",
@@ -541,7 +590,8 @@
     "ordem": "Myrtales",
     "família": "Myrtaceae",
     "género": "L.",
-    "imagem": "./assets/imagens/ÁRVORE-DE-PAPEL.jpg"
+    "imagem": "./assets/imagens/ÁRVORE-DE-PAPEL.jpg",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "ASPARGO-PLUMA",
@@ -551,7 +601,8 @@
     "classe": "Magnoliopsida",
     "ordem": "Asparagales",
     "família": "Asparagaceae",
-    "imagem": "./assets/imagens/ASPARGO-PLUMA.jpg"
+    "imagem": "./assets/imagens/ASPARGO-PLUMA.jpg",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "ASSA-PEIXE",
@@ -563,7 +614,8 @@
     "classe": "Magnoliopsida",
     "ordem": "Piperales",
     "género": "Piper",
-    "local": "G 8"
+    "local": "G 8",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "ASSA-PEIXE-BRANCO",
@@ -575,7 +627,8 @@
     "classe": "Magnoliopsida",
     "ordem": "Piperales",
     "género": "Piper",
-    "local": "G 8"
+    "local": "G 8",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "AVE-DO-PARAÍSO",
@@ -587,7 +640,8 @@
     "ordem": "Zingiberales",
     "família": "Strelitziaceae",
     "género": "Strelitzia",
-    "imagem": "./assets/imagens/AVE-DO-PARAÍSO.jpg"
+    "imagem": "./assets/imagens/AVE-DO-PARAÍSO.jpg",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "AVEIA-PRETA",
@@ -597,7 +651,8 @@
     "ordem": "Poales",
     "família": "Poaceae",
     "género": "Avena",
-    "imagem": "./assets/imagens/AVEIA-PRETA.jpg"
+    "imagem": "./assets/imagens/AVEIA-PRETA.jpg",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "AVELOZ",
@@ -609,7 +664,8 @@
     "ordem": "Malpighiales",
     "família": "Euphorbiaceae",
     "género": "Euphorbia",
-    "imagem": "./assets/imagens/AVELOZ.jpg"
+    "imagem": "./assets/imagens/AVELOZ.jpg",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "AVENCA",
@@ -621,7 +677,8 @@
     "ordem": "Polypodiales",
     "família": "Vittarioideae",
     "género": "Adiantum",
-    "imagem": "./assets/imagens/AVENCA.jpg"
+    "imagem": "./assets/imagens/AVENCA.jpg",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "AVENCA-MIÚDA",
@@ -633,7 +690,8 @@
     "ordem": "Polypodiales",
     "família": "Vittarioideae",
     "género": "Adiantum",
-    "imagem": "./assets/imagens/AVENCA-MIÚDA.jpg"
+    "imagem": "./assets/imagens/AVENCA-MIÚDA.jpg",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "AZALEIA-BRANCA",
@@ -645,7 +703,8 @@
     "ordem": "Ericales",
     "família": "Ericaceae",
     "género": "Rhododendron",
-    "imagem": "./assets/imagens/AZALEIA-BRANCA.jpg"
+    "imagem": "./assets/imagens/AZALEIA-BRANCA.jpg",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "AZALEIA-VERMELHA",
@@ -657,7 +716,8 @@
     "ordem": "Ericales",
     "família": "Ericaceae",
     "género": "Rhododendron",
-    "imagem": "./assets/imagens/AZALEIA-VERMELHA.jpg"
+    "imagem": "./assets/imagens/AZALEIA-VERMELHA.jpg",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "AZEDINHA-DO-BREJO",
@@ -669,7 +729,8 @@
     "ordem": "Cucurbitales",
     "família": "Begoniaceae",
     "género": "Begonia",
-    "imagem": "./assets/imagens/AZEDINHA-DO-BREJO.jpg"
+    "imagem": "./assets/imagens/AZEDINHA-DO-BREJO.jpg",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "AZULZINHA",
@@ -681,7 +742,8 @@
     "ordem": "Solanales",
     "família": "Convolvulaceae",
     "género": "L.",
-    "imagem": "./assets/imagens/AZULZINHA.jpg"
+    "imagem": "./assets/imagens/AZULZINHA.jpg",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "BABAÇU",
@@ -691,7 +753,8 @@
     "classe": "Liliopsida",
     "ordem": "Arecales",
     "família": "Arecaceae",
-    "imagem": "./assets/imagens/BABAÇU.jpg"
+    "imagem": "./assets/imagens/BABAÇU.jpg",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "BABA-DE-BOI",
@@ -703,7 +766,8 @@
     "ordem": "Arecales",
     "família": "Arecaceae",
     "género": "Syagrus",
-    "imagem": "./assets/imagens/BABA-DE-BOI.jpg"
+    "imagem": "./assets/imagens/BABA-DE-BOI.jpg",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "BABOSA",
@@ -715,7 +779,8 @@
     "ordem": "Asparagales",
     "família": "Xanthorrhoeaceae",
     "género": "Aloe",
-    "imagem": "./assets/imagens/BABOSA.jpg"
+    "imagem": "./assets/imagens/BABOSA.jpg",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "BABOSA",
@@ -727,7 +792,8 @@
     "ordem": "Asparagales",
     "família": "Xanthorrhoeaceae",
     "género": "Aloe",
-    "imagem": "./assets/imagens/BABOSA.jpg"
+    "imagem": "./assets/imagens/BABOSA.jpg",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "BABOSA",
@@ -739,7 +805,8 @@
     "ordem": "Asparagales",
     "família": "Asphodelaceae",
     "género": "Aloe",
-    "imagem": "./assets/imagens/BABOSA.jpg"
+    "imagem": "./assets/imagens/BABOSA.jpg",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "BABOSA",
@@ -749,7 +816,8 @@
     "classe": "Liliopsida",
     "ordem": "Asparagales",
     "família": "Asphodeloideae",
-    "imagem": "./assets/imagens/BABOSA.jpg"
+    "imagem": "./assets/imagens/BABOSA.jpg",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "BACUPARI",
@@ -760,7 +828,8 @@
     "ordem": "Malpighiales",
     "família": "Clusiaceae",
     "imagem": "./assets/imagens/BACUPARI.jpg",
-    "local": "VIVEIRO"
+    "local": "VIVEIRO",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "BÁLSAMO",
@@ -771,7 +840,8 @@
     "ordem": "Ericales",
     "família": "Bercht.",
     "imagem": "./assets/imagens/BALSAMO.jpg",
-    "local": "G 12"
+    "local": "G 12",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "BANANA-DE-JARDIM",
@@ -781,7 +851,8 @@
     "ordem": "Zingiberales",
     "família": "Musaceae",
     "género": "Musa",
-    "imagem": "./assets/imagens/BANANA-DE-JARDIM.jpg"
+    "imagem": "./assets/imagens/BANANA-DE-JARDIM.jpg",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "BANANA-DE-MACACO",
@@ -793,7 +864,8 @@
     "ordem": "Alismatales",
     "família": "Araceae",
     "género": "Thaumatophyllum",
-    "imagem": "./assets/imagens/BANANA-DE-MACACO.jpg"
+    "imagem": "./assets/imagens/BANANA-DE-MACACO.jpg",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "BANANA-OURO",
@@ -805,14 +877,16 @@
     "ordem": "Zingiberales",
     "família": "Musaceae",
     "género": "Musa",
-    "imagem": "./assets/imagens/BANANA-OURO.jpg"
+    "imagem": "./assets/imagens/BANANA-OURO.jpg",
+    "Local": "Carregando..."
   },
   {
     "falta": " falta",
     "nome_popular": "BANANA-PRATA",
     "nome_cientifico": "Musa paradisica L.",
     "familia": "MUSACEAE",
-    "imagem": "./assets/imagens/BANANA-PRATA.jpg"
+    "imagem": "./assets/imagens/BANANA-PRATA.jpg",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "BARBA-DE-VELHO",
@@ -824,7 +898,8 @@
     "ordem": "Poales",
     "família": "Tillandsioideae",
     "género": "Tillandsia",
-    "imagem": "./assets/imagens/BARBA-DE-VELHO.jpg"
+    "imagem": "./assets/imagens/BARBA-DE-VELHO.jpg",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "BARBASCO",
@@ -835,7 +910,8 @@
     "classe": "Magnoliopsida",
     "ordem": "Lamiales",
     "família": "Scrophulariaceae",
-    "imagem": "./assets/imagens/BARBASCO.jpg"
+    "imagem": "./assets/imagens/BARBASCO.jpg",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "BARDANA",
@@ -847,7 +923,8 @@
     "ordem": "Asterales",
     "família": "Asteraceae",
     "género": "Arctium",
-    "imagem": "./assets/imagens/BARDANA.jpg"
+    "imagem": "./assets/imagens/BARDANA.jpg",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "BARLÉRIA-VERMELHA",
@@ -858,7 +935,8 @@
     "classe": "Magnoliopsida",
     "ordem": "Lamiales",
     "família": "Acanthoideae",
-    "imagem": "./assets/imagens/BARLÉRIA-VERMELHA.jpg"
+    "imagem": "./assets/imagens/BARLÉRIA-VERMELHA.jpg",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "BASILICÃO",
@@ -870,7 +948,8 @@
     "ordem": "Lamiales",
     "família": "Lamiaceae",
     "género": "Ocimum",
-    "imagem": "./assets/imagens/BASILICÃO.jpg"
+    "imagem": "./assets/imagens/BASILICÃO.jpg",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "BATATA-DOCE",
@@ -882,7 +961,8 @@
     "ordem": "Solanales",
     "família": "Convolvulaceae",
     "género": "Ipomoea",
-    "imagem": "./assets/imagens/BATATA-DOCE.jpg"
+    "imagem": "./assets/imagens/BATATA-DOCE.jpg",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "BATATA-DOCE-ROXA",
@@ -894,7 +974,8 @@
     "ordem": "Solanales",
     "família": "Convolvulaceae",
     "género": "Ipomoea",
-    "imagem": "./assets/imagens/BATATA-DOCE-ROXA.jpg"
+    "imagem": "./assets/imagens/BATATA-DOCE-ROXA.jpg",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "BATATA-YACON",
@@ -904,7 +985,8 @@
     "ordem": "Asterales",
     "família": "Asteraceae",
     "género": "Smallanthus",
-    "imagem": "./assets/imagens/BATATA-YACON.jpg"
+    "imagem": "./assets/imagens/BATATA-YACON.jpg",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "BELDROEGA",
@@ -916,7 +998,8 @@
     "ordem": "Caryophyllales",
     "família": "Portulacaceae",
     "género": "Portulaca",
-    "imagem": "./assets/imagens/BELDROEGA.jpg"
+    "imagem": "./assets/imagens/BELDROEGA.jpg",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "BELDROEGA-GORDA",
@@ -926,7 +1009,8 @@
     "ordem": "Caryophyllales",
     "família": "Talinaceae",
     "género": "Talinum",
-    "imagem": "./assets/imagens/BELDROEGA-GORDA.jpg"
+    "imagem": "./assets/imagens/BELDROEGA-GORDA.jpg",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "BICO-DE-PAPAGAIO",
@@ -937,14 +1021,16 @@
     "classe": "Liliopsida",
     "ordem": "Zingiberales",
     "família": "Heliconiaceae",
-    "imagem": "./assets/imagens/BICO-DE-PAPAGAIO.jpg"
+    "imagem": "./assets/imagens/BICO-DE-PAPAGAIO.jpg",
+    "Local": "Carregando..."
   },
   {
     "falta": " falta",
     "nome_popular": "BIGODE-DE-OURO",
     "nome_cientifico": "Callisia fragrans (Lindl.) Woodson",
     "familia": "COMMELINACEAE",
-    "imagem": "./assets/imagens/BIGODE-DE-OURO.jpg"
+    "imagem": "./assets/imagens/BIGODE-DE-OURO.jpg",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "BOCA-DE-LEÃO 2",
@@ -955,14 +1041,16 @@
     "classe": "Magnoliopsida",
     "ordem": "Lamiales",
     "família": "Linderniaceae",
-    "imagem": "./assets/imagens/BOCA-DE-LEÃO_2.jpg"
+    "imagem": "./assets/imagens/BOCA-DE-LEÃO_2.jpg",
+    "Local": "Carregando..."
   },
   {
     "falta": " falta",
     "nome_popular": "BOLDO-JAPONÊS",
     "nome_cientifico": "Plectranthus neochilus Schltr.",
     "familia": "LAMIACEAE",
-    "imagem": "./assets/imagens/BOLDO-JAPONÊS.jpg"
+    "imagem": "./assets/imagens/BOLDO-JAPONÊS.jpg",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "BOLDO-NACIONAL",
@@ -974,7 +1062,8 @@
     "ordem": "Lamiales",
     "família": "Lamiaceae",
     "género": "Plectranthus",
-    "imagem": "./assets/imagens/BOLDO-NACIONAL.jpg"
+    "imagem": "./assets/imagens/BOLDO-NACIONAL.jpg",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "BORBOLETA-AZUL",
@@ -984,14 +1073,16 @@
     "classe": "Magnoliopsida",
     "ordem": "Lamiales",
     "família": "Lamiaceae",
-    "imagem": "./assets/imagens/BORBOLETA-AZUL.jpg"
+    "imagem": "./assets/imagens/BORBOLETA-AZUL.jpg",
+    "Local": "Carregando..."
   },
   {
     "falta": " falta",
     "nome_popular": "BOTÃO-DE-OURO",
     "nome_cientifico": "Unxia suffruticosa (Baker) Stuessy",
     "familia": "ASTERACEAE",
-    "imagem": "./assets/imagens/BOTÃO-DE-OURO.jpg"
+    "imagem": "./assets/imagens/BOTÃO-DE-OURO.jpg",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "BRINCO-DE-PRINCESA",
@@ -1003,7 +1094,8 @@
     "ordem": "Myrtales",
     "família": "Onagraceae",
     "género": "Fuchsia",
-    "imagem": "./assets/imagens/BRINCO-DE-PRINCESA.jpg"
+    "imagem": "./assets/imagens/BRINCO-DE-PRINCESA.jpg",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "BROMELIA",
@@ -1014,7 +1106,8 @@
     "classe": "Commelinidae",
     "ordem": "Poales",
     "família": "Bromelioideae",
-    "imagem": "./assets/imagens/BROMELIA.jpg"
+    "imagem": "./assets/imagens/BROMELIA.jpg",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "BROMÉLIA-IMPERAL",
@@ -1026,14 +1119,16 @@
     "ordem": "Poales",
     "família": "Tillandsioideae",
     "género": "Alcantarea",
-    "imagem": "./assets/imagens/BROMÉLIA-IMPERAL.jpg"
+    "imagem": "./assets/imagens/BROMÉLIA-IMPERAL.jpg",
+    "Local": "Carregando..."
   },
   {
     "falta": " falta",
     "nome_popular": "BROMIL",
     "nome_cientifico": "Senega paniculata (L.) J.F.B.Pastore & J.R.Abbott",
     "familia": "POLYGALACEAE",
-    "imagem": "./assets/imagens/BROMIL.jpg"
+    "imagem": "./assets/imagens/BROMIL.jpg",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "BUCHA-VEGETAL",
@@ -1045,7 +1140,8 @@
     "ordem": "Cucurbitales",
     "família": "Cucurbitaceae",
     "género": "Luffa",
-    "imagem": "./assets/imagens/BUCHA-VEGETAL.jpg"
+    "imagem": "./assets/imagens/BUCHA-VEGETAL.jpg",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "BULBINE-AMARELA",
@@ -1057,7 +1153,8 @@
     "ordem": "Asparagales",
     "família": "Asphodelaceae",
     "género": "Wolf",
-    "imagem": "./assets/imagens/BULBINE-AMARELA.jpg"
+    "imagem": "./assets/imagens/BULBINE-AMARELA.jpg",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "BUQUÊ-DE-NOIVA",
@@ -1066,7 +1163,8 @@
     "reino": "Plantae",
     "ordem": "Rosales",
     "família": "Rosaceae",
-    "imagem": "./assets/imagens/BUQUÊ-DE-NOIVA.jpg"
+    "imagem": "./assets/imagens/BUQUÊ-DE-NOIVA.jpg",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "BURRITO",
@@ -1077,7 +1175,8 @@
     "classe": "Magnoliopsida",
     "ordem": "Lamiales",
     "família": "Verbenaceae",
-    "imagem": "./assets/imagens/BURRITO.jpg"
+    "imagem": "./assets/imagens/BURRITO.jpg",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "BUVA",
@@ -1086,7 +1185,8 @@
     "reino": "Plantae",
     "ordem": "Asterales",
     "família": "Asteraceae",
-    "imagem": "./assets/imagens/BUVA.jpg"
+    "imagem": "./assets/imagens/BUVA.jpg",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "BUXO",
@@ -1098,7 +1198,8 @@
     "ordem": "Buxales",
     "família": "Buxaceae",
     "género": "Buxus",
-    "imagem": "./assets/imagens/BUXO.jpg"
+    "imagem": "./assets/imagens/BUXO.jpg",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "CABAÇA",
@@ -1108,7 +1209,8 @@
     "ordem": "Cucurbitales",
     "família": "Cucurbitaceae",
     "género": "Lagenaria",
-    "imagem": "./assets/imagens/CABAÇA.jpg"
+    "imagem": "./assets/imagens/CABAÇA.jpg",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "CABELUDINHA",
@@ -1120,7 +1222,8 @@
     "ordem": "Myrtales",
     "família": "Myrtaceae",
     "género": "Myrciaria",
-    "imagem": "./assets/imagens/CABELUDINHA.jpg"
+    "imagem": "./assets/imagens/CABELUDINHA.jpg",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "CAFÉ",
@@ -1130,7 +1233,8 @@
     "ordem": "Gentianales",
     "família": "Rubiaceae",
     "género": "Coffea",
-    "imagem": "./assets/imagens/CAFÉ.jpg"
+    "imagem": "./assets/imagens/CAFÉ.jpg",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "CAJU",
@@ -1142,7 +1246,8 @@
     "ordem": "Sapindales",
     "família": "Anacardiaceae",
     "género": "Anacardium",
-    "imagem": "./assets/imagens/CAJU.jpg"
+    "imagem": "./assets/imagens/CAJU.jpg",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "CALÊNDULA",
@@ -1152,14 +1257,16 @@
     "ordem": "Asterales",
     "família": "Asteraceae",
     "género": "Calendula",
-    "imagem": "./assets/imagens/CALÊNDULA.jpg"
+    "imagem": "./assets/imagens/CALÊNDULA.jpg",
+    "Local": "Carregando..."
   },
   {
     "falta": " falta",
     "nome_popular": "CAMABARÁ-BRANCO",
     "nome_cientifico": "Lantana nivea Vent.",
     "familia": "VERBENACEAE",
-    "imagem": "./assets/imagens/CAMABARÁ-BRANCO.jpg"
+    "imagem": "./assets/imagens/CAMABARÁ-BRANCO.jpg",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "CAMAPÚ",
@@ -1169,7 +1276,8 @@
     "ordem": "Solanales",
     "família": "Solanaceae",
     "género": "L.",
-    "imagem": "./assets/imagens/CAMAPÚ.jpg"
+    "imagem": "./assets/imagens/CAMAPÚ.jpg",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "CAMARÃO-AZUL",
@@ -1180,14 +1288,16 @@
     "classe": "Magnoliopsida",
     "ordem": "Lamiales",
     "família": "Acanthoideae",
-    "imagem": "./assets/imagens/CAMARÃO-AZUL.jpg"
+    "imagem": "./assets/imagens/CAMARÃO-AZUL.jpg",
+    "Local": "Carregando..."
   },
   {
     "falta": " falta",
     "nome_popular": "CAMARÃO-VERMELHO",
     "nome_cientifico": "Justicia brandegeeana Wassh. & L.B.Sm.",
     "familia": "ACANTHACEAE",
-    "imagem": "./assets/imagens/CAMARÃO-VERMELHO.jpg"
+    "imagem": "./assets/imagens/CAMARÃO-VERMELHO.jpg",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "CAMBARÁ",
@@ -1199,7 +1309,8 @@
     "ordem": "Asterales",
     "família": "Asteraceae",
     "género": "Moquiniastrum",
-    "imagem": "./assets/imagens/CAMBARÁ.jpg"
+    "imagem": "./assets/imagens/CAMBARÁ.jpg",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "CAMBARÁ-DE-ESPINHO",
@@ -1211,7 +1322,8 @@
     "ordem": "Lamiales",
     "família": "Verbenaceae",
     "género": "Lantana",
-    "imagem": "./assets/imagens/CAMBARÁ-DE-ESPINHO.jpg"
+    "imagem": "./assets/imagens/CAMBARÁ-DE-ESPINHO.jpg",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "CAMBARÁ-LILÁS",
@@ -1222,7 +1334,8 @@
     "classe": "Magnoliopsida",
     "ordem": "Lamiales",
     "família": "Verbenaceae",
-    "imagem": "./assets/imagens/CAMBARÁ-LILÁS.jpg"
+    "imagem": "./assets/imagens/CAMBARÁ-LILÁS.jpg",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "CAMBARÁ-SEM-ESPINHO",
@@ -1234,7 +1347,8 @@
     "ordem": "Lamiales",
     "família": "Verbenaceae",
     "género": "Lantana",
-    "imagem": "./assets/imagens/CAMBARÁ-SEM-ESPINHO.jpg"
+    "imagem": "./assets/imagens/CAMBARÁ-SEM-ESPINHO.jpg",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "CAMBUCI",
@@ -1246,7 +1360,8 @@
     "ordem": "Myrtales",
     "família": "Myrtaceae",
     "género": "Campomanesia",
-    "imagem": "./assets/imagens/CAMBUCI.jpg"
+    "imagem": "./assets/imagens/CAMBUCI.jpg",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "CAMBUÍ",
@@ -1258,7 +1373,8 @@
     "ordem": "Myrtales",
     "família": "Myrtaceae",
     "género": "Myrcia",
-    "imagem": "./assets/imagens/CAMBUÍ.jpg"
+    "imagem": "./assets/imagens/CAMBUÍ.jpg",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "CAMOMILA",
@@ -1268,7 +1384,8 @@
     "ordem": "Isifonus",
     "família": "Asteraceae",
     "género": "Matricaria",
-    "imagem": "./assets/imagens/CAMOMILA.jpg"
+    "imagem": "./assets/imagens/CAMOMILA.jpg",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "CANA-CAIANA",
@@ -1280,7 +1397,8 @@
     "ordem": "Poales",
     "família": "Poaceae",
     "género": "Saccharum",
-    "imagem": "./assets/imagens/CANA-CAIANA.jpg"
+    "imagem": "./assets/imagens/CANA-CAIANA.jpg",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "CANA-DE-MACACO",
@@ -1291,7 +1409,8 @@
     "classe": "Liliopsida",
     "ordem": "Commelinales",
     "família": "Commelinaceae",
-    "imagem": "./assets/imagens/CANA-DE-MACACO.jpg"
+    "imagem": "./assets/imagens/CANA-DE-MACACO.jpg",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "CANA-DO-BREJO",
@@ -1303,7 +1422,8 @@
     "ordem": "Zingiberales",
     "família": "Costaceae",
     "género": "L.",
-    "imagem": "./assets/imagens/CANA-DO-BREJO.jpg"
+    "imagem": "./assets/imagens/CANA-DO-BREJO.jpg",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "CANA-DO-BREJO",
@@ -1315,7 +1435,8 @@
     "ordem": "Zingiberales",
     "família": "Costaceae",
     "género": "L.",
-    "imagem": "./assets/imagens/CANA-DO-BREJO.jpg"
+    "imagem": "./assets/imagens/CANA-DO-BREJO.jpg",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "CANA-DO-BREJO",
@@ -1327,7 +1448,8 @@
     "ordem": "Zingiberales",
     "família": "Costaceae",
     "género": "Costus",
-    "imagem": "./assets/imagens/CANA-DO-BREJO.jpg"
+    "imagem": "./assets/imagens/CANA-DO-BREJO.jpg",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "CANELA",
@@ -1338,7 +1460,8 @@
     "ordem": "Laurales",
     "família": "Lauraceae",
     "género": "Cinnamomum",
-    "imagem": "./assets/imagens/CANELA.jpg"
+    "imagem": "./assets/imagens/CANELA.jpg",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "CANELA-DE-VELHO",
@@ -1350,7 +1473,8 @@
     "ordem": "Myrtales",
     "família": "Melastomataceae",
     "género": "Miconia",
-    "imagem": "./assets/imagens/CANELA-DE-VELHO.jpg"
+    "imagem": "./assets/imagens/CANELA-DE-VELHO.jpg",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "CANFRINHO",
@@ -1359,13 +1483,15 @@
     "reino": "Plantae",
     "ordem": "Asterales",
     "família": "Asteraceae",
-    "imagem": "./assets/imagens/CANFRINHO.jpg"
+    "imagem": "./assets/imagens/CANFRINHO.jpg",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "CANUDINHO",
     "nome_cientifico": "Mesosphaerum pectinatum (L.) Kuntze",
     "familia": "LAMIACEAE",
-    "imagem": "./assets/imagens/CANUDINHO.jpg"
+    "imagem": "./assets/imagens/CANUDINHO.jpg",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "CANUDO",
@@ -1377,7 +1503,8 @@
     "ordem": "Fabales",
     "família": "Caesalpinioideae",
     "género": "Senna",
-    "imagem": "./assets/imagens/CANUDO.jpg"
+    "imagem": "./assets/imagens/CANUDO.jpg",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "CAPIÇOBA",
@@ -1387,7 +1514,8 @@
     "ordem": "Asterales",
     "família": "Asteraceae",
     "género": "Erechtites",
-    "imagem": "./assets/imagens/CAPIÇOBA.jpg"
+    "imagem": "./assets/imagens/CAPIÇOBA.jpg",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "CAPIM-CORONA",
@@ -1397,7 +1525,8 @@
     "ordem": "Poales",
     "família": "Poaceae",
     "género": "Digitaria",
-    "imagem": "./assets/imagens/CAPIM-CORONA.jpg"
+    "imagem": "./assets/imagens/CAPIM-CORONA.jpg",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "CAPIM-LIMÃO",
@@ -1408,7 +1537,8 @@
     "classe": "Commelinidae",
     "ordem": "Poales",
     "família": "Poaceae",
-    "imagem": "./assets/imagens/CAPIM-LIMÃO.jpg"
+    "imagem": "./assets/imagens/CAPIM-LIMÃO.jpg",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "CAPIM-LIMÃO",
@@ -1420,14 +1550,16 @@
     "ordem": "Poales",
     "família": "Poaceae",
     "género": "Cymbopogon",
-    "imagem": "./assets/imagens/CAPIM-LIMÃO.jpg"
+    "imagem": "./assets/imagens/CAPIM-LIMÃO.jpg",
+    "Local": "Carregando..."
   },
   {
     "falta": " falta",
     "nome_popular": "CAPIM-LIMÃO RASTEIRO",
     "nome_cientifico": "Pectis brevipedunculata Sch.Bip.",
     "familia": "ASTERACEAE",
-    "imagem": "./assets/imagens/CAPIM-LIMÃO_RASTEIRO.jpg"
+    "imagem": "./assets/imagens/CAPIM-LIMÃO_RASTEIRO.jpg",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "CAPOROROCA",
@@ -1436,7 +1568,8 @@
     "reino": "Plantae",
     "ordem": "Ericales",
     "família": "Myrsinaceae",
-    "imagem": "./assets/imagens/CAPOROROCA.jpg"
+    "imagem": "./assets/imagens/CAPOROROCA.jpg",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "CAPUCHINHA",
@@ -1448,7 +1581,8 @@
     "ordem": "Brassicales",
     "família": "Tropaeolaceae",
     "género": "Tropaeolum",
-    "imagem": "./assets/imagens/CAPUCHINHA.jpg"
+    "imagem": "./assets/imagens/CAPUCHINHA.jpg",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "CARDO-CORREDOR",
@@ -1458,7 +1592,8 @@
     "ordem": "Umbellales",
     "família": "Apiaceae",
     "género": "Eryngium",
-    "imagem": "./assets/imagens/CARDO-CORREDOR.jpg"
+    "imagem": "./assets/imagens/CARDO-CORREDOR.jpg",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "CARDO-DA-MONTANHA",
@@ -1469,7 +1604,8 @@
     "classe": "Magnoliopsida",
     "ordem": "Lamiales",
     "família": "Acanthoideae",
-    "imagem": "./assets/imagens/CARDO-DA-MONTANHA.jpg"
+    "imagem": "./assets/imagens/CARDO-DA-MONTANHA.jpg",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "CARDO-MEXICANO",
@@ -1481,7 +1617,8 @@
     "ordem": "Ranunculales",
     "família": "Papaveraceae",
     "género": "Argemone",
-    "imagem": "./assets/imagens/CARDO-MEXICANO.jpg"
+    "imagem": "./assets/imagens/CARDO-MEXICANO.jpg",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "CARDO-SANTO",
@@ -1490,7 +1627,8 @@
     "reino": "Plantae",
     "ordem": "Asterales",
     "família": "Asteraceae",
-    "imagem": "./assets/imagens/CARDO-SANTO.jpg"
+    "imagem": "./assets/imagens/CARDO-SANTO.jpg",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "CAROBINHA",
@@ -1502,7 +1640,8 @@
     "ordem": "Lamiales",
     "família": "Bignoniaceae",
     "género": "Jacaranda",
-    "imagem": "./assets/imagens/CAROBINHA.jpg"
+    "imagem": "./assets/imagens/CAROBINHA.jpg",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "CARQUEJA",
@@ -1511,7 +1650,8 @@
     "reino": "Plantae",
     "ordem": "Asterales",
     "família": "Asteraceae",
-    "imagem": "./assets/imagens/CARQUEJA.jpg"
+    "imagem": "./assets/imagens/CARQUEJA.jpg",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "CARQUEJA-DOCE",
@@ -1520,7 +1660,8 @@
     "reino": "Plantae",
     "ordem": "Asterales",
     "família": "Asteraceae",
-    "imagem": "./assets/imagens/CARQUEJA-DOCE.jpg"
+    "imagem": "./assets/imagens/CARQUEJA-DOCE.jpg",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "CARURU-DE-ESPINHO",
@@ -1530,7 +1671,8 @@
     "ordem": "Caryophyllales",
     "família": "Amaranthaceae",
     "género": "Amaranthus",
-    "imagem": "./assets/imagens/CARURU-DE-ESPINHO.jpg"
+    "imagem": "./assets/imagens/CARURU-DE-ESPINHO.jpg",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "CASUARINA",
@@ -1540,7 +1682,8 @@
     "ordem": "Fagales",
     "família": "Casuarinaceae",
     "género": "Casuarina",
-    "imagem": "./assets/imagens/CASUARINA.jpg"
+    "imagem": "./assets/imagens/CASUARINA.jpg",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "CATINGA-DE-MULATA",
@@ -1552,7 +1695,8 @@
     "ordem": "Asterales",
     "família": "Asteraceae",
     "género": "Tanacetum",
-    "imagem": "./assets/imagens/CATINGA-DE-MULATA.jpg"
+    "imagem": "./assets/imagens/CATINGA-DE-MULATA.jpg",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "CAVALINHA",
@@ -1564,7 +1708,8 @@
     "ordem": "Equisetales",
     "família": "Equisetaceae",
     "género": "L.",
-    "imagem": "./assets/imagens/CAVALINHA.jpg"
+    "imagem": "./assets/imagens/CAVALINHA.jpg",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "CEBOLINHA",
@@ -1574,7 +1719,8 @@
     "ordem": "Asparagales",
     "família": "Amaryllidaceae",
     "género": "Allium",
-    "imagem": "./assets/imagens/CEBOLINHA.jpg"
+    "imagem": "./assets/imagens/CEBOLINHA.jpg",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "CEDRO",
@@ -1586,7 +1732,8 @@
     "ordem": "Sapindales",
     "família": "Meliaceae",
     "género": "Cedrela",
-    "imagem": "./assets/imagens/CEDRO.jpg"
+    "imagem": "./assets/imagens/CEDRO.jpg",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "CENTELHA-ASIÁTICA",
@@ -1598,7 +1745,8 @@
     "ordem": "Apiales",
     "família": "Apiaceae",
     "género": "Centella",
-    "imagem": "./assets/imagens/CENTELHA-ASIÁTICA.jpg"
+    "imagem": "./assets/imagens/CENTELHA-ASIÁTICA.jpg",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "CEREJA-BRASILEIRA",
@@ -1609,7 +1757,8 @@
     "classe": "Magnoliopsida",
     "ordem": "Myrtales",
     "família": "Myrtaceae",
-    "imagem": "./assets/imagens/CEREJA-BRASILEIRA.jpg"
+    "imagem": "./assets/imagens/CEREJA-BRASILEIRA.jpg",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "CEREJEIRA",
@@ -1618,14 +1767,16 @@
     "reino": "Plantae",
     "ordem": "Rosales",
     "família": "Prunoideae",
-    "imagem": "./assets/imagens/CEREJEIRA.jpg"
+    "imagem": "./assets/imagens/CEREJEIRA.jpg",
+    "Local": "Carregando..."
   },
   {
     "falta": " falta",
     "nome_popular": "CHAMBÁ",
     "nome_cientifico": "Justicia pectoralis Jacq.",
     "familia": "ACANTHACEAE",
-    "imagem": "./assets/imagens/CHAMBÁ.jpg"
+    "imagem": "./assets/imagens/CHAMBÁ.jpg",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "CHAPÉU-DE-COURO",
@@ -1637,7 +1788,8 @@
     "ordem": "Alismatales",
     "família": "Alismataceae",
     "género": "Rich.",
-    "imagem": "./assets/imagens/CHAPÉU-DE-COURO.jpg"
+    "imagem": "./assets/imagens/CHAPÉU-DE-COURO.jpg",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "CHAPÉU-MEXICANO",
@@ -1649,7 +1801,8 @@
     "ordem": "Saxifragales",
     "família": "Crassulaceae",
     "género": "DC.",
-    "imagem": "./assets/imagens/CHAPÉU-MEXICANO.jpg"
+    "imagem": "./assets/imagens/CHAPÉU-MEXICANO.jpg",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "CHAYA",
@@ -1661,14 +1814,16 @@
     "ordem": "Malpighiales",
     "família": "Euphorbiaceae",
     "género": "Pohl",
-    "imagem": "./assets/imagens/CHAYA.jpg"
+    "imagem": "./assets/imagens/CHAYA.jpg",
+    "Local": "Carregando..."
   },
   {
     "falta": " falta",
     "nome_popular": "CHEFLERA",
     "nome_cientifico": "Heptapleurum actinophyllum (Endl.) Lowry & G.M. Plunkett",
     "familia": "ARALIACEAE",
-    "imagem": "./assets/imagens/CHEFLERA.jpg"
+    "imagem": "./assets/imagens/CHEFLERA.jpg",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "CHEFLERA-VARIEGATA",
@@ -1680,7 +1835,8 @@
     "ordem": "Apiales",
     "família": "Araliaceae",
     "género": "Schefflera",
-    "imagem": "./assets/imagens/CHEFLERA-VARIEGATA.jpg"
+    "imagem": "./assets/imagens/CHEFLERA-VARIEGATA.jpg",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "CHICHA / MANDUVI",
@@ -1690,14 +1846,16 @@
     "divisão": "Magnoliophyta",
     "classe": "Magnoliopsida",
     "ordem": "Malvales",
-    "família": "Malvaceae"
+    "família": "Malvaceae",
+    "Local": "Carregando..."
   },
   {
     "falta": " falta",
     "nome_popular": "CHIFRE-DE-VEADO",
     "nome_cientifico": "Platycerium bifurcatum (Cav.) C. Chr.",
     "familia": "POLYPODIACEAE",
-    "imagem": "./assets/imagens/CHIFRE-DE-VEADO.jpg"
+    "imagem": "./assets/imagens/CHIFRE-DE-VEADO.jpg",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "CHOCALHO-DE-COBRA",
@@ -1708,7 +1866,8 @@
     "classe": "Magnoliopsida",
     "ordem": "Fabales",
     "família": "Fabaceae",
-    "imagem": "./assets/imagens/CHOCALHO-DE-COBRA.jpg"
+    "imagem": "./assets/imagens/CHOCALHO-DE-COBRA.jpg",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "CHUCHU",
@@ -1719,7 +1878,8 @@
     "ordem": "Violales",
     "família": "Cucurbitaceae",
     "imagem": "./assets/imagens/CHUCHU.jpg",
-    "local": "G 12"
+    "local": "G 12",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "CIDRÓ",
@@ -1730,21 +1890,24 @@
     "classe": "Magnoliopsida",
     "ordem": "Lamiales",
     "família": "Verbenaceae",
-    "imagem": "./assets/imagens/CIDRÓ.jpg"
+    "imagem": "./assets/imagens/CIDRÓ.jpg",
+    "Local": "Carregando..."
   },
   {
     "falta": " falta",
     "nome_popular": "CINERÁRIA",
     "nome_cientifico": "Jacobaea maritima (L.) Pelser & Meijden",
     "familia": "ASTERACEAE",
-    "imagem": "./assets/imagens/CINERÁRIA.jpg"
+    "imagem": "./assets/imagens/CINERÁRIA.jpg",
+    "Local": "Carregando..."
   },
   {
     "falta": " falta",
     "nome_popular": "CIPÓ-CABELUDO",
     "nome_cientifico": "Mikania hirsutissima DC.",
     "familia": "ASTERACEAE",
-    "imagem": "./assets/imagens/CIPÓ-CABELUDO.jpg"
+    "imagem": "./assets/imagens/CIPÓ-CABELUDO.jpg",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "CIPÓ-CABELUDO",
@@ -1755,7 +1918,8 @@
     "classe": "Magnoliopsida",
     "ordem": "Sapindales",
     "família": "Sapindaceae",
-    "imagem": "./assets/imagens/CIPÓ-CABELUDO.jpg"
+    "imagem": "./assets/imagens/CIPÓ-CABELUDO.jpg",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "CIPÓ-CHUMBO",
@@ -1767,7 +1931,8 @@
     "ordem": "Solanales",
     "família": "Convolvulaceae",
     "género": "Cuscuta",
-    "imagem": "./assets/imagens/CIPÓ-CHUMBO.jpg"
+    "imagem": "./assets/imagens/CIPÓ-CHUMBO.jpg",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "CIPÓ-JAGUBE",
@@ -1779,7 +1944,8 @@
     "ordem": "Malpighiales",
     "família": "Malpighiaceae",
     "género": "Banisteriopsis",
-    "imagem": "./assets/imagens/CIPÓ-JAGUBE.jpg"
+    "imagem": "./assets/imagens/CIPÓ-JAGUBE.jpg",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "CIPÓ-SÃO-JOÃO",
@@ -1790,7 +1956,8 @@
     "classe": "Magnoliopsida",
     "ordem": "Lamiales",
     "família": "Bignoniaceae",
-    "imagem": "./assets/imagens/CIPÓ-SÃO-JOÃO.jpg"
+    "imagem": "./assets/imagens/CIPÓ-SÃO-JOÃO.jpg",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "CIPRESTE",
@@ -1802,7 +1969,8 @@
     "ordem": "Pinales",
     "família": "Cupressaceae",
     "género": "Cupressus",
-    "imagem": "./assets/imagens/CIPRESTE.jpg"
+    "imagem": "./assets/imagens/CIPRESTE.jpg",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "CITRONELA",
@@ -1813,7 +1981,8 @@
     "classe": "Commelinidae",
     "ordem": "Poales",
     "família": "Poaceae",
-    "imagem": "./assets/imagens/CITRONELA.jpg"
+    "imagem": "./assets/imagens/CITRONELA.jpg",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "CLOROFITO",
@@ -1825,7 +1994,8 @@
     "ordem": "Asparagales",
     "família": "Agavoideae",
     "género": "Chlorophytum",
-    "imagem": "./assets/imagens/CLOROFITO.jpg"
+    "imagem": "./assets/imagens/CLOROFITO.jpg",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "COENTRO-BRAVO",
@@ -1836,14 +2006,16 @@
     "classe": "Magnoliopsida",
     "ordem": "Apiales",
     "família": "Apiaceae",
-    "imagem": "./assets/imagens/COENTRO-BRAVO.jpg"
+    "imagem": "./assets/imagens/COENTRO-BRAVO.jpg",
+    "Local": "Carregando..."
   },
   {
     "falta": " falta",
     "nome_popular": "CÓLEUS",
     "nome_cientifico": "Coleus scutellarioides (L.) Benth.",
     "familia": "LAMIACEAE",
-    "imagem": "./assets/imagens/CÓLEUS.jpg"
+    "imagem": "./assets/imagens/CÓLEUS.jpg",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "COLIBRI",
@@ -1855,7 +2027,8 @@
     "ordem": "Malvales",
     "família": "Malvaceae",
     "género": "Malvaviscus",
-    "imagem": "./assets/imagens/COLIBRI.jpg"
+    "imagem": "./assets/imagens/COLIBRI.jpg",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "COLÔNIA",
@@ -1867,7 +2040,8 @@
     "ordem": "Zingiberales",
     "família": "Alpinioideae",
     "género": "Alpinia",
-    "imagem": "./assets/imagens/COLÔNIA.jpg"
+    "imagem": "./assets/imagens/COLÔNIA.jpg",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "COLÔNIA-VARIEGATA",
@@ -1879,7 +2053,8 @@
     "ordem": "Zingiberales",
     "família": "Alpinioideae",
     "género": "Alpinia",
-    "imagem": "./assets/imagens/COLÔNIA-VARIEGATA.jpg"
+    "imagem": "./assets/imagens/COLÔNIA-VARIEGATA.jpg",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "COMIGO-NINGUÉM-PODE",
@@ -1891,7 +2066,8 @@
     "ordem": "Alismatales",
     "família": "Araceae",
     "género": "Dieffenbachia",
-    "imagem": "./assets/imagens/COMIGO-NINGUÉM-PODE.jpg"
+    "imagem": "./assets/imagens/COMIGO-NINGUÉM-PODE.jpg",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "CONDESSA",
@@ -1901,7 +2077,8 @@
     "ordem": "Magnoliales",
     "família": "Annonaceae",
     "género": "Annona",
-    "imagem": "./assets/imagens/CONDESSA.jpg"
+    "imagem": "./assets/imagens/CONDESSA.jpg",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "CONFREI",
@@ -1910,14 +2087,16 @@
     "reino": "Plantae",
     "ordem": "Lamiales",
     "família": "Boraginoideae",
-    "imagem": "./assets/imagens/CONFREI.jpg"
+    "imagem": "./assets/imagens/CONFREI.jpg",
+    "Local": "Carregando..."
   },
   {
     "falta": " falta",
     "nome_popular": "COPAÍBA",
     "nome_cientifico": "Copaifera langsdorffi Desf.",
     "familia": "FABACEAE",
-    "imagem": "./assets/imagens/COPAÍBA.jpg"
+    "imagem": "./assets/imagens/COPAÍBA.jpg",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "COPO-DE-LEITE",
@@ -1927,7 +2106,8 @@
     "ordem": "Commelinales",
     "família": "Araceae",
     "género": "Zantedeschia",
-    "imagem": "./assets/imagens/COPO-DE-LEITE.jpg"
+    "imagem": "./assets/imagens/COPO-DE-LEITE.jpg",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "CORDÃO-DE-FRADE",
@@ -1939,7 +2119,8 @@
     "ordem": "Lamiales",
     "família": "Lamiaceae",
     "género": "Leonotis",
-    "imagem": "./assets/imagens/CORDÃO-DE-FRADE.jpg"
+    "imagem": "./assets/imagens/CORDÃO-DE-FRADE.jpg",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "COROA-DE-CRISTO",
@@ -1951,7 +2132,8 @@
     "ordem": "Malpighiales",
     "família": "Euphorbiaceae",
     "género": "Euphorbia",
-    "imagem": "./assets/imagens/COROA-DE-CRISTO.jpg"
+    "imagem": "./assets/imagens/COROA-DE-CRISTO.jpg",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "COSMO",
@@ -1960,7 +2142,8 @@
     "reino": "Plantae",
     "ordem": "Asterales",
     "família": "Asteraceae",
-    "imagem": "./assets/imagens/COSMO.jpg"
+    "imagem": "./assets/imagens/COSMO.jpg",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "COSTELA-DE-ADÃO",
@@ -1972,14 +2155,16 @@
     "ordem": "Alismatales",
     "família": "Araceae",
     "género": "Monstera",
-    "imagem": "./assets/imagens/COSTELA-DE-ADÃO.jpg"
+    "imagem": "./assets/imagens/COSTELA-DE-ADÃO.jpg",
+    "Local": "Carregando..."
   },
   {
     "falta": " falta",
     "nome_popular": "COTONETE",
     "nome_cientifico": "Clerodendrum quadriloculare (Blanco) Merr.",
     "familia": "LAMIACEAE",
-    "imagem": "./assets/imagens/COTONETE.jpg"
+    "imagem": "./assets/imagens/COTONETE.jpg",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "COUVE-CRAVINHO",
@@ -1988,35 +2173,40 @@
     "reino": "Plantae",
     "ordem": "Asterales",
     "família": "Asteraceae",
-    "imagem": "./assets/imagens/COUVE-CRAVINHO.jpg"
+    "imagem": "./assets/imagens/COUVE-CRAVINHO.jpg",
+    "Local": "Carregando..."
   },
   {
     "falta": " falta",
     "nome_popular": "CRAJIRU - Quimiotipo 1",
     "nome_cientifico": "Fridericia chica var. angustifolia (Bonpl.) L.G.Lohmann",
     "familia": "BIGNONIACEAE",
-    "imagem": "./assets/imagens/CRAJIRU_-_Quimiotipo_1.jpg"
+    "imagem": "./assets/imagens/CRAJIRU_-_Quimiotipo_1.jpg",
+    "Local": "Carregando..."
   },
   {
     "falta": " falta",
     "nome_popular": "CRAJIRU - Quimiotipo 2",
     "nome_cientifico": "Fridericia chica (Bonpl.) L.G.Lohmann",
     "familia": "BIGNONIACEAE",
-    "imagem": "./assets/imagens/CRAJIRU_-_Quimiotipo_2.jpg"
+    "imagem": "./assets/imagens/CRAJIRU_-_Quimiotipo_2.jpg",
+    "Local": "Carregando..."
   },
   {
     "falta": " falta",
     "nome_popular": "CRAJIRU - Quimiotipo 3",
     "nome_cientifico": "Fridericia chica (Bonpl.) L.G.Lohmann",
     "familia": "BIGNONIACEAE",
-    "imagem": "./assets/imagens/CRAJIRU_-_Quimiotipo_3.jpg"
+    "imagem": "./assets/imagens/CRAJIRU_-_Quimiotipo_3.jpg",
+    "Local": "Carregando..."
   },
   {
     "falta": " falta",
     "nome_popular": "CRAJIRU - Quimiotipo 4",
     "nome_cientifico": "Fridericia chica (Bonpl.) L.G.Lohmann",
     "familia": "BIGNONIACEAE",
-    "imagem": "./assets/imagens/CRAJIRU_-_Quimiotipo_4.jpg"
+    "imagem": "./assets/imagens/CRAJIRU_-_Quimiotipo_4.jpg",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "CRAVO-DA-ÍNDIA",
@@ -2027,7 +2217,8 @@
     "classe": "Magnoliopsida",
     "ordem": "Myrtales",
     "família": "Myrtaceae",
-    "imagem": "./assets/imagens/CRAVO-DA-ÍNDIA.jpg"
+    "imagem": "./assets/imagens/CRAVO-DA-ÍNDIA.jpg",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "CRAVO-DO-MATO",
@@ -2039,7 +2230,8 @@
     "ordem": "Poales",
     "família": "Bromelioideae",
     "género": "Tillandsia",
-    "imagem": "./assets/imagens/CRAVO-DO-MATO.jpg"
+    "imagem": "./assets/imagens/CRAVO-DO-MATO.jpg",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "CREPE-DO-JAPÃO",
@@ -2048,14 +2240,16 @@
     "reino": "Plantae",
     "ordem": "Asterales",
     "família": "Asteraceae",
-    "imagem": "./assets/imagens/CREPE-DO-JAPÃO.jpg"
+    "imagem": "./assets/imagens/CREPE-DO-JAPÃO.jpg",
+    "Local": "Carregando..."
   },
   {
     "falta": " falta",
     "nome_popular": "CROTALÁRIA",
     "nome_cientifico": "Crotalaria ochroleuca G. Don",
     "familia": "FABACEAE",
-    "imagem": "./assets/imagens/CROTALÁRIA.jpg"
+    "imagem": "./assets/imagens/CROTALÁRIA.jpg",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "CROTON",
@@ -2065,7 +2259,8 @@
     "ordem": "Malpighiales",
     "família": "Euphorbiaceae",
     "género": "Codiaeum",
-    "imagem": "./assets/imagens/CROTON.jpg"
+    "imagem": "./assets/imagens/CROTON.jpg",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "CRUÁ-VERMELHO",
@@ -2077,7 +2272,8 @@
     "ordem": "Cucurbitales",
     "família": "Cucurbitaceae",
     "género": "Naudin",
-    "imagem": "./assets/imagens/CRUÁ-VERMELHO.jpg"
+    "imagem": "./assets/imagens/CRUÁ-VERMELHO.jpg",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "CÚRCUMA",
@@ -2089,7 +2285,8 @@
     "ordem": "Zingiberales",
     "família": "Zingiberaceae",
     "género": "Curcuma",
-    "imagem": "./assets/imagens/CÚRCUMA.jpg"
+    "imagem": "./assets/imagens/CÚRCUMA.jpg",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "DÁLIA-AMARELA",
@@ -2098,7 +2295,8 @@
     "reino": "Plantae",
     "ordem": "Asterales",
     "família": "Asteraceae",
-    "imagem": "./assets/imagens/DÁLIA-AMARELA.jpg"
+    "imagem": "./assets/imagens/DÁLIA-AMARELA.jpg",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "DAMA-DA-NOITE  2",
@@ -2108,7 +2306,8 @@
     "ordem": "Solanales",
     "família": "Solanaceae",
     "género": "Cestrum",
-    "imagem": "./assets/imagens/DAMA-DA-NOITE__2.jpg"
+    "imagem": "./assets/imagens/DAMA-DA-NOITE__2.jpg",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "DAMA-DA-NOITE 1",
@@ -2119,14 +2318,16 @@
     "classe": "Magnoliopsida",
     "ordem": "Caryophyllales",
     "família": "Cactaceae",
-    "imagem": "./assets/imagens/DAMA-DA-NOITE_1.jpg"
+    "imagem": "./assets/imagens/DAMA-DA-NOITE_1.jpg",
+    "Local": "Carregando..."
   },
   {
     "falta": " falta",
     "nome_popular": "DENTE-DE-LEÃO",
     "nome_cientifico": "Taraxacum officinale F.H. Wigg.",
     "familia": "ASTERACEAE",
-    "imagem": "./assets/imagens/DENTE-DE-LEÃO.jpg"
+    "imagem": "./assets/imagens/DENTE-DE-LEÃO.jpg",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "DÓLAR",
@@ -2138,7 +2339,8 @@
     "ordem": "Magnoliopsida",
     "família": "Lamiaceae",
     "género": "L'Héritier",
-    "imagem": "./assets/imagens/DÓLAR.jpg"
+    "imagem": "./assets/imagens/DÓLAR.jpg",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "DORMIDEIRA",
@@ -2150,7 +2352,8 @@
     "ordem": "Fabales",
     "família": "Mimosoideae",
     "género": "Mimosa",
-    "imagem": "./assets/imagens/DORMIDEIRA.jpg"
+    "imagem": "./assets/imagens/DORMIDEIRA.jpg",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "DRACENA-VERMELHA",
@@ -2161,21 +2364,24 @@
     "classe": "Liliopsida",
     "ordem": "Asparagales",
     "família": "Nolinoideae",
-    "imagem": "./assets/imagens/DRACENA-VERMELHA.jpg"
+    "imagem": "./assets/imagens/DRACENA-VERMELHA.jpg",
+    "Local": "Carregando..."
   },
   {
     "falta": " falta",
     "nome_popular": "ELEVANTE",
     "nome_cientifico": "Mentha citrata L.",
     "familia": "LAMIACEAE",
-    "imagem": "./assets/imagens/ELEVANTE.jpg"
+    "imagem": "./assets/imagens/ELEVANTE.jpg",
+    "Local": "Carregando..."
   },
   {
     "falta": " falta",
     "nome_popular": "ELIXIR-PAREGORICO",
     "nome_cientifico": "Piper callosum Ruiz & Pav.",
     "familia": "PIPERACEAE",
-    "imagem": "./assets/imagens/ELIXIR-PAREGORICO.jpg"
+    "imagem": "./assets/imagens/ELIXIR-PAREGORICO.jpg",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "EMBAÚBA",
@@ -2184,7 +2390,8 @@
     "reino": "Plantae",
     "ordem": "Rosales",
     "família": "Urticaceae",
-    "imagem": "./assets/imagens/EMBAÚBA.jpg"
+    "imagem": "./assets/imagens/EMBAÚBA.jpg",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "ÉRICA",
@@ -2195,7 +2402,8 @@
     "classe": "Magnoliopsida",
     "ordem": "Myrtales",
     "família": "Lythraceae",
-    "imagem": "./assets/imagens/ÉRICA.jpg"
+    "imagem": "./assets/imagens/ÉRICA.jpg",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "ERVA-BALEEIRA",
@@ -2207,7 +2415,8 @@
     "ordem": "Lamiales",
     "família": "Boraginaceae",
     "género": "Varronia",
-    "imagem": "./assets/imagens/ERVA-BALEEIRA.jpg"
+    "imagem": "./assets/imagens/ERVA-BALEEIRA.jpg",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "ERVA-BOTÃO",
@@ -2217,7 +2426,8 @@
     "ordem": "Asterales",
     "família": "Asteraceae",
     "género": "Eclipta",
-    "imagem": "./assets/imagens/ERVA-BOTÃO.jpg"
+    "imagem": "./assets/imagens/ERVA-BOTÃO.jpg",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "ERVA-CAPITÃO",
@@ -2227,7 +2437,8 @@
     "ordem": "Umbellales",
     "família": "Araliaceae",
     "género": "Hydrocotyle",
-    "imagem": "./assets/imagens/ERVA-CAPITÃO.jpg"
+    "imagem": "./assets/imagens/ERVA-CAPITÃO.jpg",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "ERVA-CIDREIRA / Quimiotipo  Linalol",
@@ -2237,7 +2448,8 @@
     "divisão": "Magnoliophyta",
     "classe": "Magnoliopsida",
     "ordem": "Lamiales",
-    "família": "Verbenaceae"
+    "família": "Verbenaceae",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "ERVA-CIDREIRA / Quimiotipo Carvona",
@@ -2247,7 +2459,8 @@
     "divisão": "Magnoliophyta",
     "classe": "Magnoliopsida",
     "ordem": "Lamiales",
-    "família": "Verbenaceae"
+    "família": "Verbenaceae",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "ERVA-CIDREIRA / Quimiotipo Citral",
@@ -2257,7 +2470,8 @@
     "divisão": "Magnoliophyta",
     "classe": "Magnoliopsida",
     "ordem": "Lamiales",
-    "família": "Verbenaceae"
+    "família": "Verbenaceae",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "ERVA-DA-FELICIDADE (Fêmea)",
@@ -2268,7 +2482,8 @@
     "classe": "Magnoliopsida",
     "ordem": "Apiales",
     "família": "Araliaceae",
-    "imagem": "./assets/imagens/ERVA-DA-FELICIDADE_(Fêmea).jpg"
+    "imagem": "./assets/imagens/ERVA-DA-FELICIDADE_(Fêmea).jpg",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "ERVA-DA-FELICIDADE (Macho)",
@@ -2279,7 +2494,8 @@
     "classe": "Magnoliopsida",
     "ordem": "Apiales",
     "família": "Araliaceae",
-    "imagem": "./assets/imagens/ERVA-DA-FELICIDADE_(Macho).jpg"
+    "imagem": "./assets/imagens/ERVA-DA-FELICIDADE_(Macho).jpg",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "ERVA-DA-JUREMA / azul",
@@ -2290,7 +2506,8 @@
     "classe": "Magnoliopsida",
     "ordem": "Lamiales",
     "família": "Lamiaceae",
-    "género": "Vitex"
+    "género": "Vitex",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "ERVA-DA-JUREMA / branca",
@@ -2301,7 +2518,8 @@
     "classe": "Magnoliopsida",
     "ordem": "Lamiales",
     "família": "Lamiaceae",
-    "género": "Vitex"
+    "género": "Vitex",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "ERVA-DE-BICHO",
@@ -2311,7 +2529,8 @@
     "ordem": "Polygonales",
     "família": "Polygonaceae",
     "género": "Polygonum",
-    "imagem": "./assets/imagens/ERVA-DE-BICHO.jpg"
+    "imagem": "./assets/imagens/ERVA-DE-BICHO.jpg",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "ERVA-DE-BICHO",
@@ -2322,7 +2541,8 @@
     "classe": "Magnoliopsida",
     "ordem": "Caryophyllales",
     "família": "Polygonaceae",
-    "imagem": "./assets/imagens/ERVA-DE-BICHO.jpg"
+    "imagem": "./assets/imagens/ERVA-DE-BICHO.jpg",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "ERVA-DE-SANTA-MARIA",
@@ -2333,7 +2553,8 @@
     "classe": "Magnoliopsida",
     "ordem": "Caryophyllales",
     "família": "Amaranthaceae",
-    "imagem": "./assets/imagens/ERVA-DE-SANTA-MARIA.jpg"
+    "imagem": "./assets/imagens/ERVA-DE-SANTA-MARIA.jpg",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "ERVA-DE-SÃO-JOÃO",
@@ -2343,7 +2564,8 @@
     "ordem": "Asterales",
     "família": "Asteraceae",
     "género": "Ageratum",
-    "imagem": "./assets/imagens/ERVA-DE-SÃO-JOÃO.jpg"
+    "imagem": "./assets/imagens/ERVA-DE-SÃO-JOÃO.jpg",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "ERVA-DE-SÃO-SIMÃO",
@@ -2352,7 +2574,8 @@
     "reino": "Plantae",
     "ordem": "Asterales",
     "família": "Cichorioideae",
-    "imagem": "./assets/imagens/ERVA-DE-SÃO-SIMÃO.jpg"
+    "imagem": "./assets/imagens/ERVA-DE-SÃO-SIMÃO.jpg",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "ERVA-DE-XANGÔ",
@@ -2364,7 +2587,8 @@
     "família": "Melastomataceae",
     "género": "Miconia",
     "espécie": "Miconia calvescens",
-    "imagem": "./assets/imagens/ERVA-DE-XANGÔ.jpg"
+    "imagem": "./assets/imagens/ERVA-DE-XANGÔ.jpg",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "ERVA-GROSSA",
@@ -2375,7 +2599,8 @@
     "ordem": "Hymenoptera",
     "família": "Meliponinae",
     "género": "Plebeia",
-    "imagem": "./assets/imagens/ERVA-GROSSA.jpg"
+    "imagem": "./assets/imagens/ERVA-GROSSA.jpg",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "ERVA-MACAÉ",
@@ -2387,7 +2612,8 @@
     "ordem": "Lamiales",
     "família": "Lamiaceae",
     "género": "Leonurus",
-    "imagem": "./assets/imagens/ERVA-MACAÉ.jpg"
+    "imagem": "./assets/imagens/ERVA-MACAÉ.jpg",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "ERVA-MOURA",
@@ -2399,7 +2625,8 @@
     "ordem": "Solanales",
     "família": "Solanaceae",
     "género": "Solanum",
-    "imagem": "./assets/imagens/ERVA-MOURA.jpg"
+    "imagem": "./assets/imagens/ERVA-MOURA.jpg",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "ERVA-POMBINHA",
@@ -2410,7 +2637,8 @@
     "classe": "Magnoliopsida",
     "ordem": "Malpighiales",
     "família": "Phyllanthaceae",
-    "imagem": "./assets/imagens/ERVA-POMBINHA.jpg"
+    "imagem": "./assets/imagens/ERVA-POMBINHA.jpg",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "ERVA-PRATA",
@@ -2419,7 +2647,8 @@
     "reino": "Plantae",
     "ordem": "Solanales",
     "família": "Solanaceae",
-    "imagem": "./assets/imagens/ERVA-PRATA.jpg"
+    "imagem": "./assets/imagens/ERVA-PRATA.jpg",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "ESPADA-DE-SANTA-BÁRBARA",
@@ -2431,7 +2660,8 @@
     "ordem": "Asparagales",
     "família": "Ruscaceae",
     "género": "Dracaena",
-    "imagem": "./assets/imagens/ESPADA-DE-SANTA-BÁRBARA.jpg"
+    "imagem": "./assets/imagens/ESPADA-DE-SANTA-BÁRBARA.jpg",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "ESPADA-DE-SÃO-JORGE",
@@ -2443,7 +2673,8 @@
     "ordem": "Asparagales",
     "família": "Ruscaceae",
     "género": "Dracaena",
-    "imagem": "./assets/imagens/ESPADA-DE-SÃO-JORGE.jpg"
+    "imagem": "./assets/imagens/ESPADA-DE-SÃO-JORGE.jpg",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "ESPADINHA-DE-SÃO-JORGE",
@@ -2455,7 +2686,8 @@
     "ordem": "Asparagales",
     "família": "Ruscaceae",
     "género": "Dracaena",
-    "imagem": "./assets/imagens/ESPADINHA-DE-SÃO-JORGE.jpg"
+    "imagem": "./assets/imagens/ESPADINHA-DE-SÃO-JORGE.jpg",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "ESPATÓDEA",
@@ -2465,7 +2697,8 @@
     "divisão": "Magnoliophyta",
     "ordem": "Lamiales",
     "família": "Bignoniaceae",
-    "imagem": "./assets/imagens/ESPATÓDEA.jpg"
+    "imagem": "./assets/imagens/ESPATÓDEA.jpg",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "ESPINHEIRA-SANTA",
@@ -2477,7 +2710,8 @@
     "ordem": "Celastrales",
     "família": "Celastraceae",
     "género": "Monteverdia",
-    "imagem": "./assets/imagens/ESPINHEIRA-SANTA.jpg"
+    "imagem": "./assets/imagens/ESPINHEIRA-SANTA.jpg",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "ESPIRRADEIRA-VERMELHA",
@@ -2486,7 +2720,8 @@
     "reino": "Plantae",
     "ordem": "Gentianales",
     "família": "Apocynaceae",
-    "imagem": "./assets/imagens/ESPIRRADEIRA-VERMELHA.jpg"
+    "imagem": "./assets/imagens/ESPIRRADEIRA-VERMELHA.jpg",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "ESTÉVIA",
@@ -2496,28 +2731,32 @@
     "ordem": "Asterales",
     "família": "Asteraceae",
     "género": "Stevia",
-    "imagem": "./assets/imagens/ESTÉVIA.jpg"
+    "imagem": "./assets/imagens/ESTÉVIA.jpg",
+    "Local": "Carregando..."
   },
   {
     "falta": " falta",
     "nome_popular": "EUCALIPTO",
     "nome_cientifico": "Eucalyptus globulus Labill.",
     "familia": "MYRTACEAE",
-    "imagem": "./assets/imagens/EUCALIPTO.jpg"
+    "imagem": "./assets/imagens/EUCALIPTO.jpg",
+    "Local": "Carregando..."
   },
   {
     "falta": " falta",
     "nome_popular": "FAVA-DE-ARIDAN",
     "nome_cientifico": "Tetrapleura tetraptera (Schum. & Thonn.) Taub.",
     "familia": "FABACEAE",
-    "imagem": "./assets/imagens/FAVA-DE-ARIDAN.jpg"
+    "imagem": "./assets/imagens/FAVA-DE-ARIDAN.jpg",
+    "Local": "Carregando..."
   },
   {
     "falta": " falta",
     "nome_popular": "FAVELA",
     "nome_cientifico": "Cnidoscolus quercifolia Pohl",
     "familia": "EUPHORBIACEAE",
-    "imagem": "./assets/imagens/FAVELA.jpg"
+    "imagem": "./assets/imagens/FAVELA.jpg",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "FEDEGOSO",
@@ -2528,14 +2767,16 @@
     "classe": "Magnoliopsida",
     "ordem": "Fabales",
     "família": "Caesalpinioideae",
-    "imagem": "./assets/imagens/FEDEGOSO.jpg"
+    "imagem": "./assets/imagens/FEDEGOSO.jpg",
+    "Local": "Carregando..."
   },
   {
     "falta": " falta",
     "nome_popular": "FEIJÃO-AZUL",
     "nome_cientifico": "Clitoria ternatea L.",
     "familia": "FABACEAE",
-    "imagem": "./assets/imagens/FEIJÃO-AZUL.jpg"
+    "imagem": "./assets/imagens/FEIJÃO-AZUL.jpg",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "FEIJÃO-GUANDU",
@@ -2547,7 +2788,8 @@
     "ordem": "Fabales",
     "família": "Faboideae",
     "género": "Cajanus",
-    "imagem": "./assets/imagens/FEIJÃO-GUANDU.jpg"
+    "imagem": "./assets/imagens/FEIJÃO-GUANDU.jpg",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "FIGUEIRA",
@@ -2557,7 +2799,8 @@
     "ordem": "Rosales",
     "família": "Moraceae",
     "género": "Ficus",
-    "imagem": "./assets/imagens/FIGUEIRA.jpg"
+    "imagem": "./assets/imagens/FIGUEIRA.jpg",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "FILODENDRON-VERMELHO",
@@ -2568,7 +2811,8 @@
     "classe": "Liliopsida",
     "ordem": "Alismatales",
     "família": "Araceae",
-    "imagem": "./assets/imagens/FILODENDRON-VERMELHO.jpg"
+    "imagem": "./assets/imagens/FILODENDRON-VERMELHO.jpg",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "FILODENDRO-ONDULADO",
@@ -2579,13 +2823,15 @@
     "classe": "Liliopsida",
     "ordem": "Alismatales",
     "família": "Araceae",
-    "imagem": "./assets/imagens/FILODENDRO-ONDULADO.jpg"
+    "imagem": "./assets/imagens/FILODENDRO-ONDULADO.jpg",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "FITA-DE-MOÇA",
     "nome_cientifico": "Muehlenbeckia platyclada (F.Muell.) Meisn.",
     "familia": "POLYGONACEAE",
-    "imagem": "./assets/imagens/FITA-DE-MOÇA.jpg"
+    "imagem": "./assets/imagens/FITA-DE-MOÇA.jpg",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "FLAMBOYANT-MIRIM",
@@ -2597,7 +2843,8 @@
     "ordem": "Fabales",
     "família": "Caesalpinioideae",
     "género": "Caesalpinia",
-    "imagem": "./assets/imagens/FLAMBOYANT-MIRIM.jpg"
+    "imagem": "./assets/imagens/FLAMBOYANT-MIRIM.jpg",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "FLOR-DE-NATAL",
@@ -2608,7 +2855,8 @@
     "classe": "Liliopsida",
     "ordem": "Asparagales",
     "família": "Amaryllidaceae",
-    "imagem": "./assets/imagens/FLOR-DE-NATAL.jpg"
+    "imagem": "./assets/imagens/FLOR-DE-NATAL.jpg",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "FÓRMIO",
@@ -2620,7 +2868,8 @@
     "ordem": "Asparagales",
     "família": "Hemerocallidoideae",
     "género": "Phormium",
-    "imagem": "./assets/imagens/FÓRMIO.jpg"
+    "imagem": "./assets/imagens/FÓRMIO.jpg",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "FORTUNA",
@@ -2630,7 +2879,8 @@
     "ordem": "Rosales",
     "família": "Crassulaceae",
     "género": "Bryophyllum",
-    "imagem": "./assets/imagens/FORTUNA.jpg"
+    "imagem": "./assets/imagens/FORTUNA.jpg",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "FRAMBOESA-NEGRA",
@@ -2642,7 +2892,8 @@
     "família": "Rosaceae",
     "género": "Rubus",
     "espécie": "Dougl.",
-    "imagem": "./assets/imagens/FRAMBOESA-NEGRA.jpg"
+    "imagem": "./assets/imagens/FRAMBOESA-NEGRA.jpg",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "FUMO",
@@ -2654,7 +2905,8 @@
     "ordem": "Solanales",
     "família": "Nicotianoideae",
     "género": "Nicotiana",
-    "imagem": "./assets/imagens/FUMO.jpg"
+    "imagem": "./assets/imagens/FUMO.jpg",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "FUMO-BRAVO",
@@ -2664,7 +2916,8 @@
     "ordem": "Polemoniales",
     "família": "Solanaceae",
     "género": "Solanum",
-    "imagem": "./assets/imagens/FUMO-BRAVO.jpg"
+    "imagem": "./assets/imagens/FUMO-BRAVO.jpg",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "FUNCHO",
@@ -2676,7 +2929,8 @@
     "ordem": "Apiales",
     "família": "Apiaceae",
     "género": "Foeniculum",
-    "imagem": "./assets/imagens/FUNCHO.jpg"
+    "imagem": "./assets/imagens/FUNCHO.jpg",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "GENGIBRE",
@@ -2688,7 +2942,8 @@
     "ordem": "Zingiberales",
     "família": "Zingiberaceae",
     "género": "Zingiber",
-    "imagem": "./assets/imagens/GENGIBRE.jpg"
+    "imagem": "./assets/imagens/GENGIBRE.jpg",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "GENGIBRE-VERMELHO",
@@ -2700,7 +2955,8 @@
     "ordem": "Zingiberales",
     "família": "Zingiberaceae",
     "género": "Hedychium",
-    "imagem": "./assets/imagens/GENGIBRE-VERMELHO.jpg"
+    "imagem": "./assets/imagens/GENGIBRE-VERMELHO.jpg",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "GERÂNIO",
@@ -2711,7 +2967,8 @@
     "ordem": "Geraniales",
     "família": "Geraniaceae",
     "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Pelargonium_sidoides_Leaves_3264px.jpg/330px-Pelargonium_sidoides_Leaves_3264px.jpg",
-    "local": "G 5"
+    "local": "G 5",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "GERÂNIO-DE-CHEIRO",
@@ -2721,7 +2978,8 @@
     "ordem": "Geraniales",
     "família": "Geraniaceae",
     "género": "Pelargonium",
-    "imagem": "./assets/imagens/GERÂNIO-DE-CHEIRO.jpg"
+    "imagem": "./assets/imagens/GERÂNIO-DE-CHEIRO.jpg",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "GERVÃO-ROXO",
@@ -2733,7 +2991,8 @@
     "ordem": "Lamiales",
     "família": "Verbenaceae",
     "género": "Stachytarpheta",
-    "imagem": "./assets/imagens/GERVÃO-ROXO.jpg"
+    "imagem": "./assets/imagens/GERVÃO-ROXO.jpg",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "GIRASSOL",
@@ -2743,7 +3002,8 @@
     "ordem": "Asterales",
     "família": "Asteraceae",
     "género": "Helianthus",
-    "imagem": "./assets/imagens/GIRASSOL.jpg"
+    "imagem": "./assets/imagens/GIRASSOL.jpg",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "GOIABA",
@@ -2755,7 +3015,8 @@
     "ordem": "Myrtales",
     "família": "Myrtaceae",
     "género": "Psidium",
-    "imagem": "./assets/imagens/GOIABA.jpg"
+    "imagem": "./assets/imagens/GOIABA.jpg",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "GRAMA-AMENDOIM",
@@ -2767,7 +3028,8 @@
     "ordem": "Fabales",
     "família": "Faboideae",
     "género": "Arachis",
-    "imagem": "./assets/imagens/GRAMA-AMENDOIM.jpg"
+    "imagem": "./assets/imagens/GRAMA-AMENDOIM.jpg",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "GRAVIOLA",
@@ -2779,7 +3041,8 @@
     "ordem": "Magnoliales",
     "família": "Annonaceae",
     "género": "Annona",
-    "imagem": "./assets/imagens/GRAVIOLA.jpg"
+    "imagem": "./assets/imagens/GRAVIOLA.jpg",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "GRUMIXAMA",
@@ -2791,7 +3054,8 @@
     "ordem": "Myrtales",
     "família": "Myrtaceae",
     "género": "Eugenia",
-    "imagem": "./assets/imagens/GRUMIXAMA.jpg"
+    "imagem": "./assets/imagens/GRUMIXAMA.jpg",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "GUAÇATONGA",
@@ -2803,7 +3067,8 @@
     "ordem": "Malpighiales",
     "família": "Salicaceae",
     "género": "Casearia",
-    "imagem": "./assets/imagens/GUAÇATONGA.jpg"
+    "imagem": "./assets/imagens/GUAÇATONGA.jpg",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "GUACO",
@@ -2813,7 +3078,8 @@
     "ordem": "Asterales",
     "família": "Asteroideae",
     "género": "Mikania",
-    "imagem": "./assets/imagens/GUACO.jpg"
+    "imagem": "./assets/imagens/GUACO.jpg",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "GUACO-DO-MATO",
@@ -2823,7 +3089,8 @@
     "ordem": "Asterales",
     "família": "Asteroideae",
     "género": "Mikania",
-    "imagem": "./assets/imagens/GUACO-DO-MATO.jpg"
+    "imagem": "./assets/imagens/GUACO-DO-MATO.jpg",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "GUACO-FALSO",
@@ -2833,7 +3100,8 @@
     "ordem": "Asterales",
     "família": "Asteroideae",
     "género": "Mikania",
-    "imagem": "./assets/imagens/GUACO-FALSO.jpg"
+    "imagem": "./assets/imagens/GUACO-FALSO.jpg",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "GUAMIRIM",
@@ -2845,7 +3113,8 @@
     "ordem": "Myrtales",
     "família": "Myrtaceae",
     "género": "Eugenia",
-    "imagem": "./assets/imagens/GUAMIRIM.jpg"
+    "imagem": "./assets/imagens/GUAMIRIM.jpg",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "GUINÉ",
@@ -2857,7 +3126,8 @@
     "ordem": "Caryophyllales",
     "família": "Phytolaccaceae",
     "género": "Petiveria",
-    "imagem": "./assets/imagens/GUINÉ.jpg"
+    "imagem": "./assets/imagens/GUINÉ.jpg",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "HELICÔNIA",
@@ -2867,7 +3137,8 @@
     "divisão": "Magnoliophyta",
     "classe": "Liliopsida",
     "ordem": "Zingiberales",
-    "imagem": "./assets/imagens/HELICÔNIA.jpg"
+    "imagem": "./assets/imagens/HELICÔNIA.jpg",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "HIBISCO-BRANCO",
@@ -2878,7 +3149,8 @@
     "classe": "Magnoliopsida",
     "ordem": "Malvales",
     "família": "Malvaceae",
-    "imagem": "./assets/imagens/HIBISCO-BRANCO.jpg"
+    "imagem": "./assets/imagens/HIBISCO-BRANCO.jpg",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "HIBISCO-VERMELHO",
@@ -2890,28 +3162,32 @@
     "ordem": "Malvales",
     "família": "Malvaceae",
     "género": "Hibiscus",
-    "imagem": "./assets/imagens/HIBISCO-VERMELHO.jpg"
+    "imagem": "./assets/imagens/HIBISCO-VERMELHO.jpg",
+    "Local": "Carregando..."
   },
   {
     "falta": " falta",
     "nome_popular": "HORTELÃ",
     "nome_cientifico": "Mentha crispa L.",
     "familia": "LAMIACEAE",
-    "imagem": "./assets/imagens/HORTELÃ.jpg"
+    "imagem": "./assets/imagens/HORTELÃ.jpg",
+    "Local": "Carregando..."
   },
   {
     "falta": " falta",
     "nome_popular": "HORTELÃ-PIMENTA",
     "nome_cientifico": "Coleus amboinicus Lour.",
     "familia": "LAMIACEAE",
-    "imagem": "./assets/imagens/HORTELÃ-PIMENTA.jpg"
+    "imagem": "./assets/imagens/HORTELÃ-PIMENTA.jpg",
+    "Local": "Carregando..."
   },
   {
     "falta": " falta",
     "nome_popular": "HORTELÃ-PIMENTA-VARIEGATA",
     "nome_cientifico": "Coleus amboinicus Lour.",
     "familia": "LAMIACEAE",
-    "imagem": "./assets/imagens/HORTELÃ-PIMENTA-VARIEGATA.jpg"
+    "imagem": "./assets/imagens/HORTELÃ-PIMENTA-VARIEGATA.jpg",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "INCENSO",
@@ -2923,14 +3199,16 @@
     "ordem": "Lamiales",
     "família": "Nepetoideae",
     "género": "Tetradenia",
-    "imagem": "./assets/imagens/INCENSO.jpg"
+    "imagem": "./assets/imagens/INCENSO.jpg",
+    "Local": "Carregando..."
   },
   {
     "falta": " falta",
     "nome_popular": "INFALIVINA",
     "nome_cientifico": "Calea pinnatifida (R.Br.) Banks ex Steud.",
     "familia": "ASTERACEAE",
-    "imagem": "./assets/imagens/INFALIVINA.jpg"
+    "imagem": "./assets/imagens/INFALIVINA.jpg",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "INGÁ",
@@ -2941,7 +3219,8 @@
     "classe": "Magnoliopsida",
     "ordem": "Fabales",
     "família": "Fabaceae",
-    "imagem": "./assets/imagens/INGÁ.jpg"
+    "imagem": "./assets/imagens/INGÁ.jpg",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "INGÁ",
@@ -2952,7 +3231,8 @@
     "classe": "Magnoliopsida",
     "ordem": "Fabales",
     "família": "Mimosoideae",
-    "imagem": "./assets/imagens/INGÁ.jpg"
+    "imagem": "./assets/imagens/INGÁ.jpg",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "INHAME",
@@ -2964,14 +3244,16 @@
     "ordem": "Alismatales",
     "família": "Araceae",
     "género": "Colocasia",
-    "imagem": "./assets/imagens/INHAME.jpg"
+    "imagem": "./assets/imagens/INHAME.jpg",
+    "Local": "Carregando..."
   },
   {
     "falta": " falta",
     "nome_popular": "INSULINA 1",
     "nome_cientifico": "Cissus sulcicaulis (Baker) Planch.",
     "familia": "VITACEAE",
-    "imagem": "./assets/imagens/INSULINA_1.jpg"
+    "imagem": "./assets/imagens/INSULINA_1.jpg",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "INSULINA 2",
@@ -2981,7 +3263,8 @@
     "classe": "Insecta",
     "ordem": "Coleoptera",
     "família": "Eurhynchidae",
-    "imagem": "./assets/imagens/INSULINA_2.jpg"
+    "imagem": "./assets/imagens/INSULINA_2.jpg",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "IPÊ",
@@ -2992,7 +3275,8 @@
     "ordem": "Lamiales",
     "família": "Bignoniaceae",
     "género": "Handroanthus",
-    "imagem": "./assets/imagens/IPÊ.jpg"
+    "imagem": "./assets/imagens/IPÊ.jpg",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "IPÊ-AMARELO",
@@ -3004,7 +3288,8 @@
     "ordem": "Lamiales",
     "família": "Bignoniaceae",
     "género": "Handroanthus",
-    "imagem": "./assets/imagens/IPÊ-AMARELO.jpg"
+    "imagem": "./assets/imagens/IPÊ-AMARELO.jpg",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "IPÊ-ROXO",
@@ -3016,7 +3301,8 @@
     "ordem": "Lamiales",
     "família": "Bignoniaceae",
     "género": "Handroanthus",
-    "imagem": "./assets/imagens/IPÊ-ROXO.jpg"
+    "imagem": "./assets/imagens/IPÊ-ROXO.jpg",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "IXORA",
@@ -3025,14 +3311,16 @@
     "reino": "Plantae",
     "ordem": "Gentianales",
     "família": "Rubiaceae",
-    "imagem": "./assets/imagens/IXORA.jpg"
+    "imagem": "./assets/imagens/IXORA.jpg",
+    "Local": "Carregando..."
   },
   {
     "falta": " falta",
     "nome_popular": "JABOTICABA",
     "nome_cientifico": "Plinia peruviana (Poir.) Govaerts",
     "familia": "MYRTACEAE",
-    "imagem": "./assets/imagens/JABOTICABA.jpg"
+    "imagem": "./assets/imagens/JABOTICABA.jpg",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "JACA-DURA",
@@ -3042,7 +3330,8 @@
     "ordem": "Rosales",
     "família": "Moraceae",
     "género": "Artocarpus",
-    "imagem": "./assets/imagens/JACA-DURA.jpg"
+    "imagem": "./assets/imagens/JACA-DURA.jpg",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "JACARANDA-MIMOSO",
@@ -3055,7 +3344,8 @@
     "família": "Bignoniaceae",
     "género": "Jacaranda",
     "espécie": "[1]",
-    "imagem": "./assets/imagens/JACARANDA-MIMOSO.jpg"
+    "imagem": "./assets/imagens/JACARANDA-MIMOSO.jpg",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "JAMBO-RAJADO",
@@ -3067,7 +3357,8 @@
     "ordem": "Myrtales",
     "família": "Myrtaceae",
     "género": "Syzygium",
-    "imagem": "./assets/imagens/JAMBO-RAJADO.jpg"
+    "imagem": "./assets/imagens/JAMBO-RAJADO.jpg",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "JAMBO-VERMELHO",
@@ -3079,7 +3370,8 @@
     "ordem": "Myrtales",
     "família": "Myrtaceae",
     "género": "Syzygium",
-    "imagem": "./assets/imagens/JAMBO-VERMELHO.jpg"
+    "imagem": "./assets/imagens/JAMBO-VERMELHO.jpg",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "JAMBU",
@@ -3089,7 +3381,8 @@
     "ordem": "Asterales",
     "família": "Asteraceae",
     "género": "Acmella",
-    "imagem": "./assets/imagens/JAMBU.jpg"
+    "imagem": "./assets/imagens/JAMBU.jpg",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "JAMBU",
@@ -3098,14 +3391,16 @@
     "reino": "Plantae",
     "ordem": "Asterales",
     "família": "Asteraceae",
-    "imagem": "./assets/imagens/JAMBU.jpg"
+    "imagem": "./assets/imagens/JAMBU.jpg",
+    "Local": "Carregando..."
   },
   {
     "falta": " falta",
     "nome_popular": "JANAÚBA",
     "nome_cientifico": "Euphorbia umbellata (Pax) Bruyns",
     "familia": "EUPHORBIACEAE",
-    "imagem": "./assets/imagens/JANAÚBA.jpg"
+    "imagem": "./assets/imagens/JANAÚBA.jpg",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "JASMIM-DO-CABO",
@@ -3117,7 +3412,8 @@
     "ordem": "Gentianales",
     "família": "Rubiaceae",
     "género": "Gardenia",
-    "imagem": "./assets/imagens/JASMIM-DO-CABO.jpg"
+    "imagem": "./assets/imagens/JASMIM-DO-CABO.jpg",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "JASMIM-MANGA",
@@ -3126,7 +3422,8 @@
     "reino": "Plantae",
     "ordem": "Gentianales",
     "família": "Apocynaceae",
-    "imagem": "./assets/imagens/JASMIM-MANGA.jpg"
+    "imagem": "./assets/imagens/JASMIM-MANGA.jpg",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "JATOBÁ",
@@ -3139,7 +3436,8 @@
     "família": "Caesalpinioideae",
     "género": "Hymenaea",
     "espécie": "[3]",
-    "imagem": "./assets/imagens/JATOBÁ.jpg"
+    "imagem": "./assets/imagens/JATOBÁ.jpg",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "JENIPAPO",
@@ -3151,7 +3449,8 @@
     "ordem": "Gentianales",
     "família": "Rubiaceae",
     "género": "Genipa",
-    "imagem": "./assets/imagens/JENIPAPO.jpg"
+    "imagem": "./assets/imagens/JENIPAPO.jpg",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "JIBÓIA-RAJADA",
@@ -3161,7 +3460,8 @@
     "ordem": "Alismatales",
     "família": "Monsteroideae",
     "género": "Epipremnum",
-    "imagem": "./assets/imagens/JIBÓIA-RAJADA.jpg"
+    "imagem": "./assets/imagens/JIBÓIA-RAJADA.jpg",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "JILÓ",
@@ -3173,7 +3473,8 @@
     "ordem": "Solanales",
     "família": "Solanaceae",
     "género": "Solanum",
-    "imagem": "./assets/imagens/JILÓ.jpg"
+    "imagem": "./assets/imagens/JILÓ.jpg",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "JUQUIRI",
@@ -3182,7 +3483,8 @@
     "reino": "Plantae",
     "ordem": "Solanales",
     "família": "Solanaceae",
-    "imagem": "./assets/imagens/JUQUIRI.jpg"
+    "imagem": "./assets/imagens/JUQUIRI.jpg",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "JURUBEBA",
@@ -3191,7 +3493,8 @@
     "reino": "Plantae",
     "ordem": "Solanales",
     "família": "Solanaceae",
-    "imagem": "./assets/imagens/JURUBEBA.jpg"
+    "imagem": "./assets/imagens/JURUBEBA.jpg",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "KIRI-JAPONÊS",
@@ -3203,7 +3506,8 @@
     "ordem": "Lamiales",
     "família": "Paulowniaceae",
     "género": "Paulownia",
-    "imagem": "./assets/imagens/KIRI-JAPONÊS.jpg"
+    "imagem": "./assets/imagens/KIRI-JAPONÊS.jpg",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "LAB-LAB",
@@ -3214,7 +3518,8 @@
     "classe": "Magnoliopsida",
     "ordem": "Fabales",
     "família": "Fabaceae",
-    "imagem": "./assets/imagens/LAB-LAB.jpg"
+    "imagem": "./assets/imagens/LAB-LAB.jpg",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "LÁGRIMA-DE-CRISTO",
@@ -3225,7 +3530,8 @@
     "ordem": "Lamiales",
     "família": "Verbenaceae",
     "género": "Linnaeus",
-    "imagem": "./assets/imagens/LÁGRIMA-DE-CRISTO.jpg"
+    "imagem": "./assets/imagens/LÁGRIMA-DE-CRISTO.jpg",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "LÁGRIMA-DE-NOSSA-SENHORA",
@@ -3236,7 +3542,8 @@
     "classe": "Commelinidae",
     "ordem": "Poales",
     "família": "Poaceae",
-    "imagem": "./assets/imagens/LÁGRIMA-DE-NOSSA-SENHORA.jpg"
+    "imagem": "./assets/imagens/LÁGRIMA-DE-NOSSA-SENHORA.jpg",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "LANÇA-DE-SÃO-JORGE",
@@ -3247,7 +3554,8 @@
     "ordem": "Asparagales",
     "família": "Asparagaceae",
     "imagem": "./assets/imagens/LANÇA-DE-SÃO-JORGE.jpg",
-    "local": "G 1"
+    "local": "G 1",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "LANTERNA-CHINESA",
@@ -3258,7 +3566,8 @@
     "ordem": "Malvales",
     "família": "Malvaceae",
     "imagem": "./assets/imagens/LANTERNA-CHINESA.jpg",
-    "local": "G G5"
+    "local": "G G5",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "LARANJA",
@@ -3269,7 +3578,8 @@
     "ordem": "Sapindales",
     "família": "Rutaceae",
     "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Histoire_et_culture_des_orangers_A._Risso_et_A._Poiteau._--_Paris_Henri_Plon%2C_Editeur%2C_1872.jpg/330px-Histoire_et_culture_des_orangers_A._Risso_et_A._Poiteau._--_Paris_Henri_Plon%2C_Editeur%2C_1872.jpg",
-    "local": "G 7"
+    "local": "G 7",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "LARANJINHA",
@@ -3280,7 +3590,8 @@
     "classe": "Eudicots",
     "ordem": "Sapindales",
     "género": "Citrus",
-    "imagem": "./assets/imagens/LARANJINHA.jpg"
+    "imagem": "./assets/imagens/LARANJINHA.jpg",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "LEITEIRA",
@@ -3291,7 +3602,8 @@
     "classe": "Magnoliopsida",
     "ordem": "Gentianales",
     "família": "Apocynaceae",
-    "imagem": "./assets/imagens/LEITEIRA.jpg"
+    "imagem": "./assets/imagens/LEITEIRA.jpg",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "LEITEIRA-VERMELHA",
@@ -3301,7 +3613,8 @@
     "classe": "Magnoliopsida",
     "ordem": "Malpighiales",
     "família": "Euphorbiaceae",
-    "local": "G 5"
+    "local": "G 5",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "LICHIA",
@@ -3312,7 +3625,8 @@
     "classe": "Magnoliopsida",
     "ordem": "Sapindales",
     "família": "Sapindaceae",
-    "imagem": "./assets/imagens/LICHIA.jpg"
+    "imagem": "./assets/imagens/LICHIA.jpg",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "LIMÃO-GALEGO",
@@ -3322,7 +3636,8 @@
     "classe": "Magnoliopsida",
     "ordem": "Sapindales",
     "família": "Rutaceae",
-    "local": "Carregando..."
+    "local": "Carregando...",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "LIMÃO-TAITI",
@@ -3334,7 +3649,8 @@
     "ordem": "Sapindales",
     "família": "Rutaceae",
     "género": "Citrus",
-    "imagem": "./assets/imagens/LIMÃO-TAITI.jpg"
+    "imagem": "./assets/imagens/LIMÃO-TAITI.jpg",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "LÍNGUA-DE-VACA",
@@ -3343,7 +3659,8 @@
     "reino": "Plantae",
     "ordem": "Asterales",
     "família": "Asteraceae",
-    "imagem": "./assets/imagens/LÍNGUA-DE-VACA.jpg"
+    "imagem": "./assets/imagens/LÍNGUA-DE-VACA.jpg",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "LINHAÇA",
@@ -3355,7 +3672,8 @@
     "ordem": "Malpighiales",
     "família": "Linaceae",
     "género": "Linum",
-    "imagem": "./assets/imagens/LINHAÇA.jpg"
+    "imagem": "./assets/imagens/LINHAÇA.jpg",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "LÍRIO-AMARELO",
@@ -3366,7 +3684,8 @@
     "ordem": "Asparagales",
     "família": "Hemerocallidaceae",
     "género": "Hemerocallis",
-    "imagem": "./assets/imagens/LÍRIO-AMARELO.jpg"
+    "imagem": "./assets/imagens/LÍRIO-AMARELO.jpg",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "LÍRIO-DO-BREJO-BRANCO",
@@ -3378,7 +3697,8 @@
     "ordem": "Zingiberales",
     "família": "Zingiberaceae",
     "género": "Hedychium",
-    "imagem": "./assets/imagens/LÍRIO-DO-BREJO-BRANCO.jpg"
+    "imagem": "./assets/imagens/LÍRIO-DO-BREJO-BRANCO.jpg",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "LOSNA",
@@ -3388,7 +3708,8 @@
     "ordem": "Asterales",
     "família": "Asteraceae",
     "género": "Artemisia",
-    "imagem": "./assets/imagens/LOSNA.jpg"
+    "imagem": "./assets/imagens/LOSNA.jpg",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "LOUCO",
@@ -3398,7 +3719,8 @@
     "divisão": "Magnoliophyta",
     "classe": "Eudicotiledôneas",
     "ordem": "Caryophyllales",
-    "imagem": "./assets/imagens/LOUCO.jpg"
+    "imagem": "./assets/imagens/LOUCO.jpg",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "LOURO",
@@ -3410,7 +3732,8 @@
     "ordem": "Laurales",
     "família": "Lauraceae",
     "género": "Laurus",
-    "imagem": "./assets/imagens/LOURO.jpg"
+    "imagem": "./assets/imagens/LOURO.jpg",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "LÚPULUS",
@@ -3420,7 +3743,8 @@
     "ordem": "Rosales",
     "família": "Cannabaceae",
     "género": "Humulus",
-    "imagem": "./assets/imagens/LÚPULUS.jpg"
+    "imagem": "./assets/imagens/LÚPULUS.jpg",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "MACADÂMIA",
@@ -3432,7 +3756,8 @@
     "ordem": "Proteales",
     "família": "Grevilleoideae",
     "género": "F. Muell.",
-    "imagem": "./assets/imagens/MACADÂMIA.jpg"
+    "imagem": "./assets/imagens/MACADÂMIA.jpg",
+    "Local": "Carregando..."
   },
   {
     "falta": " falta",
@@ -3443,7 +3768,8 @@
     "ordem": "Lamiales",
     "família": "Lamiaceae",
     "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Starr_001025-8001_Hyptis_pectinata.jpg/330px-Starr_001025-8001_Hyptis_pectinata.jpg",
-    "local": "G 6"
+    "local": "G 6",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "MACELA",
@@ -3453,7 +3779,8 @@
     "ordem": "Asterales",
     "família": "Asteraceae",
     "género": "Achyrocline",
-    "imagem": "./assets/imagens/MACELA.jpg"
+    "imagem": "./assets/imagens/MACELA.jpg",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "MACELINHA",
@@ -3463,7 +3790,8 @@
     "ordem": "Asterales",
     "família": "Asteraceae",
     "género": "Cotula",
-    "imagem": "./assets/imagens/MACELINHA.jpg"
+    "imagem": "./assets/imagens/MACELINHA.jpg",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "MÃE-DE-MILHARES",
@@ -3475,7 +3803,8 @@
     "ordem": "Saxifragales",
     "família": "Crassulaceae",
     "género": "Kalanchoe",
-    "imagem": "./assets/imagens/MÃE-DE-MILHARES.jpg"
+    "imagem": "./assets/imagens/MÃE-DE-MILHARES.jpg",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "MAGNÓLIA",
@@ -3487,7 +3816,8 @@
     "ordem": "Magnoliales",
     "família": "Magnoliaceae",
     "género": "Magnolia",
-    "imagem": "./assets/imagens/MAGNÓLIA.jpg"
+    "imagem": "./assets/imagens/MAGNÓLIA.jpg",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "MAJOR-GOMES",
@@ -3497,7 +3827,8 @@
     "ordem": "Caryophyllales",
     "família": "Talinaceae",
     "género": "Talinum",
-    "imagem": "./assets/imagens/MAJOR-GOMES.jpg"
+    "imagem": "./assets/imagens/MAJOR-GOMES.jpg",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "MALVA-FALSA",
@@ -3509,7 +3840,8 @@
     "família": "Geraniaceae",
     "género": "L'Hér.",
     "imagem": "./assets/imagens/MALVA-FALSA.jpg",
-    "local": "VIVEIRO"
+    "local": "VIVEIRO",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "MAMÃO-BABAQUINHO",
@@ -3521,7 +3853,8 @@
     "ordem": "Brassicales",
     "família": "Caricaceae",
     "género": "A.St.-Hil.",
-    "imagem": "./assets/imagens/MAMÃO-BABAQUINHO.jpg"
+    "imagem": "./assets/imagens/MAMÃO-BABAQUINHO.jpg",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "MAMÃO-DO-MATO",
@@ -3533,7 +3866,8 @@
     "ordem": "Brassicales",
     "família": "Caricaceae",
     "género": "Jacaratia",
-    "imagem": "./assets/imagens/MAMÃO-DO-MATO.jpg"
+    "imagem": "./assets/imagens/MAMÃO-DO-MATO.jpg",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "MAMICA-DE-PORCA",
@@ -3544,7 +3878,8 @@
     "ordem": "Sapindales",
     "família": "Rutaceae",
     "género": "Zanthoxylum",
-    "imagem": "./assets/imagens/MAMICA-DE-PORCA.jpg"
+    "imagem": "./assets/imagens/MAMICA-DE-PORCA.jpg",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "MAMONA-ROXA",
@@ -3556,7 +3891,8 @@
     "ordem": "Malpighiales",
     "família": "Acalyphoideae",
     "género": "Ricinus",
-    "imagem": "./assets/imagens/MAMONA-ROXA.jpg"
+    "imagem": "./assets/imagens/MAMONA-ROXA.jpg",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "MAMONA-VERDE",
@@ -3568,7 +3904,8 @@
     "ordem": "Malpighiales",
     "família": "Acalyphoideae",
     "género": "Ricinus",
-    "imagem": "./assets/imagens/MAMONA-VERDE.jpg"
+    "imagem": "./assets/imagens/MAMONA-VERDE.jpg",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "MANACÁ-DA-SERRA",
@@ -3580,7 +3917,8 @@
     "ordem": "Myrtales",
     "família": "Melastomataceae",
     "género": "Tibouchina",
-    "imagem": "./assets/imagens/MANACÁ-DA-SERRA.jpg"
+    "imagem": "./assets/imagens/MANACÁ-DA-SERRA.jpg",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "MANACÁ-DE-JARDIM",
@@ -3590,7 +3928,8 @@
     "ordem": "Solanales",
     "família": "Solanaceae",
     "género": "Brunfelsia",
-    "imagem": "./assets/imagens/MANACÁ-DE-JARDIM.jpg"
+    "imagem": "./assets/imagens/MANACÁ-DE-JARDIM.jpg",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "MANDACARU",
@@ -3601,7 +3940,8 @@
     "ordem": "Caryophyllales",
     "família": "Cactoideae",
     "género": "Cereus",
-    "imagem": "./assets/imagens/MANDACARU.jpg"
+    "imagem": "./assets/imagens/MANDACARU.jpg",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "MANDEVILLA",
@@ -3611,7 +3951,8 @@
     "ordem": "Gentianales",
     "família": "Apocynaceae",
     "género": "Lindl.",
-    "imagem": "./assets/imagens/MANDEVILLA.jpg"
+    "imagem": "./assets/imagens/MANDEVILLA.jpg",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "MANDIOCA",
@@ -3623,7 +3964,8 @@
     "ordem": "Malpighiales",
     "família": "Euphorbiaceae",
     "género": "Manihot",
-    "imagem": "./assets/imagens/MANDIOCA.jpg"
+    "imagem": "./assets/imagens/MANDIOCA.jpg",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "MANGUEIRA",
@@ -3635,7 +3977,8 @@
     "ordem": "Sapindales",
     "família": "Anacardiaceae",
     "género": "Mangifera",
-    "imagem": "./assets/imagens/MANGUEIRA.jpg"
+    "imagem": "./assets/imagens/MANGUEIRA.jpg",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "MANJERICÃO-MIÚDO",
@@ -3647,7 +3990,8 @@
     "ordem": "Lamiales",
     "família": "Lamiaceae",
     "género": "Ocimum",
-    "imagem": "./assets/imagens/MANJERICÃO-MIÚDO.jpg"
+    "imagem": "./assets/imagens/MANJERICÃO-MIÚDO.jpg",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "MANJERIOBA",
@@ -3659,7 +4003,8 @@
     "ordem": "Fabales",
     "família": "Caesalpinioideae",
     "género": "Senna",
-    "imagem": "./assets/imagens/MANJERIOBA.jpg"
+    "imagem": "./assets/imagens/MANJERIOBA.jpg",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "MANJERONA",
@@ -3670,7 +4015,8 @@
     "classe": "Magnoliopsida",
     "ordem": "Lamiales",
     "família": "Lamiaceae",
-    "imagem": "./assets/imagens/MANJERONA.jpg"
+    "imagem": "./assets/imagens/MANJERONA.jpg",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "MARACUJÁ",
@@ -3682,7 +4028,8 @@
     "ordem": "Violales",
     "família": "Passifloraceae",
     "género": "Passiflora",
-    "imagem": "./assets/imagens/MARACUJÁ.jpg"
+    "imagem": "./assets/imagens/MARACUJÁ.jpg",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "MARACUJÁ-DOCE",
@@ -3694,7 +4041,8 @@
     "ordem": "Violales",
     "família": "Passifloraceae",
     "género": "Passiflora",
-    "imagem": "./assets/imagens/MARACUJÁ-DOCE.jpg"
+    "imagem": "./assets/imagens/MARACUJÁ-DOCE.jpg",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "MARACUJÁ-DO-MATO",
@@ -3706,7 +4054,8 @@
     "ordem": "Malpighiales",
     "família": "Passifloraceae",
     "género": "L.",
-    "imagem": "./assets/imagens/MARACUJÁ-DO-MATO.jpg"
+    "imagem": "./assets/imagens/MARACUJÁ-DO-MATO.jpg",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "MARANTA-CINZA",
@@ -3716,7 +4065,8 @@
     "divisão": "Magnoliophyta",
     "classe": "Liliopsida",
     "ordem": "Zingiberales",
-    "imagem": "./assets/imagens/MARANTA-CINZA.jpg"
+    "imagem": "./assets/imagens/MARANTA-CINZA.jpg",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "MARAVILHA",
@@ -3728,7 +4078,8 @@
     "ordem": "Caryophyllales",
     "família": "Nyctaginaceae",
     "género": "Mirabilis",
-    "imagem": "./assets/imagens/MARAVILHA.jpg"
+    "imagem": "./assets/imagens/MARAVILHA.jpg",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "MARGACINHA",
@@ -3738,7 +4089,8 @@
     "ordem": "Asterales",
     "família": "Asteraceae",
     "género": "Erigeron",
-    "imagem": "./assets/imagens/MARGACINHA.jpg"
+    "imagem": "./assets/imagens/MARGACINHA.jpg",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "MARGARIDA",
@@ -3748,7 +4100,8 @@
     "ordem": "Asterales",
     "família": "Asteraceae",
     "género": "Leucanthemum",
-    "imagem": "./assets/imagens/MARGARIDA.jpg"
+    "imagem": "./assets/imagens/MARGARIDA.jpg",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "MARGARIDA-DE-ÁRVORE",
@@ -3757,14 +4110,16 @@
     "ordem": "Asterales",
     "família": "Asteraceae",
     "imagem": "./assets/imagens/MARGARIDA-DE-ÁRVORE.jpg",
-    "local": "G 1"
+    "local": "G 1",
+    "Local": "Carregando..."
   },
   {
     "falta": " falta",
     "nome_popular": "MARIANEIRA",
     "nome_cientifico": "Iochroma arborescens (L.) J.M.H. Shaw",
     "familia": "SOLANACEAE",
-    "imagem": "./assets/imagens/MARIANEIRA.jpg"
+    "imagem": "./assets/imagens/MARIANEIRA.jpg",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "MARIA-SEM-VERGONHA",
@@ -3776,7 +4131,8 @@
     "ordem": "Ericales",
     "família": "Balsaminaceae",
     "género": "Impatiens",
-    "imagem": "./assets/imagens/MARIA-SEM-VERGONHA.jpg"
+    "imagem": "./assets/imagens/MARIA-SEM-VERGONHA.jpg",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "MARMELINHO",
@@ -3787,7 +4143,8 @@
     "ordem": "Boraginales",
     "família": "Boraginaceae",
     "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/EO_1831-Editar.jpg/330px-EO_1831-Editar.jpg",
-    "local": "VIVEIRO"
+    "local": "VIVEIRO",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "MARUPARI",
@@ -3798,14 +4155,16 @@
     "classe": "Liliopsida",
     "ordem": "Asparagales",
     "família": "Iridaceae",
-    "imagem": "./assets/imagens/MARUPARI.jpg"
+    "imagem": "./assets/imagens/MARUPARI.jpg",
+    "Local": "Carregando..."
   },
   {
     "falta": " falta",
     "nome_popular": "MASTRUÇO",
     "nome_cientifico": "Coronopus didymus (L.) Sm.",
     "familia": "BRASSICACEAE",
-    "imagem": "./assets/imagens/MASTRUÇO.jpg"
+    "imagem": "./assets/imagens/MASTRUÇO.jpg",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "MELÃO-ANDINO",
@@ -3817,7 +4176,8 @@
     "ordem": "Solanales",
     "família": "Solanoideae",
     "género": "Solanum",
-    "imagem": "./assets/imagens/MELÃO-ANDINO.jpg"
+    "imagem": "./assets/imagens/MELÃO-ANDINO.jpg",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "MELÃO-DE-SÃO-CAETANO",
@@ -3828,7 +4188,8 @@
     "ordem": "Cucurbitales",
     "família": "Cucurbitaceae",
     "imagem": "./assets/imagens/MELÃO-DE-SÃO-CAETANO.jpg",
-    "local": "VIVEIRO"
+    "local": "VIVEIRO",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "MELÃO-PELE-DE-SAPO",
@@ -3840,7 +4201,8 @@
     "ordem": "Cucurbitales",
     "família": "Cucurbitaceae",
     "género": "Cucumis",
-    "imagem": "./assets/imagens/MELÃO-PELE-DE-SAPO.jpg"
+    "imagem": "./assets/imagens/MELÃO-PELE-DE-SAPO.jpg",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "MELHORAL",
@@ -3851,7 +4213,8 @@
     "classe": "Magnoliopsida",
     "ordem": "Lamiales",
     "família": "Lamiaceae",
-    "imagem": "./assets/imagens/MELHORAL.jpg"
+    "imagem": "./assets/imagens/MELHORAL.jpg",
+    "Local": "Carregando..."
   },
   {
     "falta": " falta",
@@ -3863,7 +4226,8 @@
     "ordem": "Lamiales",
     "família": "Lamiaceae",
     "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Lemon_balm_plant.jpg/330px-Lemon_balm_plant.jpg",
-    "local": "G 4"
+    "local": "G 4",
+    "Local": "Carregando..."
   },
   {
     "falta": " falta",
@@ -3874,7 +4238,8 @@
     "classe": "Magnoliopsida",
     "ordem": "Lamiales",
     "família": "Lamiaceae",
-    "local": "Carregando..."
+    "local": "Carregando...",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "MENTA-AQUÁTICA",
@@ -3884,7 +4249,8 @@
     "classe": "Magnoliopsida",
     "ordem": "Lamiales",
     "família": "Lamiaceae",
-    "local": "Carregando..."
+    "local": "Carregando...",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "MENTA-BRANCA",
@@ -3895,7 +4261,8 @@
     "ordem": "Lamiales",
     "família": "Lamiaceae",
     "imagem": "./assets/imagens/MENTA-BRANCA.jpg",
-    "local": "G 6"
+    "local": "G 6",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "MENTA-PIPERITA",
@@ -3906,7 +4273,8 @@
     "ordem": "Lamiales",
     "família": "Lamiaceae",
     "imagem": "./assets/imagens/MENTA-PIPERITA.jpg",
-    "local": "G 6"
+    "local": "G 6",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "MIL-EM-RAMAS",
@@ -3916,7 +4284,8 @@
     "ordem": "Asterales",
     "família": "Asteraceae",
     "género": "Achillea",
-    "imagem": "./assets/imagens/MIL-EM-RAMAS.jpg"
+    "imagem": "./assets/imagens/MIL-EM-RAMAS.jpg",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "MORANGO",
@@ -3926,7 +4295,8 @@
     "ordem": "Rosales",
     "família": "Rosoideae",
     "género": "Fragaria",
-    "imagem": "./assets/imagens/MORANGO.jpg"
+    "imagem": "./assets/imagens/MORANGO.jpg",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "MORANGO-DO-MATO",
@@ -3938,7 +4308,8 @@
     "ordem": "Rosales",
     "família": "Rosaceae",
     "género": "Rubus",
-    "imagem": "./assets/imagens/MORANGO-DO-MATO.jpg"
+    "imagem": "./assets/imagens/MORANGO-DO-MATO.jpg",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "MOREIA",
@@ -3950,7 +4321,8 @@
     "ordem": "Asparagales",
     "família": "Iridaceae",
     "género": "Dietes",
-    "imagem": "./assets/imagens/MOREIA.jpg"
+    "imagem": "./assets/imagens/MOREIA.jpg",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "MULUNGÚ-CANDELABRO",
@@ -3961,7 +4333,8 @@
     "ordem": "Fabales",
     "família": "Fabaceae",
     "imagem": "./assets/imagens/MULUNGÚ-CANDELABRO.jpg",
-    "local": "G 13"
+    "local": "G 13",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "MURTA",
@@ -3973,7 +4346,8 @@
     "classe": "Magnoliopsida",
     "ordem": "Sapindales",
     "família": "Rutaceae",
-    "local": "G 8"
+    "local": "G 8",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "MYOSOTIS",
@@ -3982,7 +4356,8 @@
     "ordem": "Polemoniales",
     "família": "Boraginaceae",
     "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Myosotis_arvensis_ois.JPG/330px-Myosotis_arvensis_ois.JPG",
-    "local": "G 2"
+    "local": "G 2",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "NABO-FORRAGEIRO",
@@ -3994,7 +4369,8 @@
     "ordem": "Brassicales",
     "família": "Brassicaceae",
     "género": "Raphanus",
-    "imagem": "./assets/imagens/NABO-FORRAGEIRO.jpg"
+    "imagem": "./assets/imagens/NABO-FORRAGEIRO.jpg",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "NEGRAMINA",
@@ -4005,7 +4381,8 @@
     "divisão": "Magnoliophyta",
     "ordem": "Laurales",
     "família": "A.DC.",
-    "local": "Carregando..."
+    "local": "Carregando...",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "NÊSPERA",
@@ -4015,7 +4392,8 @@
     "ordem": "Rosales",
     "família": "Maloideae",
     "género": "Eriobotrya",
-    "imagem": "./assets/imagens/NÊSPERA.jpg"
+    "imagem": "./assets/imagens/NÊSPERA.jpg",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "NIRÁ",
@@ -4026,7 +4404,8 @@
     "classe": "Liliopsida",
     "ordem": "Asparagales",
     "família": "Allioideae",
-    "imagem": "./assets/imagens/NIRÁ.jpg"
+    "imagem": "./assets/imagens/NIRÁ.jpg",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "NORANTEA",
@@ -4037,7 +4416,8 @@
     "ordem": "Piciformes",
     "família": "Picidae",
     "género": "Celeus",
-    "imagem": "./assets/imagens/NORANTEA.jpg"
+    "imagem": "./assets/imagens/NORANTEA.jpg",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "OBI",
@@ -4048,7 +4428,8 @@
     "ordem": "Malvales",
     "família": "Malvaceae",
     "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Cola_acuminata%2C_flower_of_the_Kola_Nut_tree_%289906050364%29.jpg/330px-Cola_acuminata%2C_flower_of_the_Kola_Nut_tree_%289906050364%29.jpg",
-    "local": "G 6"
+    "local": "G 6",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "ODONTONEMA",
@@ -4059,7 +4440,8 @@
     "classe": "Magnoliopsida",
     "ordem": "Lamiales",
     "família": "Acanthoideae",
-    "imagem": "./assets/imagens/ODONTONEMA.jpg"
+    "imagem": "./assets/imagens/ODONTONEMA.jpg",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "OLHO-DE-BOI",
@@ -4071,7 +4453,8 @@
     "ordem": "Sapindales",
     "família": "Sapindaceae",
     "género": "Talisia",
-    "imagem": "./assets/imagens/OLHO-DE-BOI.jpg"
+    "imagem": "./assets/imagens/OLHO-DE-BOI.jpg",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "OLHO-DE-DRAGÃO",
@@ -4083,7 +4466,8 @@
     "ordem": "Sapindales",
     "família": "Sapindaceae",
     "género": "Dimocarpus",
-    "imagem": "./assets/imagens/OLHO-DE-DRAGÃO.jpg"
+    "imagem": "./assets/imagens/OLHO-DE-DRAGÃO.jpg",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "ORA-PRO-NÓBIS / flor branca",
@@ -4094,7 +4478,8 @@
     "classe": "Magnoliopsida",
     "ordem": "Caryophyllales",
     "família": "Cactaceae",
-    "género": "Pereskia"
+    "género": "Pereskia",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "ORA-PRO-NÓBIS-DOURADO",
@@ -4106,7 +4491,8 @@
     "ordem": "Caryophyllales",
     "família": "Cactaceae",
     "género": "Pereskia",
-    "imagem": "./assets/imagens/ORA-PRO-NÓBIS-DOURADO.jpg"
+    "imagem": "./assets/imagens/ORA-PRO-NÓBIS-DOURADO.jpg",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "OREGÃO",
@@ -4118,7 +4504,8 @@
     "ordem": "Lamiales",
     "família": "Lamiaceae",
     "género": "Origanum",
-    "imagem": "./assets/imagens/OREGÃO.jpg"
+    "imagem": "./assets/imagens/OREGÃO.jpg",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "ORIRI",
@@ -4129,7 +4516,8 @@
     "classe": "Magnoliopsida",
     "ordem": "Piperales",
     "família": "Piperaceae",
-    "imagem": "./assets/imagens/ORIRI.jpg"
+    "imagem": "./assets/imagens/ORIRI.jpg",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "PACOVÁ",
@@ -4141,7 +4529,8 @@
     "ordem": "Zingiberales",
     "família": "Alpinioideae",
     "género": "Alpinia",
-    "imagem": "./assets/imagens/PACOVÁ.jpg"
+    "imagem": "./assets/imagens/PACOVÁ.jpg",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "PAINA-DE-SEDA",
@@ -4151,7 +4540,8 @@
     "ordem": "Gentianales",
     "família": "Asclepiadoideae",
     "género": "Asclepias",
-    "imagem": "./assets/imagens/PAINA-DE-SEDA.jpg"
+    "imagem": "./assets/imagens/PAINA-DE-SEDA.jpg",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "PAINEIRA",
@@ -4163,7 +4553,8 @@
     "ordem": "Malvales",
     "família": "Malvaceae",
     "género": "Ceiba",
-    "imagem": "./assets/imagens/PAINEIRA.jpg"
+    "imagem": "./assets/imagens/PAINEIRA.jpg",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "PALMA-ROSA",
@@ -4174,7 +4565,8 @@
     "ordem": "Poales",
     "família": "Poaceae",
     "imagem": "./assets/imagens/PALMA-ROSA.jpg",
-    "local": "Carregando..."
+    "local": "Carregando...",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "PALMEIRA-JUSSARA",
@@ -4186,7 +4578,8 @@
     "ordem": "Arecales",
     "família": "Arecoidae",
     "género": "Euterpe",
-    "imagem": "./assets/imagens/PALMEIRA-JUSSARA.jpg"
+    "imagem": "./assets/imagens/PALMEIRA-JUSSARA.jpg",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "PALMEIRA-LICURI",
@@ -4198,7 +4591,8 @@
     "ordem": "Arecales",
     "família": "Arecaceae",
     "género": "Syagrus",
-    "imagem": "./assets/imagens/PALMEIRA-LICURI.jpg"
+    "imagem": "./assets/imagens/PALMEIRA-LICURI.jpg",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "PARA-RAIO",
@@ -4210,7 +4604,8 @@
     "ordem": "Sapindales",
     "família": "Meliaceae",
     "género": "Melia",
-    "imagem": "./assets/imagens/PARA-RAIO.jpg"
+    "imagem": "./assets/imagens/PARA-RAIO.jpg",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "PARIPAROBA",
@@ -4221,7 +4616,8 @@
     "classe": "Magnoliopsida",
     "ordem": "Piperales",
     "família": "Piperaceae",
-    "imagem": "./assets/imagens/PARIPAROBA.jpg"
+    "imagem": "./assets/imagens/PARIPAROBA.jpg",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "PATA-DE-VACA",
@@ -4233,7 +4629,8 @@
     "ordem": "Fabales",
     "família": "Cercidoideae",
     "género": "Bauhinia",
-    "imagem": "./assets/imagens/PATA-DE-VACA.jpg"
+    "imagem": "./assets/imagens/PATA-DE-VACA.jpg",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "PAU-BRASIL",
@@ -4244,7 +4641,8 @@
     "classe": "Magnoliopsida",
     "ordem": "Fabales",
     "família": "Caesalpinioideae",
-    "imagem": "./assets/imagens/PAU-BRASIL.jpg"
+    "imagem": "./assets/imagens/PAU-BRASIL.jpg",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "PAU-D'ALHO",
@@ -4255,7 +4653,8 @@
     "classe": "Magnoliopsida",
     "ordem": "Caryophyllales",
     "família": "Phytolaccaceae",
-    "imagem": "./assets/imagens/PAU-D'ALHO.jpg"
+    "imagem": "./assets/imagens/PAU-D'ALHO.jpg",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "PAU-DE-JANGADA",
@@ -4265,7 +4664,8 @@
     "classe": "Magnoliopsida",
     "ordem": "Malvales",
     "família": "Malvaceae",
-    "local": "Carregando..."
+    "local": "Carregando...",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "PAU-FERRO",
@@ -4277,7 +4677,8 @@
     "ordem": "Fabales",
     "família": "Caesalpinioideae",
     "género": "Libidibia",
-    "imagem": "./assets/imagens/PAU-FERRO.jpg"
+    "imagem": "./assets/imagens/PAU-FERRO.jpg",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "PEIXINHO",
@@ -4288,7 +4689,8 @@
     "família": "Lamiaceae",
     "género": "Linnaeus",
     "imagem": "./assets/imagens/PEIXINHO.jpg",
-    "local": "G 13"
+    "local": "G 13",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "PELOTEIRA",
@@ -4298,7 +4700,8 @@
     "ordem": "Polemoniales",
     "família": "Solanaceae",
     "género": "Solanum",
-    "imagem": "./assets/imagens/PELOTEIRA.jpg"
+    "imagem": "./assets/imagens/PELOTEIRA.jpg",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "PENTAS",
@@ -4307,7 +4710,8 @@
     "reino": "Plantae",
     "ordem": "Gentianales",
     "família": "Rubiaceae",
-    "imagem": "./assets/imagens/PENTAS.jpg"
+    "imagem": "./assets/imagens/PENTAS.jpg",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "PEPERÔMIA",
@@ -4318,7 +4722,8 @@
     "ordem": "Piperales",
     "família": "Piperaceae",
     "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Peperomia_pellucida_%28Mindanao%2C_Philippines%29.jpg/330px-Peperomia_pellucida_%28Mindanao%2C_Philippines%29.jpg",
-    "local": "VIVEIRO"
+    "local": "VIVEIRO",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "PERA-DURA",
@@ -4327,7 +4732,8 @@
     "reino": "Plantae",
     "ordem": "Rosales",
     "família": "Maloideae",
-    "imagem": "./assets/imagens/PERA-DURA.jpg"
+    "imagem": "./assets/imagens/PERA-DURA.jpg",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "PEREGUM-AMARELO",
@@ -4338,7 +4744,8 @@
     "classe": "Liliopsida",
     "ordem": "Asparagales",
     "família": "Nolinoideae",
-    "imagem": "./assets/imagens/PEREGUM-AMARELO.jpg"
+    "imagem": "./assets/imagens/PEREGUM-AMARELO.jpg",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "PERPÉTUA-ROXA",
@@ -4347,7 +4754,8 @@
     "ordem": "Asterales",
     "família": "Asteraceae",
     "imagem": "./assets/imagens/PERPÉTUA-ROXA.jpg",
-    "local": "G 5"
+    "local": "G 5",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "PETÚNIA",
@@ -4357,7 +4765,8 @@
     "ordem": "Solanales",
     "família": "Nicotianoideae",
     "género": "L.",
-    "imagem": "./assets/imagens/PETÚNIA.jpg"
+    "imagem": "./assets/imagens/PETÚNIA.jpg",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "PFAFFIA",
@@ -4369,7 +4778,8 @@
     "família": "Gomphrenoideae",
     "género": "Hebanthe",
     "espécie": "Hebanthe erianthos",
-    "imagem": "./assets/imagens/PFAFFIA.jpg"
+    "imagem": "./assets/imagens/PFAFFIA.jpg",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "PFAFFIA",
@@ -4378,7 +4788,8 @@
     "classe": "Magnoliidae",
     "ordem": "Caryophyllales",
     "família": "Amaranthaceae",
-    "imagem": "./assets/imagens/PFAFFIA.jpg"
+    "imagem": "./assets/imagens/PFAFFIA.jpg",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "PICÃO-BRANCO",
@@ -4389,7 +4800,8 @@
     "ordem": "Papilionoidea",
     "família": "Nymphalinae",
     "género": "Anartia",
-    "imagem": "./assets/imagens/PICÃO-BRANCO.jpg"
+    "imagem": "./assets/imagens/PICÃO-BRANCO.jpg",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "PICÃO-PRETO",
@@ -4400,7 +4812,8 @@
     "classe": "Magnoliopsida",
     "ordem": "Asterales",
     "família": "Asteraceae",
-    "imagem": "./assets/imagens/PICÃO-PRETO.jpg"
+    "imagem": "./assets/imagens/PICÃO-PRETO.jpg",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "PIMENTA-BIQUINHO",
@@ -4412,7 +4825,8 @@
     "ordem": "Solanales",
     "família": "Solanaceae",
     "género": "Capsicum",
-    "imagem": "./assets/imagens/PIMENTA-BIQUINHO.jpg"
+    "imagem": "./assets/imagens/PIMENTA-BIQUINHO.jpg",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "PIMENTA-CHOCOLATE",
@@ -4423,7 +4837,8 @@
     "ordem": "Solanales",
     "família": "Solanaceae",
     "género": "Capsicum",
-    "imagem": "./assets/imagens/PIMENTA-CHOCOLATE.jpg"
+    "imagem": "./assets/imagens/PIMENTA-CHOCOLATE.jpg",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "PIMENTA-DA-JAMAICA",
@@ -4435,7 +4850,8 @@
     "ordem": "Myrtales",
     "família": "Myrtoideae",
     "género": "Pimenta",
-    "imagem": "./assets/imagens/PIMENTA-DA-JAMAICA.jpg"
+    "imagem": "./assets/imagens/PIMENTA-DA-JAMAICA.jpg",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "PIMENTA-DE-CHEIRO",
@@ -4447,7 +4863,8 @@
     "ordem": "Solanales",
     "família": "Solanaceae",
     "género": "Capsicum",
-    "imagem": "./assets/imagens/PIMENTA-DE-CHEIRO.jpg"
+    "imagem": "./assets/imagens/PIMENTA-DE-CHEIRO.jpg",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "PIMENTA-MALAGUETA",
@@ -4459,7 +4876,8 @@
     "ordem": "Solanales",
     "família": "Solanaceae",
     "género": "Capsicum",
-    "imagem": "./assets/imagens/PIMENTA-MALAGUETA.jpg"
+    "imagem": "./assets/imagens/PIMENTA-MALAGUETA.jpg",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "PINCEL-DE-ESTUDANTE",
@@ -4468,7 +4886,8 @@
     "reino": "Plantae",
     "ordem": "Asterales",
     "família": "Asteraceae",
-    "imagem": "./assets/imagens/PINCEL-DE-ESTUDANTE.jpg"
+    "imagem": "./assets/imagens/PINCEL-DE-ESTUDANTE.jpg",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "PINGO-DE-OURO",
@@ -4480,7 +4899,8 @@
     "ordem": "Lamiales",
     "família": "Verbenaceae",
     "género": "Duranta",
-    "imagem": "./assets/imagens/PINGO-DE-OURO.jpg"
+    "imagem": "./assets/imagens/PINGO-DE-OURO.jpg",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "PINHÃO-MANSO",
@@ -4491,7 +4911,8 @@
     "classe": "Magnoliopsida",
     "ordem": "Malpighiales",
     "família": "Euphorbiaceae",
-    "imagem": "./assets/imagens/PINHÃO-MANSO.jpg"
+    "imagem": "./assets/imagens/PINHÃO-MANSO.jpg",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "PINHÃO-ROXO",
@@ -4503,7 +4924,8 @@
     "ordem": "Malpighiales",
     "família": "Euphorbiaceae",
     "género": "Jatropha",
-    "imagem": "./assets/imagens/PINHÃO-ROXO.jpg"
+    "imagem": "./assets/imagens/PINHÃO-ROXO.jpg",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "PINHEIRO",
@@ -4515,13 +4937,15 @@
     "ordem": "Pinales",
     "família": "Pinaceae",
     "género": "Pinus",
-    "imagem": "./assets/imagens/PINHEIRO.jpg"
+    "imagem": "./assets/imagens/PINHEIRO.jpg",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "PITAIA",
     "nome_cientifico": "Selenicereus undatus (Haw.) D.R. Hunt",
     "familia": "CACTACEAE",
-    "imagem": "./assets/imagens/PITAIA.jpg"
+    "imagem": "./assets/imagens/PITAIA.jpg",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "PITANGA - laranja",
@@ -4533,7 +4957,8 @@
     "ordem": "Myrtales",
     "família": "Myrtaceae",
     "género": "Eugenia",
-    "imagem": "./assets/imagens/PITANGA_-_laranja.jpg"
+    "imagem": "./assets/imagens/PITANGA_-_laranja.jpg",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "PITANGA - vermelha",
@@ -4545,7 +4970,8 @@
     "ordem": "Myrtales",
     "família": "Myrtaceae",
     "género": "Eugenia",
-    "imagem": "./assets/imagens/PITANGA_-_vermelha.jpg"
+    "imagem": "./assets/imagens/PITANGA_-_vermelha.jpg",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "PITANGA-preta",
@@ -4557,13 +4983,15 @@
     "ordem": "Myrtales",
     "família": "Myrtaceae",
     "género": "Eugenia",
-    "imagem": "./assets/imagens/PITANGA-preta.jpg"
+    "imagem": "./assets/imagens/PITANGA-preta.jpg",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "POEJO",
     "nome_cientifico": "Mentha pulegium L.",
     "familia": "LAMIACEAE",
-    "imagem": "./assets/imagens/POEJO.jpg"
+    "imagem": "./assets/imagens/POEJO.jpg",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "POEJO-DE-ARVINHA",
@@ -4573,13 +5001,15 @@
     "classe": "Magnoliopsida",
     "ordem": "Lamiales",
     "família": "Lamiaceae",
-    "imagem": "./assets/imagens/POEJO-DE-ARVINHA.jpg"
+    "imagem": "./assets/imagens/POEJO-DE-ARVINHA.jpg",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "PONTO-ALÍVIO",
     "nome_cientifico": "Argyranthemum foeniculaceum (Willd.) Webb ex Sch.Bip.",
     "familia": "ASTERACEAE",
-    "imagem": "./assets/imagens/PONTO-ALÍVIO.jpg"
+    "imagem": "./assets/imagens/PONTO-ALÍVIO.jpg",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "PRIMAVERA",
@@ -4588,7 +5018,8 @@
     "reino": "Plantae",
     "ordem": "Solanales",
     "família": "Convolvulaceae",
-    "imagem": "./assets/imagens/PRIMAVERA.jpg"
+    "imagem": "./assets/imagens/PRIMAVERA.jpg",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "QUARESMEIRA",
@@ -4600,21 +5031,24 @@
     "ordem": "Myrtales",
     "família": "Melastomataceae",
     "género": "Tibouchina",
-    "imagem": "./assets/imagens/QUARESMEIRA.jpg"
+    "imagem": "./assets/imagens/QUARESMEIRA.jpg",
+    "Local": "Carregando..."
   },
   {
     "falta": "falta",
     "nome_popular": "QUEBRA-PEDRA",
     "nome_cientifico": "Moeroris amara (Schumach. & Thonn.)",
     "familia": "PHYLLANTHACEAE",
-    "imagem": "./assets/imagens/QUEBRA-PEDRA.jpg"
+    "imagem": "./assets/imagens/QUEBRA-PEDRA.jpg",
+    "Local": "Carregando..."
   },
   {
     "falta": "falta",
     "nome_popular": "QUEBRA-PEDRA-RASTEIRO",
     "nome_cientifico": "Euphorbia prostata Aiton",
     "familia": "EUPHORBIACEAE",
-    "imagem": "./assets/imagens/QUEBRA-PEDRA-RASTEIRO.jpg"
+    "imagem": "./assets/imagens/QUEBRA-PEDRA-RASTEIRO.jpg",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "QUING-HÃO",
@@ -4625,7 +5059,8 @@
     "ordem": "Asterales",
     "família": "Asteraceae",
     "imagem": "./assets/imagens/QUING-HÃO.jpg",
-    "local": "Carregando..."
+    "local": "Carregando...",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "QUITOCO",
@@ -4634,14 +5069,16 @@
     "ordem": "Asterales",
     "família": "Asteraceae",
     "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/PE_Rio_Doce_MG.jpg/330px-PE_Rio_Doce_MG.jpg",
-    "local": "G 10"
+    "local": "G 10",
+    "Local": "Carregando..."
   },
   {
     "falta": "falta",
     "nome_popular": "RABO-DE-BUGIO",
     "nome_cientifico": "Dalbergia frutescens (Vell.) Britton",
     "familia": "FABACEAE",
-    "imagem": "./assets/imagens/RABO-DE-BUGIO.jpg"
+    "imagem": "./assets/imagens/RABO-DE-BUGIO.jpg",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "RAINHA",
@@ -4653,7 +5090,8 @@
     "ordem": "Gentianales",
     "família": "Rubiaceae",
     "género": "Psychotria",
-    "imagem": "./assets/imagens/RAINHA.jpg"
+    "imagem": "./assets/imagens/RAINHA.jpg",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "REPOLHO",
@@ -4665,7 +5103,8 @@
     "ordem": "Brassicales",
     "família": "Brassicaceae",
     "género": "Brassica",
-    "imagem": "./assets/imagens/REPOLHO.jpg"
+    "imagem": "./assets/imagens/REPOLHO.jpg",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "ROMÃ",
@@ -4676,7 +5115,8 @@
     "ordem": "Myrtales",
     "família": "Lythraceae",
     "género": "Punica",
-    "imagem": "./assets/imagens/ROMÃ.jpg"
+    "imagem": "./assets/imagens/ROMÃ.jpg",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "ROSA-DO-DESERTO",
@@ -4687,7 +5127,8 @@
     "ordem": "Gentianales",
     "família": "Apocynaceae",
     "imagem": "./assets/imagens/ROSA-DO-DESERTO.jpg",
-    "local": "G 5"
+    "local": "G 5",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "ROSA-MENINA-BRANCA",
@@ -4697,7 +5138,8 @@
     "classe": "Magnoliopsida",
     "ordem": "Rosales",
     "família": "Rosaceae",
-    "local": "Carregando..."
+    "local": "Carregando...",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "ROSA-VERMELHA / Miúda",
@@ -4706,7 +5148,8 @@
     "classe": "angiospérmicas",
     "ordem": "Rosales",
     "família": "Rosaceae",
-    "local": "G 5"
+    "local": "G 5",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "ROSA-VERMELHA GRANDE",
@@ -4716,7 +5159,8 @@
     "ordem": "Rosales",
     "família": "Rosaceae",
     "imagem": "./assets/imagens/ROSA-VERMELHA_GRANDE.jpg",
-    "local": "G 5"
+    "local": "G 5",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "ROSETÁ",
@@ -4728,7 +5172,8 @@
     "ordem": "Malvales",
     "família": "Malvaceae",
     "género": "Hibiscus",
-    "imagem": "./assets/imagens/ROSETÁ.jpg"
+    "imagem": "./assets/imagens/ROSETÁ.jpg",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "RÚCULA",
@@ -4738,7 +5183,8 @@
     "ordem": "Capparales",
     "família": "Brassicaceae",
     "género": "Eruca",
-    "imagem": "./assets/imagens/RÚCULA.jpg"
+    "imagem": "./assets/imagens/RÚCULA.jpg",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "SABONETEIRA",
@@ -4750,7 +5196,8 @@
     "ordem": "Sapindales",
     "família": "Sapindaceae",
     "género": "Sapindus",
-    "imagem": "./assets/imagens/SABONETEIRA.jpg"
+    "imagem": "./assets/imagens/SABONETEIRA.jpg",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "SABUGUEIRO",
@@ -4760,7 +5207,8 @@
     "ordem": "Dipsacales",
     "família": "Adoxaceae",
     "género": "Sambucus",
-    "imagem": "./assets/imagens/SABUGUEIRO.jpg"
+    "imagem": "./assets/imagens/SABUGUEIRO.jpg",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "SACHA-INCHI",
@@ -4771,7 +5219,8 @@
     "classe": "Magnoliopsida",
     "ordem": "Malpighiales",
     "família": "Euphorbiaceae",
-    "imagem": "./assets/imagens/SACHA-INCHI.jpg"
+    "imagem": "./assets/imagens/SACHA-INCHI.jpg",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "SAGU-DE-JARDIM",
@@ -4782,7 +5231,8 @@
     "ordem": "Cycadineae",
     "família": "Cycadaceae",
     "género": "Cycas",
-    "imagem": "./assets/imagens/SAGU-DE-JARDIM.jpg"
+    "imagem": "./assets/imagens/SAGU-DE-JARDIM.jpg",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "SAIÃO",
@@ -4793,7 +5243,8 @@
     "classe": "Magnoliopsida",
     "ordem": "Saxifragales",
     "família": "Crassulaceae",
-    "imagem": "./assets/imagens/SAIÃO.jpg"
+    "imagem": "./assets/imagens/SAIÃO.jpg",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "SAIÃO-ROXO",
@@ -4804,7 +5255,8 @@
     "classe": "Magnoliopsida",
     "ordem": "Saxifragales",
     "família": "Crassulaceae",
-    "imagem": "./assets/imagens/SAIÃO-ROXO.jpg"
+    "imagem": "./assets/imagens/SAIÃO-ROXO.jpg",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "SALGUEIRO-CHORÃO",
@@ -4816,7 +5268,8 @@
     "ordem": "Malpighiales",
     "família": "Salicaceae",
     "género": "Salix",
-    "imagem": "./assets/imagens/SALGUEIRO-CHORÃO.jpg"
+    "imagem": "./assets/imagens/SALGUEIRO-CHORÃO.jpg",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "SALSAPARRILHA",
@@ -4827,7 +5280,8 @@
     "ordem": "Asparagales",
     "família": "Agavaceae",
     "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Smilax_aspera.jpg/330px-Smilax_aspera.jpg",
-    "local": "VIVEIRO"
+    "local": "VIVEIRO",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "SALSINHA",
@@ -4839,7 +5293,8 @@
     "ordem": "Apiales",
     "família": "Apiaceae",
     "género": "Petroselinum",
-    "imagem": "./assets/imagens/SALSINHA.jpg"
+    "imagem": "./assets/imagens/SALSINHA.jpg",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "SÁLVIA",
@@ -4851,7 +5306,8 @@
     "ordem": "Lamiales",
     "família": "Lamiaceae",
     "género": "Salvia",
-    "imagem": "./assets/imagens/SÁLVIA.jpg"
+    "imagem": "./assets/imagens/SÁLVIA.jpg",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "SÁLVIA-DEJARDIM",
@@ -4862,7 +5318,8 @@
     "classe": "Magnoliopsida",
     "ordem": "Lamiales",
     "família": "Lamiaceae",
-    "imagem": "./assets/imagens/SÁLVIA-DEJARDIM.jpg"
+    "imagem": "./assets/imagens/SÁLVIA-DEJARDIM.jpg",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "SANGUE-DE-CRISTO",
@@ -4873,7 +5330,8 @@
     "classe": "Magnoliopsida",
     "ordem": "Caryophyllales",
     "família": "Amaranthaceae",
-    "imagem": "./assets/imagens/SANGUE-DE-CRISTO.jpg"
+    "imagem": "./assets/imagens/SANGUE-DE-CRISTO.jpg",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "SANQUÉSIA",
@@ -4883,13 +5341,15 @@
     "classe": "Magnoliopsida",
     "ordem": "Lamiales",
     "família": "Acanthaceae",
-    "imagem": "./assets/imagens/SANQUÉSIA.jpg"
+    "imagem": "./assets/imagens/SANQUÉSIA.jpg",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "SANSÃO-DO-CAMPO",
     "nome_cientifico": "Mimosa caesalpiniifolia Benth.",
     "familia": "FABACEAE",
-    "imagem": "./assets/imagens/SANSÃO-DO-CAMPO.jpg"
+    "imagem": "./assets/imagens/SANSÃO-DO-CAMPO.jpg",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "SAPATINHO-DE-JARDIM",
@@ -4901,7 +5361,8 @@
     "ordem": "Malpighiales",
     "família": "Euphorbiaceae",
     "género": "Euphorbia",
-    "imagem": "./assets/imagens/SAPATINHO-DE-JARDIM.jpg"
+    "imagem": "./assets/imagens/SAPATINHO-DE-JARDIM.jpg",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "SAPAUCAIA",
@@ -4912,7 +5373,8 @@
     "família": "Lecythidaceae",
     "género": "Lecythis",
     "espécie": "Cambess.",
-    "imagem": "./assets/imagens/SAPAUCAIA.jpg"
+    "imagem": "./assets/imagens/SAPAUCAIA.jpg",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "SAPUCAINHA-RUGOSA",
@@ -4923,7 +5385,8 @@
     "classe": "Magnoliopsida",
     "ordem": "Malpighiales",
     "família": "Achariaceae",
-    "imagem": "./assets/imagens/SAPUCAINHA-RUGOSA.jpg"
+    "imagem": "./assets/imagens/SAPUCAINHA-RUGOSA.jpg",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "SEGURELHA",
@@ -4935,7 +5398,8 @@
     "ordem": "Lamiales",
     "família": "Nepetoideae",
     "género": "Satureja",
-    "imagem": "./assets/imagens/SEGURELHA.jpg"
+    "imagem": "./assets/imagens/SEGURELHA.jpg",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "Eugenia",
@@ -4946,7 +5410,8 @@
     "ordem": "Myrtales",
     "família": "Myrtaceae",
     "imagem": "./assets/imagens/EUGENIA.jpg",
-    "local": "Carregando..."
+    "local": "Carregando...",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "Myracia",
@@ -4959,7 +5424,8 @@
     "família": "Myrtaceae",
     "género": "Plinia",
     "espécie": "[1]",
-    "imagem": "./assets/imagens/SEM_NOME.jpg"
+    "imagem": "./assets/imagens/SEM_NOME.jpg",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "Piper",
@@ -4969,7 +5435,8 @@
     "classe": "Magnoliopsida",
     "ordem": "Piperales",
     "família": "Piperaceae",
-    "local": "Carregando..."
+    "local": "Carregando...",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "SERRALHA",
@@ -4980,7 +5447,8 @@
     "classe": "Asteridae",
     "ordem": "Asterales",
     "família": "Asteraceae",
-    "imagem": "./assets/imagens/SERRALHA.jpg"
+    "imagem": "./assets/imagens/SERRALHA.jpg",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "SETE-SANGRIAS",
@@ -4992,7 +5460,8 @@
     "ordem": "Myrtales",
     "família": "Lythraceae",
     "género": "Cuphea",
-    "imagem": "./assets/imagens/SETE-SANGRIAS.jpg"
+    "imagem": "./assets/imagens/SETE-SANGRIAS.jpg",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "SIBIPIRUNA",
@@ -5003,7 +5472,8 @@
     "classe": "Magnoliopsida",
     "ordem": "Fabales",
     "família": "Fabaceae",
-    "imagem": "./assets/imagens/SIBIPIRUNA.jpg"
+    "imagem": "./assets/imagens/SIBIPIRUNA.jpg",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "SOROCEA",
@@ -5012,7 +5482,8 @@
     "ordem": "Rosales",
     "família": "Moraceae",
     "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Araucaria_Parna_aparados_da_serra.jpg/330px-Araucaria_Parna_aparados_da_serra.jpg",
-    "local": "G 5"
+    "local": "G 5",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "TAIOBA",
@@ -5024,7 +5495,8 @@
     "ordem": "Alismatales",
     "família": "Araceae",
     "género": "Xanthosoma",
-    "imagem": "./assets/imagens/TAIOBA.jpg"
+    "imagem": "./assets/imagens/TAIOBA.jpg",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "TAIOBA-BRAVA",
@@ -5036,7 +5508,8 @@
     "ordem": "Alismatales",
     "família": "Araceae",
     "género": "Colocasia",
-    "imagem": "./assets/imagens/TAIOBA-BRAVA.jpg"
+    "imagem": "./assets/imagens/TAIOBA-BRAVA.jpg",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "TAIOBA-BRAVA",
@@ -5048,7 +5521,8 @@
     "ordem": "Alismatales",
     "família": "Araceae",
     "género": "Colocasia",
-    "imagem": "./assets/imagens/TAIOBA-BRAVA.jpg"
+    "imagem": "./assets/imagens/TAIOBA-BRAVA.jpg",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "TAIUIÁ",
@@ -5060,7 +5534,8 @@
     "ordem": "Cucurbitales",
     "família": "Cucurbitaceae",
     "género": "Silva Manso",
-    "imagem": "./assets/imagens/TAIUIÁ.jpg"
+    "imagem": "./assets/imagens/TAIUIÁ.jpg",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "TAMARILHO (vermelho)",
@@ -5072,7 +5547,8 @@
     "ordem": "Solanales",
     "família": "Solanaceae",
     "género": "Solanum",
-    "imagem": "./assets/imagens/TAMARILHO_(vermelho).jpg"
+    "imagem": "./assets/imagens/TAMARILHO_(vermelho).jpg",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "TAMARINDO",
@@ -5083,7 +5559,8 @@
     "classe": "Magnoliopsida",
     "ordem": "Fabales",
     "família": "Fabaceae",
-    "imagem": "./assets/imagens/TAMARINDO.jpg"
+    "imagem": "./assets/imagens/TAMARINDO.jpg",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "TANACETO",
@@ -5093,7 +5570,8 @@
     "ordem": "Asterales",
     "família": "Asteraceae",
     "género": "Tanacetum",
-    "imagem": "./assets/imagens/TANACETO.jpg"
+    "imagem": "./assets/imagens/TANACETO.jpg",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "TAPETE-INGLÊS",
@@ -5103,7 +5581,8 @@
     "ordem": "Polygonales",
     "família": "Polygonaceae",
     "género": "Polygonum",
-    "imagem": "./assets/imagens/TAPETE-INGLÊS.jpg"
+    "imagem": "./assets/imagens/TAPETE-INGLÊS.jpg",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "TENTO-CAROLINA",
@@ -5114,7 +5593,8 @@
     "classe": "Magnoliopsida",
     "ordem": "Fabales",
     "família": "Fabaceae",
-    "imagem": "./assets/imagens/TENTO-CAROLINA.jpg"
+    "imagem": "./assets/imagens/TENTO-CAROLINA.jpg",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "TERRAMICINA",
@@ -5125,7 +5605,8 @@
     "família": "Amaranthaceae",
     "género": "Alternanthera",
     "espécie": "A. brasiliana",
-    "imagem": "./assets/imagens/TERRAMICINA.jpg"
+    "imagem": "./assets/imagens/TERRAMICINA.jpg",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "TINHORÃO",
@@ -5136,7 +5617,8 @@
     "classe": "Liliopsida",
     "ordem": "Alismatales",
     "família": "Araceae",
-    "imagem": "./assets/imagens/TINHORÃO.jpg"
+    "imagem": "./assets/imagens/TINHORÃO.jpg",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "TIRA-TEIMA",
@@ -5147,7 +5629,8 @@
     "ordem": "Lamiales",
     "família": "Acanthaceae",
     "imagem": "./assets/imagens/TIRA-TEIMA.jpg",
-    "local": "G 10"
+    "local": "G 10",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "TOMILHO",
@@ -5158,7 +5641,8 @@
     "ordem": "Lamiales",
     "família": "Lamiaceae",
     "género": "Thymus",
-    "imagem": "./assets/imagens/TOMILHO.jpg"
+    "imagem": "./assets/imagens/TOMILHO.jpg",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "TORANJA",
@@ -5169,7 +5653,8 @@
     "classe": "Magnoliopsida",
     "ordem": "Sapindales",
     "família": "Rutaceae",
-    "imagem": "./assets/imagens/TORANJA.jpg"
+    "imagem": "./assets/imagens/TORANJA.jpg",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "TRANSAGEM",
@@ -5180,7 +5665,8 @@
     "classe": "Magnoliopsida",
     "ordem": "Lamiales",
     "família": "Plantaginaceae",
-    "imagem": "./assets/imagens/TRANSAGEM.jpg"
+    "imagem": "./assets/imagens/TRANSAGEM.jpg",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "TRANSAGEM",
@@ -5192,7 +5678,8 @@
     "ordem": "Lamiales",
     "família": "Plantaginaceae",
     "género": "Plantago",
-    "imagem": "./assets/imagens/TRANSAGEM.jpg"
+    "imagem": "./assets/imagens/TRANSAGEM.jpg",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "TRANSAGEM",
@@ -5203,7 +5690,8 @@
     "classe": "Magnoliopsida",
     "ordem": "Lamiales",
     "família": "Plantaginaceae",
-    "imagem": "./assets/imagens/TRANSAGEM.jpg"
+    "imagem": "./assets/imagens/TRANSAGEM.jpg",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "TRAPOERABA-ZEBRINA",
@@ -5213,7 +5701,8 @@
     "ordem": "Commelinales",
     "família": "Commelinaceae",
     "género": "Tradescantia",
-    "imagem": "./assets/imagens/TRAPOERABA-ZEBRINA.jpg"
+    "imagem": "./assets/imagens/TRAPOERABA-ZEBRINA.jpg",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "TREVO-DE-QUATRO-FOLHAS",
@@ -5225,7 +5714,8 @@
     "ordem": "Salviniales",
     "família": "Marsileaceae",
     "género": "Marsilea",
-    "imagem": "./assets/imagens/TREVO-DE-QUATRO-FOLHAS.jpg"
+    "imagem": "./assets/imagens/TREVO-DE-QUATRO-FOLHAS.jpg",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "TREVO-ROXO",
@@ -5237,13 +5727,15 @@
     "ordem": "Oxalidales",
     "família": "Oxalidaceae",
     "género": "L.",
-    "imagem": "./assets/imagens/TREVO-ROXO.jpg"
+    "imagem": "./assets/imagens/TREVO-ROXO.jpg",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "TROMBETA",
     "nome_cientifico": "Brugmansia suaveolens (Willd.) Sweet",
     "familia": "SOLANACEAE",
-    "imagem": "./assets/imagens/TROMBETA.jpg"
+    "imagem": "./assets/imagens/TROMBETA.jpg",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "TUMBÉRGIA-ARBUSTIVA",
@@ -5254,7 +5746,8 @@
     "ordem": "Lamiales",
     "família": "Acanthaceae",
     "género": "Thunbergia",
-    "imagem": "./assets/imagens/TUMBÉRGIA-ARBUSTIVA.jpg"
+    "imagem": "./assets/imagens/TUMBÉRGIA-ARBUSTIVA.jpg",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "TUMBÉRGIA-AZUL",
@@ -5266,7 +5759,8 @@
     "ordem": "Lamiales",
     "família": "Acanthaceae",
     "género": "Thunbergia",
-    "imagem": "./assets/imagens/TUMBÉRGIA-AZUL.jpg"
+    "imagem": "./assets/imagens/TUMBÉRGIA-AZUL.jpg",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "TUMBÉRGIA-BRANCA",
@@ -5276,7 +5770,8 @@
     "ordem": "Lamiales",
     "família": "Acanthaceae",
     "género": "Thunbergia",
-    "imagem": "./assets/imagens/TUMBÉRGIA-BRANCA.jpg"
+    "imagem": "./assets/imagens/TUMBÉRGIA-BRANCA.jpg",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "TUMBÉRGIA-BRANCA",
@@ -5286,7 +5781,8 @@
     "classe": "Magnoliopsida",
     "ordem": "Lamiales",
     "família": "Acanthaceae",
-    "imagem": "./assets/imagens/TUMBÉRGIA-BRANCA.jpg"
+    "imagem": "./assets/imagens/TUMBÉRGIA-BRANCA.jpg",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "TUNÃ",
@@ -5298,13 +5794,15 @@
     "ordem": "Caryophyllales",
     "família": "Cactaceae",
     "género": "Opuntia",
-    "imagem": "./assets/imagens/TUNÃ.jpg"
+    "imagem": "./assets/imagens/TUNÃ.jpg",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "TUYA",
     "nome_cientifico": "Thuya occidentalis L.",
     "familia": "CUPRESSACEAE",
-    "imagem": "./assets/imagens/TUYA.jpg"
+    "imagem": "./assets/imagens/TUYA.jpg",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "UNHA-DE-VACA",
@@ -5315,7 +5813,8 @@
     "ordem": "Fabales",
     "família": "Fabaceae",
     "género": "Bauhinia",
-    "imagem": "./assets/imagens/UNHA-DE-VACA.jpg"
+    "imagem": "./assets/imagens/UNHA-DE-VACA.jpg",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "URTIGA-MANSA",
@@ -5327,7 +5826,8 @@
     "ordem": "Malpighiales",
     "família": "Euphorbiaceae",
     "género": "Alchornea",
-    "imagem": "./assets/imagens/URTIGA-MANSA.jpg"
+    "imagem": "./assets/imagens/URTIGA-MANSA.jpg",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "URUCUM",
@@ -5339,13 +5839,15 @@
     "ordem": "Malvales",
     "família": "Bixaceae",
     "género": "Bixa",
-    "imagem": "./assets/imagens/URUCUM.jpg"
+    "imagem": "./assets/imagens/URUCUM.jpg",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "UVA-DA-AMAZÔNIA",
     "nome_cientifico": "Coccoloba gigantifolia Melo, Cid Ferreira & Gribel",
     "familia": "POLYGONACEAE",
-    "imagem": "./assets/imagens/UVA-DA-AMAZÔNIA.jpg"
+    "imagem": "./assets/imagens/UVA-DA-AMAZÔNIA.jpg",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "VALERIANA",
@@ -5356,7 +5858,8 @@
     "ordem": "Dipsacales",
     "família": "Caprifoleaceae",
     "género": "Valeriana",
-    "imagem": "./assets/imagens/VALERIANA.jpg"
+    "imagem": "./assets/imagens/VALERIANA.jpg",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "VEDÉLIA",
@@ -5365,7 +5868,8 @@
     "reino": "Plantae",
     "ordem": "Asterales",
     "família": "Asteraceae",
-    "imagem": "./assets/imagens/VEDÉLIA.jpg"
+    "imagem": "./assets/imagens/VEDÉLIA.jpg",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "VETIVER",
@@ -5377,13 +5881,15 @@
     "ordem": "Poales",
     "família": "Poaceae",
     "género": "Vetiveria",
-    "imagem": "./assets/imagens/VETIVER.jpg"
+    "imagem": "./assets/imagens/VETIVER.jpg",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "VICK",
     "nome_cientifico": "Mentha arvensis L.",
     "familia": "LAMIACEAE",
-    "imagem": "./assets/imagens/VICK.jpg"
+    "imagem": "./assets/imagens/VICK.jpg",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "VINAGREIRA",
@@ -5395,7 +5901,8 @@
     "ordem": "Malvales",
     "família": "Malvaceae",
     "género": "Hibiscus",
-    "imagem": "./assets/imagens/VINAGREIRA.jpg"
+    "imagem": "./assets/imagens/VINAGREIRA.jpg",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "VINCA-ROSA",
@@ -5407,7 +5914,8 @@
     "ordem": "Gentianales",
     "família": "Apocynaceae",
     "género": "Catharanthus",
-    "imagem": "./assets/imagens/VINCA-ROSA.jpg"
+    "imagem": "./assets/imagens/VINCA-ROSA.jpg",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "VIOLETA",
@@ -5417,7 +5925,8 @@
     "ordem": "Violales",
     "família": "Violaceae",
     "género": "Viola",
-    "imagem": "./assets/imagens/VIOLETA.jpg"
+    "imagem": "./assets/imagens/VIOLETA.jpg",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "XANANA",
@@ -5429,7 +5938,8 @@
     "ordem": "Rosídeas",
     "família": "Turneraceae",
     "género": "Turnera",
-    "imagem": "./assets/imagens/XANANA.jpg"
+    "imagem": "./assets/imagens/XANANA.jpg",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "ZEDOÁRIA",
@@ -5441,7 +5951,8 @@
     "ordem": "Zingiberales",
     "família": "Zingiberaceae",
     "género": "Curcuma",
-    "imagem": "./assets/imagens/ZEDOÁRIA.jpg"
+    "imagem": "./assets/imagens/ZEDOÁRIA.jpg",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "ZÍNIA",
@@ -5450,7 +5961,8 @@
     "reino": "Plantae",
     "ordem": "Asterales",
     "família": "Asteraceae",
-    "imagem": "./assets/imagens/ZÍNIA.jpg"
+    "imagem": "./assets/imagens/ZÍNIA.jpg",
+    "Local": "Carregando..."
   },
   {
     "nome_popular": "CARÁ-MOELA",
@@ -5461,6 +5973,7 @@
     "classe": "Liliopsida",
     "ordem": "Dioscoreales",
     "família": "Dioscoreaceae",
-    "imagem": "./assets/imagens/CARÁ-MOELA.jpg"
+    "imagem": "./assets/imagens/CARÁ-MOELA.jpg",
+    "Local": "Carregando..."
   }
 ]
