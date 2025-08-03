@@ -407,20 +407,28 @@
         "local": "G6"
     },
     {
-        "falta": " falta",
         "nome_popular": "APERTA-RUÃO",
         "nome_cientifico": "Piper aduncum L.",
-        "familia": "PIPERACEAE",
-        "imagem": "./assets/imagens/APERTA-RUÃO.jpg",
+        "reino": "Eukaryota",
+        "divisao": "Plantae",
+        "classe": "Tracheophyta",
+        "ordem": "Angiospermae",
+        "familia": "Piperales",
+        "genero": "Piperaceae",
         "local": "G12"
     },
+    
     {
-        "falta": " falta",
         "nome_popular": "APERTA-RUÃO",
         "nome_cientifico": "Piper mollicomum Kunth",
-        "familia": "PIPERACEAE",
+        "reino": "Eukaryota",
+        "divisao": "Plantae",
+        "classe": "Tracheophyta",
+        "ordem": "Angiospermae",
+        "familia": "Piperales",
+        "genero": "Piperaceae",
         "imagem": "./assets/imagens/APERTA-RUÃO.jpg",
-        "local": "G12"
+        "Local": "G12"
     },
     {
         "nome_popular": "ARAÇA",
@@ -487,11 +495,15 @@
         "local": "G1"
     },
     {
-        "falta": " falta",
         "nome_popular": "ARECA-BAMBU",
-        "nome_cientifico": "Dypsis lutescens (H.Wendl.) Beentje & J.Dransf.",
+        "nome_cientifico": "Dypsis lutescens (H.Wendl.) Beentje & J.Dransf.",
         "familia": "ASTERACEAE",
         "imagem": "./assets/imagens/ARECA-BAMBU.jpg",
+        "reino": "Eukaryota",
+        "divisao": "Plantae",
+        "classe": "Tracheophyta",
+        "ordem": "Angiospermae",
+        "genero": "Arecales",
         "local": "G7"
     },
     {
@@ -872,10 +884,14 @@
         "local": "G11"
     },
     {
-        "falta": " falta",
         "nome_popular": "BANANA-PRATA",
         "nome_cientifico": "Musa paradisica L.",
-        "familia": "MUSACEAE",
+        "reino": "Plantae",
+        "divisao": "Magnoliophyta",
+        "classe": "Liliopsida",
+        "ordem": "Zingiberales",
+        "familia": "Musaceae",
+        "genero": "Musa",
         "imagem": "./assets/imagens/BANANA-PRATA.jpg",
         "local": "G11"
     },
@@ -1016,10 +1032,14 @@
         "local": "G5"
     },
     {
-        "falta": " falta",
         "nome_popular": "BIGODE-DE-OURO",
         "nome_cientifico": "Callisia fragrans (Lindl.) Woodson",
-        "familia": "COMMELINACEAE",
+        "reino": "Reino",
+        "divisao": "Plantae",
+        "classe": "Divisão",
+        "ordem": "Magnoliophyta",
+        "familia": "Liliopsida",
+        "genero": "Ordem",
         "imagem": "./assets/imagens/BIGODE-DE-OURO.jpg",
         "local": "Carregando"
     },
@@ -1036,10 +1056,14 @@
         "local": "Carregando"
     },
     {
-        "falta": " falta",
         "nome_popular": "BOLDO-JAPONÊS",
         "nome_cientifico": "Plectranthus neochilus Schltr.",
-        "familia": "LAMIACEAE",
+        "reino": "Reino",
+        "divisao": "Plantae",
+        "classe": "Divisão",
+        "ordem": "Magnoliophyta",
+        "familia": "Lamiales",
+        "genero": "Ordem",
         "imagem": "./assets/imagens/BOLDO-JAPONÊS.jpg",
         "local": "G7"
     },
@@ -1068,10 +1092,14 @@
         "local": "G5"
     },
     {
-        "falta": " falta",
         "nome_popular": "BOTÃO-DE-OURO",
         "nome_cientifico": "Unxia suffruticosa (Baker) Stuessy",
-        "familia": "ASTERACEAE",
+        "reino": "Reino",
+        "divisao": "Plantae",
+        "classe": "Clado",
+        "ordem": "angiospérmicas",
+        "familia": "Ordem",
+        "genero": "Asterales",
         "imagem": "./assets/imagens/BOTÃO-DE-OURO.jpg",
         "local": "G5"
     },
@@ -1114,10 +1142,14 @@
         "local": "G5"
     },
     {
-        "falta": " falta",
         "nome_popular": "BROMIL",
         "nome_cientifico": "Senega paniculata (L.) J.F.B.Pastore & J.R.Abbott",
-        "familia": "POLYGALACEAE",
+        "reino": "Plantae",
+        "divisao": "Magnoliophyta",
+        "classe": "Magnoliopsida",
+        "ordem": "Fabales",
+        "familia": "Polygalaceae",
+        "genero": "Polygala",
         "imagem": "./assets/imagens/BROMIL.jpg",
         "local": "G8"
     },
@@ -1252,10 +1284,14 @@
         "local": "G13"
     },
     {
-        "falta": " falta",
         "nome_popular": "CAMABARÁ-BRANCO",
         "nome_cientifico": "Lantana nivea Vent.",
-        "familia": "VERBENACEAE",
+        "reino": "Domínio",
+        "divisao": "Eukaryota",
+        "classe": "Reino",
+        "ordem": "Plantae",
+        "familia": "Viridiplantae",
+        "genero": "Infrarreino",
         "imagem": "./assets/imagens/CAMABARÁ-BRANCO.jpg",
         "local": "G5"
     },
@@ -1283,10 +1319,14 @@
         "local": "G5"
     },
     {
-        "falta": " falta",
         "nome_popular": "CAMARÃO-VERMELHO",
-        "nome_cientifico": "Justicia brandegeeana Wassh. & L.B.Sm.",
-        "familia": "ACANTHACEAE",
+        "nome_cientifico": "Justicia brandegeeana Wassh. & L.B.Sm.",
+        "reino": "Eukaryota",
+        "divisao": "Plantae",
+        "classe": "Tracheophyta",
+        "ordem": "Angiospermae",
+        "familia": "Asterídeas",
+        "genero": "Lamiales",
         "imagem": "./assets/imagens/CAMARÃO-VERMELHO.jpg",
         "local": "VIVEIRO"
     },
@@ -1545,10 +1585,14 @@
         "local": "G6"
     },
     {
-        "falta": " falta",
         "nome_popular": "CAPIM-LIMÃO RASTEIRO",
         "nome_cientifico": "Pectis brevipedunculata Sch.Bip.",
-        "familia": "ASTERACEAE",
+        "reino": "Reino",
+        "divisao": "Plantae",
+        "classe": "Clado",
+        "ordem": "angiospérmicas",
+        "familia": "Ordem",
+        "genero": "Asterales",
         "imagem": "./assets/imagens/CAPIM-LIMÃO_RASTEIRO.jpg",
         "local": "Carregando"
     },
@@ -1762,10 +1806,14 @@
         "local": "G8"
     },
     {
-        "falta": " falta",
         "nome_popular": "CHAMBÁ",
         "nome_cientifico": "Justicia pectoralis Jacq.",
+        "reino": "Plantae",
+        "divisao": "Magnoliophyta",
+        "classe": "Magnoliopsida",
+        "ordem": "Lamiales",
         "familia": "ACANTHACEAE",
+        "genero": "Justicia",
         "imagem": "./assets/imagens/CHAMBÁ.jpg",
         "local": "Carregando"
     },
@@ -1809,11 +1857,15 @@
         "local": "Carregando"
     },
     {
-        "falta": " falta",
         "nome_popular": "CHEFLERA",
         "nome_cientifico": "Heptapleurum actinophyllum (Endl.) Lowry & G.M. Plunkett",
+        "reino": "Plantae",
+        "divisao": "Magnoliophyta",
+        "classe": "Magnoliopsida",
+        "ordem": "Apiales",
         "familia": "ARALIACEAE",
-        "imagem": "./assets/imagens/CHEFLERA.jpg",
+        "genero": "Heptapleurum",
+        "imagem": "./assets/imagens/Cheflera.jpg",
         "local": "G8"
     },
     {
@@ -1841,10 +1893,14 @@
         "local": "G2"
     },
     {
-        "falta": " falta",
         "nome_popular": "CHIFRE-DE-VEADO",
         "nome_cientifico": "Platycerium bifurcatum (Cav.) C. Chr.",
-        "familia": "POLYPODIACEAE",
+        "reino": "Plantae",
+        "divisao": "Polypodiophyta",
+        "classe": "Polypodiopsida",
+        "ordem": "Polypodiales",
+        "familia": "Polypodiaceae",
+        "genero": "Platycerium",
         "imagem": "./assets/imagens/CHIFRE-DE-VEADO.jpg",
         "local": "G8"
     },
@@ -1884,18 +1940,26 @@
         "local": "G6"
     },
     {
-        "falta": " falta",
         "nome_popular": "CINERÁRIA",
         "nome_cientifico": "Jacobaea maritima (L.) Pelser & Meijden",
-        "familia": "ASTERACEAE",
+        "reino": "Reino",
+        "divisao": "Plantae",
+        "classe": "Clado",
+        "ordem": "angiospérmicas",
+        "familia": "Ordem",
+        "genero": "Asterales",
         "imagem": "./assets/imagens/CINERÁRIA.jpg",
         "local": "Carregando"
     },
     {
-        "falta": " falta",
         "nome_popular": "CIPÓ-CABELUDO",
         "nome_cientifico": "Mikania hirsutissima DC.",
+        "reino": "Plantae",
+        "divisao": "Magnoliophyta",
+        "classe": "Magnoliopsida",
+        "ordem": "Asterales",
         "familia": "ASTERACEAE",
+        "genero": "Mikania",
         "imagem": "./assets/imagens/CIPÓ-CABELUDO.jpg",
         "local": "G2"
     },
@@ -2000,10 +2064,14 @@
         "local": "G6"
     },
     {
-        "falta": " falta",
         "nome_popular": "CÓLEUS",
         "nome_cientifico": "Coleus scutellarioides (L.) Benth.",
-        "familia": "LAMIACEAE",
+        "reino": "Plantae",
+        "divisao": "Magnoliophyta",
+        "classe": "Magnoliopsida",
+        "ordem": "Lamiales",
+        "familia": "Lamiaceae",
+        "genero": "Plectranthus",
         "imagem": "./assets/imagens/CÓLEUS.jpg",
         "local": "G5"
     },
@@ -2081,10 +2149,13 @@
         "local": "G10"
     },
     {
-        "falta": " falta",
         "nome_popular": "COPAÍBA",
         "nome_cientifico": "Copaifera langsdorffi Desf.",
-        "familia": "FABACEAE",
+        "reino": "Reino",
+        "divisao": "Plantae",
+        "classe": "Clado",
+        "ordem": "angiospérmicas",
+        "familia": "Fabales",
         "imagem": "./assets/imagens/COPAÍBA.jpg",
         "local": "VIVEIRO"
     },
@@ -2149,10 +2220,14 @@
         "local": "G8"
     },
     {
-        "falta": " falta",
         "nome_popular": "COTONETE",
         "nome_cientifico": "Clerodendrum quadriloculare (Blanco) Merr.",
-        "familia": "LAMIACEAE",
+        "reino": "Reino",
+        "divisao": "Plantae",
+        "classe": "Filo",
+        "ordem": "Magnoliophyta",
+        "familia": "Magnoliopsida",
+        "genero": "Ordem",
         "imagem": "./assets/imagens/COTONETE.jpg",
         "local": "G2"
     },
@@ -2167,34 +2242,50 @@
         "local": "G10"
     },
     {
-        "falta": " falta",
         "nome_popular": "CRAJIRU - Quimiotipo 1",
         "nome_cientifico": "Fridericia chica var. angustifolia (Bonpl.) L.G.Lohmann",
-        "familia": "BIGNONIACEAE",
+        "reino": "Reino",
+        "divisao": "Plantae",
+        "classe": "Divisão",
+        "ordem": "Magnoliophyta",
+        "familia": "Magnoliopsida",
+        "genero": "Ordem",
         "imagem": "./assets/imagens/CRAJIRU_-_Quimiotipo_1.jpg",
         "local": "G10"
     },
     {
-        "falta": " falta",
         "nome_popular": "CRAJIRU - Quimiotipo 2",
         "nome_cientifico": "Fridericia chica (Bonpl.) L.G.Lohmann",
+        "reino": "Plantae",
+        "divisao": "Magnoliophyta",
+        "classe": "Magnoliopsida",
+        "ordem": "Lamiales",
         "familia": "BIGNONIACEAE",
+        "genero": "Fridericia",
         "imagem": "./assets/imagens/CRAJIRU_-_Quimiotipo_2.jpg",
         "local": "VIVEIRO"
     },
     {
-        "falta": " falta",
         "nome_popular": "CRAJIRU - Quimiotipo 3",
         "nome_cientifico": "Fridericia chica (Bonpl.) L.G.Lohmann",
-        "familia": "BIGNONIACEAE",
+        "reino": "Reino",
+        "divisao": "Plantae",
+        "classe": "Divisão",
+        "ordem": "Magnoliophyta",
+        "familia": "Magnoliopsida",
+        "genero": "Ordem",
         "imagem": "./assets/imagens/CRAJIRU_-_Quimiotipo_3.jpg",
         "local": "VIVEIRO"
     },
     {
-        "falta": " falta",
         "nome_popular": "CRAJIRU - Quimiotipo 4",
         "nome_cientifico": "Fridericia chica (Bonpl.) L.G.Lohmann",
-        "familia": "BIGNONIACEAE",
+        "reino": "Reino",
+        "divisao": "Plantae",
+        "classe": "Divisão",
+        "ordem": "Magnoliophyta",
+        "familia": "Magnoliopsida",
+        "genero": "Ordem",
         "imagem": "./assets/imagens/CRAJIRU_-_Quimiotipo_4.jpg",
         "local": "G5"
     },
@@ -2225,7 +2316,7 @@
     },
     {
         "nome_popular": "CREPE-DO-JAPÃO",
-        "nome_cientifico": "Youngia japonica (L.) DC.",
+        "nome_cientifico": "Youngia japonica (L.) DC.",
         "familia": "ASTERACEAE",
         "reino": "Plantae",
         "ordem": "Asterales",
@@ -2234,16 +2325,19 @@
         "local": "G8"
     },
     {
-        "falta": " falta",
         "nome_popular": "CROTALÁRIA",
-        "nome_cientifico": "Crotalaria ochroleuca G. Don",
-        "familia": "FABACEAE",
+        "nome_cientifico": "Crotalaria ochroleuca G. Don",
         "imagem": "./assets/imagens/CROTALÁRIA.jpg",
+        "reino": "Reino",
+        "divisao": "Plantae",
+        "classe": "Divisão",
+        "ordem": "Magnoliophyta",
+        "familia": "Magnoliopsida",
         "local": "Carregando"
     },
     {
         "nome_popular": "CROTON",
-        "nome_cientifico": "Codiaeum variegatum (L.) Rumph. ex A.Juss.",
+        "nome_cientifico": "Codiaeum variegatum (L.) Rumph. ex A.Juss.",
         "familia": "EUPHORBIACEAE",
         "reino": "Plantae",
         "ordem": "Malpighiales",
@@ -2280,7 +2374,7 @@
     },
     {
         "nome_popular": "DÁLIA-AMARELA",
-        "nome_cientifico": "Dahlia pinnata Cav.",
+        "nome_cientifico": "Dahlia pinnata Cav.",
         "familia": "ASTERACEAE",
         "reino": "Plantae",
         "ordem": "Asterales",
@@ -2290,7 +2384,7 @@
     },
     {
         "nome_popular": "DAMA-DA-NOITE  2",
-        "nome_cientifico": "Cestrum nocturnum L.",
+        "nome_cientifico": "Cestrum nocturnum L.",
         "familia": "SOLANACEAE",
         "reino": "Plantae",
         "ordem": "Solanales",
@@ -2312,16 +2406,20 @@
         "local": "VIVEIRO"
     },
     {
-        "falta": " falta",
         "nome_popular": "DENTE-DE-LEÃO",
         "nome_cientifico": "Taraxacum officinale F.H. Wigg.",
         "familia": "ASTERACEAE",
         "imagem": "./assets/imagens/DENTE-DE-LEÃO.jpg",
+        "reino": "Eukaryota",
+        "divisao": "Plantae",
+        "classe": "Tracheophyta",
+        "ordem": "Angiospermae",
+        "genero": "Asterales",
         "local": "G13"
     },
     {
         "nome_popular": "DÓLAR",
-        "nome_cientifico": "Plectranthus verticillatus (L.f.) Druce",
+        "nome_cientifico": "Plectranthus verticillatus (L.f.) Druce",
         "familia": "LAMIACEAE",
         "reino": "Plantae",
         "divisão": "Magnoliophyta",
@@ -2334,7 +2432,7 @@
     },
     {
         "nome_popular": "DORMIDEIRA",
-        "nome_cientifico": "Mimosa pudica L.",
+        "nome_cientifico": "Mimosa pudica L.",
         "familia": "FABACEAE",
         "reino": "Plantae",
         "divisão": "Magnoliophyta",
@@ -2347,7 +2445,7 @@
     },
     {
         "nome_popular": "DRACENA-VERMELHA",
-        "nome_cientifico": "Cordyline fruticosa (L.) A.Chev.",
+        "nome_cientifico": "Cordyline fruticosa (L.) A.Chev.",
         "familia": "ASPARAGACEAE",
         "reino": "Plantae",
         "divisão": "Magnoliophyta",
@@ -2358,18 +2456,26 @@
         "local": "G5"
     },
     {
-        "falta": " falta",
         "nome_popular": "ELEVANTE",
         "nome_cientifico": "Mentha citrata L.",
-        "familia": "LAMIACEAE",
         "imagem": "./assets/imagens/ELEVANTE.jpg",
+        "reino": "Eukaryota",
+        "divisao": "Plantae",
+        "classe": "Tracheophyta",
+        "ordem": "Angiospermae",
+        "familia": "Asterídeas",
+        "genero": "Lamiales",
         "local": "G6"
     },
     {
-        "falta": " falta",
-        "nome_popular": "ELIXIR-PAREGORICO",
+        "nome_popular": "Elixir-paregórico",
         "nome_cientifico": "Piper callosum Ruiz & Pav.",
+        "reino": "Plantae",
+        "divisao": "Magnoliophyta",
+        "classe": "Magnoliopsida",
+        "ordem": "Piperales",
         "familia": "PIPERACEAE",
+        "genero": "Piper",
         "imagem": "./assets/imagens/ELIXIR-PAREGORICO.jpg",
         "local": "Carregando"
     },
@@ -2725,26 +2831,38 @@
         "local": "G10"
     },
     {
-        "falta": " falta",
         "nome_popular": "EUCALIPTO",
         "nome_cientifico": "Eucalyptus globulus Labill.",
         "familia": "MYRTACEAE",
         "imagem": "./assets/imagens/EUCALIPTO.jpg",
+        "reino": "Eukaryota",
+        "divisao": "Plantae",
+        "classe": "Tracheophyta",
+        "ordem": "Angiospermae",
+        "genero": "Myrtales",
         "local": "G12"
     },
     {
-        "falta": " falta",
         "nome_popular": "FAVA-DE-ARIDAN",
-        "nome_cientifico": "Tetrapleura tetraptera (Schum. & Thonn.) Taub.",
-        "familia": "FABACEAE",
+        "nome_cientifico": "Tetrapleura tetraptera (Schum. & Thonn.) Taub.",
+        "reino": "Reino",
+        "divisao": "Plantae",
+        "classe": "Divisão",
+        "ordem": "Magnoliophyta",
+        "familia": "Magnoliopsida",
+        "genero": "Ordem",
         "imagem": "./assets/imagens/FAVA-DE-ARIDAN.jpg",
         "local": "G6"
     },
     {
-        "falta": " falta",
         "nome_popular": "FAVELA",
         "nome_cientifico": "Cnidoscolus quercifolia Pohl",
-        "familia": "EUPHORBIACEAE",
+        "reino": "Nairóbi",
+        "divisao": "Quênia",
+        "classe": "Paris",
+        "ordem": "França",
+        "familia": "Indonésia",
+        "genero": "Cidade do Cabo",
         "imagem": "./assets/imagens/FAVELA.jpg",
         "local": "VIVEIRO"
     },
@@ -2761,11 +2879,15 @@
         "local": "VIVEIRO"
     },
     {
-        "falta": " falta",
         "nome_popular": "FEIJÃO-AZUL",
-        "nome_cientifico": "Clitoria ternatea L.",
+        "nome_cientifico": "Clitoria ternatea L.",
         "familia": "FABACEAE",
         "imagem": "./assets/imagens/FEIJÃO-AZUL.jpg",
+        "reino": "Eukaryota",
+        "divisao": "Plantae",
+        "classe": "Tracheophyta",
+        "ordem": "Angiospermae",
+        "genero": "Fabales",
         "local": "G13"
     },
     {
@@ -3155,26 +3277,38 @@
         "local": "G1"
     },
     {
-        "falta": " falta",
         "nome_popular": "HORTELÃ",
         "nome_cientifico": "Mentha crispa L.",
-        "familia": "LAMIACEAE",
+        "reino": "Plantae",
+        "divisao": "Magnoliophyta",
+        "classe": "Magnoliopsida",
+        "ordem": "Lamiales",
+        "familia": "Lamiaceae",
+        "genero": "Mentha",
         "imagem": "./assets/imagens/HORTELÃ.jpg",
         "local": "G6"
     },
     {
-        "falta": " falta",
         "nome_popular": "HORTELÃ-PIMENTA",
         "nome_cientifico": "Coleus amboinicus Lour.",
-        "familia": "LAMIACEAE",
+        "reino": "Plantae",
+        "divisao": "Magnoliophyta",
+        "classe": "Magnoliopsida",
+        "ordem": "Lamiales",
+        "familia": "Lamiaceae",
+        "genero": "Mentha",
         "imagem": "./assets/imagens/HORTELÃ-PIMENTA.jpg",
         "local": "G6"
     },
     {
-        "falta": " falta",
         "nome_popular": "HORTELÃ-PIMENTA-VARIEGATA",
         "nome_cientifico": "Coleus amboinicus Lour.",
-        "familia": "LAMIACEAE",
+        "reino": "Plantae",
+        "divisao": "Magnoliophyta",
+        "classe": "Magnoliopsida",
+        "ordem": "Lamiales",
+        "familia": "Lamiaceae",
+        "genero": "Mentha",
         "imagem": "./assets/imagens/HORTELÃ-PIMENTA-VARIEGATA.jpg",
         "local": "G6"
     },
@@ -3192,10 +3326,14 @@
         "local": "G2"
     },
     {
-        "falta": " falta",
         "nome_popular": "INFALIVINA",
         "nome_cientifico": "Calea pinnatifida (R.Br.) Banks ex Steud.",
-        "familia": "ASTERACEAE",
+        "reino": "Reino",
+        "divisao": "Plantae",
+        "classe": "Clado",
+        "ordem": "angiospérmicas",
+        "familia": "Ordem",
+        "genero": "Asterales",
         "imagem": "./assets/imagens/INFALIVINA.jpg",
         "local": "G10"
     },
@@ -3237,12 +3375,18 @@
         "local": "G12"
     },
     {
-        "falta": " falta",
         "nome_popular": "INSULINA 1",
         "nome_cientifico": "Cissus sulcicaulis (Baker) Planch.",
-        "familia": "VITACEAE",
+        "reino": "Reino",
+        "divisao": "Plantae",
+        "classe": "Divisão",
+        "ordem": "Magnoliophyta",
+        "familia": "Liliopsida",
+        "genero": "Ordem",
         "imagem": "./assets/imagens/INSULINA_1.jpg",
         "local": "G7"
+
+        
     },
     {
         "nome_popular": "INSULINA 2",
@@ -3304,10 +3448,14 @@
         "local": "G5"
     },
     {
-        "falta": " falta",
         "nome_popular": "JABOTICABA",
         "nome_cientifico": "Plinia peruviana (Poir.) Govaerts",
-        "familia": "MYRTACEAE",
+        "reino": "Reino",
+        "divisao": "Plantae",
+        "classe": "Divisão",
+        "ordem": "Magnoliophyta",
+        "familia": "Magnoliopsida",
+        "genero": "Ordem",
         "imagem": "./assets/imagens/JABOTICABA.jpg",
         "local": "G11"
     },
@@ -3384,12 +3532,16 @@
         "local": "G6"
     },
     {
-        "falta": " falta",
         "nome_popular": "JANAÚBA",
         "nome_cientifico": "Euphorbia umbellata (Pax) Bruyns",
         "familia": "EUPHORBIACEAE",
         "imagem": "./assets/imagens/JANAÚBA.jpg",
-        "local": "G5"
+        "reino": "Eukaryota",
+        "divisao": "Plantae",
+        "classe": "Tracheophyta",
+        "ordem": "Angiospermae",
+        "genero": "Malpighiales",
+        "local" : "G5"
     },
     {
         "nome_popular": "JASMIM-DO-CABO",
@@ -3744,7 +3896,6 @@
         "local": "VIVEIRO"
     },
     {
-        "falta": " falta",
         "nome_popular": "MACASSÁ",
         "nome_cientifico": "Aeollanthus suaveolens Mart. ex Spreng.",
         "reino": "Plantae",
@@ -4095,10 +4246,14 @@
         "local": "G1"
     },
     {
-        "falta": " falta",
         "nome_popular": "MARIANEIRA",
         "nome_cientifico": "Iochroma arborescens (L.) J.M.H. Shaw",
-        "familia": "SOLANACEAE",
+        "reino": "Reino",
+        "divisao": "Plantae",
+        "classe": "Clado",
+        "ordem": "angiospérmicas",
+        "familia": "asterídeas",
+        "genero": "Ordem",
         "imagem": "./assets/imagens/MARIANEIRA.jpg",
         "local": "G6"
     },
@@ -4139,10 +4294,14 @@
         "local": "G4"
     },
     {
-        "falta": " falta",
         "nome_popular": "MASTRUÇO",
         "nome_cientifico": "Coronopus didymus (L.) Sm.",
-        "familia": "BRASSICACEAE",
+        "reino": "Reino",
+        "divisao": "Plantae",
+        "classe": "Divisão",
+        "ordem": "Magnoliophyta",
+        "familia": "Magnoliopsida",
+        "genero": "Ordem",
         "imagem": "./assets/imagens/MASTRUÇO.jpg",
         "local": "G10"
     },
@@ -4997,18 +5156,26 @@
         "local": "G5"
     },
     {
-        "falta": "falta",
-        "nome_popular": "QUEBRA-PEDRA",
+        "nome_popular": "Quebra-pedra",
         "nome_cientifico": "Moeroris amara (Schumach. & Thonn.)",
+        "reino": "Plantae",
+        "divisao": "Magnoliophyta",
+        "classe": "Magnoliopsida",
+        "ordem": "Malpighiales",
         "familia": "PHYLLANTHACEAE",
+        "genero": "Moeroris",
         "imagem": "./assets/imagens/QUEBRA-PEDRA.jpg",
         "local": "Carregando"
     },
     {
-        "falta": "falta",
-        "nome_popular": "QUEBRA-PEDRA-RASTEIRO",
+        "nome_popular": "Quebra-pedra-rasteiro",
         "nome_cientifico": "Euphorbia prostata Aiton",
+        "reino": "Plantae",
+        "divisao": "Magnoliophyta",
+        "classe": "Magnoliopsida",
+        "ordem": "Malpighiales",
         "familia": "EUPHORBIACEAE",
+        "genero": "Euphorbia",
         "imagem": "./assets/imagens/QUEBRA-PEDRA-RASTEIRO.jpg",
         "local": "G6"
     },
@@ -5033,10 +5200,14 @@
         "local": "G10"
     },
     {
-        "falta": "falta",
         "nome_popular": "RABO-DE-BUGIO",
         "nome_cientifico": "Dalbergia frutescens (Vell.) Britton",
-        "familia": "FABACEAE",
+        "reino": "Eukaryota",
+        "divisao": "Plantae",
+        "classe": "Tracheophyta",
+        "ordem": "Angiospermae",
+        "familia": "Rosídeas",
+        "genero": "Fabales",
         "imagem": "./assets/imagens/RABO-DE-BUGIO.jpg",
         "local": "Carregando"
     },
@@ -5838,7 +6009,12 @@
     {
         "nome_popular": "VICK",
         "nome_cientifico": "Mentha arvensis L.",
-        "familia": "LAMIACEAE",
+        "reino": "Eukaryota",
+        "divisao": "Plantae",
+        "classe": "Tracheophyta",
+        "ordem": "Angiospermae",
+        "familia": "Asterídeas",
+        "genero": "Lamiales",
         "imagem": "./assets/imagens/VICK.jpg",
         "local": "G6"
     },
@@ -5928,3 +6104,12 @@
         "local": "G13"
     }
 ]
+
+  
+  
+  
+  
+  
+
+
+  

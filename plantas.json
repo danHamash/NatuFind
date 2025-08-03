@@ -407,7 +407,6 @@
         "local": "G6"
     },
     {
-        "falta": " falta",
         "nome_popular": "APERTA-RUÃO",
         "nome_cientifico": "Piper aduncum L.",
         "reino": "Eukaryota",
@@ -885,10 +884,14 @@
         "local": "G11"
     },
     {
-        "falta": " falta",
         "nome_popular": "BANANA-PRATA",
         "nome_cientifico": "Musa paradisica L.",
-        "familia": "MUSACEAE",
+        "reino": "Plantae",
+        "divisao": "Magnoliophyta",
+        "classe": "Liliopsida",
+        "ordem": "Zingiberales",
+        "familia": "Musaceae",
+        "genero": "Musa",
         "imagem": "./assets/imagens/BANANA-PRATA.jpg",
         "local": "G11"
     },
@@ -1139,10 +1142,14 @@
         "local": "G5"
     },
     {
-        "falta": " falta",
         "nome_popular": "BROMIL",
         "nome_cientifico": "Senega paniculata (L.) J.F.B.Pastore & J.R.Abbott",
-        "familia": "POLYGALACEAE",
+        "reino": "Plantae",
+        "divisao": "Magnoliophyta",
+        "classe": "Magnoliopsida",
+        "ordem": "Fabales",
+        "familia": "Polygalaceae",
+        "genero": "Polygala",
         "imagem": "./assets/imagens/BROMIL.jpg",
         "local": "G8"
     },
@@ -1312,7 +1319,6 @@
         "local": "G5"
     },
     {
-        "falta": " falta",
         "nome_popular": "CAMARÃO-VERMELHO",
         "nome_cientifico": "Justicia brandegeeana Wassh. & L.B.Sm.",
         "reino": "Eukaryota",
@@ -1800,10 +1806,14 @@
         "local": "G8"
     },
     {
-        "falta": " falta",
         "nome_popular": "CHAMBÁ",
         "nome_cientifico": "Justicia pectoralis Jacq.",
+        "reino": "Plantae",
+        "divisao": "Magnoliophyta",
+        "classe": "Magnoliopsida",
+        "ordem": "Lamiales",
         "familia": "ACANTHACEAE",
+        "genero": "Justicia",
         "imagem": "./assets/imagens/CHAMBÁ.jpg",
         "local": "Carregando"
     },
@@ -1847,11 +1857,15 @@
         "local": "Carregando"
     },
     {
-        "falta": " falta",
         "nome_popular": "CHEFLERA",
         "nome_cientifico": "Heptapleurum actinophyllum (Endl.) Lowry & G.M. Plunkett",
+        "reino": "Plantae",
+        "divisao": "Magnoliophyta",
+        "classe": "Magnoliopsida",
+        "ordem": "Apiales",
         "familia": "ARALIACEAE",
-        "imagem": "./assets/imagens/CHEFLERA.jpg",
+        "genero": "Heptapleurum",
+        "imagem": "./assets/imagens/Cheflera.jpg",
         "local": "G8"
     },
     {
@@ -1879,10 +1893,14 @@
         "local": "G2"
     },
     {
-        "falta": " falta",
         "nome_popular": "CHIFRE-DE-VEADO",
         "nome_cientifico": "Platycerium bifurcatum (Cav.) C. Chr.",
-        "familia": "POLYPODIACEAE",
+        "reino": "Plantae",
+        "divisao": "Polypodiophyta",
+        "classe": "Polypodiopsida",
+        "ordem": "Polypodiales",
+        "familia": "Polypodiaceae",
+        "genero": "Platycerium",
         "imagem": "./assets/imagens/CHIFRE-DE-VEADO.jpg",
         "local": "G8"
     },
@@ -1934,10 +1952,14 @@
         "local": "Carregando"
     },
     {
-        "falta": " falta",
         "nome_popular": "CIPÓ-CABELUDO",
         "nome_cientifico": "Mikania hirsutissima DC.",
+        "reino": "Plantae",
+        "divisao": "Magnoliophyta",
+        "classe": "Magnoliopsida",
+        "ordem": "Asterales",
         "familia": "ASTERACEAE",
+        "genero": "Mikania",
         "imagem": "./assets/imagens/CIPÓ-CABELUDO.jpg",
         "local": "G2"
     },
@@ -2042,10 +2064,14 @@
         "local": "G6"
     },
     {
-        "falta": " falta",
         "nome_popular": "CÓLEUS",
         "nome_cientifico": "Coleus scutellarioides (L.) Benth.",
-        "familia": "LAMIACEAE",
+        "reino": "Plantae",
+        "divisao": "Magnoliophyta",
+        "classe": "Magnoliopsida",
+        "ordem": "Lamiales",
+        "familia": "Lamiaceae",
+        "genero": "Plectranthus",
         "imagem": "./assets/imagens/CÓLEUS.jpg",
         "local": "G5"
     },
@@ -2228,10 +2254,14 @@
         "local": "G10"
     },
     {
-        "falta": " falta",
         "nome_popular": "CRAJIRU - Quimiotipo 2",
         "nome_cientifico": "Fridericia chica (Bonpl.) L.G.Lohmann",
+        "reino": "Plantae",
+        "divisao": "Magnoliophyta",
+        "classe": "Magnoliopsida",
+        "ordem": "Lamiales",
         "familia": "BIGNONIACEAE",
+        "genero": "Fridericia",
         "imagem": "./assets/imagens/CRAJIRU_-_Quimiotipo_2.jpg",
         "local": "VIVEIRO"
     },
@@ -2248,7 +2278,6 @@
         "local": "VIVEIRO"
     },
     {
-        "falta": " falta",
         "nome_popular": "CRAJIRU - Quimiotipo 4",
         "nome_cientifico": "Fridericia chica (Bonpl.) L.G.Lohmann",
         "reino": "Reino",
@@ -2439,10 +2468,14 @@
         "local": "G6"
     },
     {
-        "falta": " falta",
-        "nome_popular": "ELIXIR-PAREGORICO",
+        "nome_popular": "Elixir-paregórico",
         "nome_cientifico": "Piper callosum Ruiz & Pav.",
+        "reino": "Plantae",
+        "divisao": "Magnoliophyta",
+        "classe": "Magnoliopsida",
+        "ordem": "Piperales",
         "familia": "PIPERACEAE",
+        "genero": "Piper",
         "imagem": "./assets/imagens/ELIXIR-PAREGORICO.jpg",
         "local": "Carregando"
     },
@@ -3244,26 +3277,38 @@
         "local": "G1"
     },
     {
-        "falta": " falta",
         "nome_popular": "HORTELÃ",
         "nome_cientifico": "Mentha crispa L.",
-        "familia": "LAMIACEAE",
+        "reino": "Plantae",
+        "divisao": "Magnoliophyta",
+        "classe": "Magnoliopsida",
+        "ordem": "Lamiales",
+        "familia": "Lamiaceae",
+        "genero": "Mentha",
         "imagem": "./assets/imagens/HORTELÃ.jpg",
         "local": "G6"
     },
     {
-        "falta": " falta",
         "nome_popular": "HORTELÃ-PIMENTA",
         "nome_cientifico": "Coleus amboinicus Lour.",
-        "familia": "LAMIACEAE",
+        "reino": "Plantae",
+        "divisao": "Magnoliophyta",
+        "classe": "Magnoliopsida",
+        "ordem": "Lamiales",
+        "familia": "Lamiaceae",
+        "genero": "Mentha",
         "imagem": "./assets/imagens/HORTELÃ-PIMENTA.jpg",
         "local": "G6"
     },
     {
-        "falta": " falta",
         "nome_popular": "HORTELÃ-PIMENTA-VARIEGATA",
         "nome_cientifico": "Coleus amboinicus Lour.",
-        "familia": "LAMIACEAE",
+        "reino": "Plantae",
+        "divisao": "Magnoliophyta",
+        "classe": "Magnoliopsida",
+        "ordem": "Lamiales",
+        "familia": "Lamiaceae",
+        "genero": "Mentha",
         "imagem": "./assets/imagens/HORTELÃ-PIMENTA-VARIEGATA.jpg",
         "local": "G6"
     },
@@ -5111,18 +5156,26 @@
         "local": "G5"
     },
     {
-        "falta": "falta",
-        "nome_popular": "QUEBRA-PEDRA",
+        "nome_popular": "Quebra-pedra",
         "nome_cientifico": "Moeroris amara (Schumach. & Thonn.)",
+        "reino": "Plantae",
+        "divisao": "Magnoliophyta",
+        "classe": "Magnoliopsida",
+        "ordem": "Malpighiales",
         "familia": "PHYLLANTHACEAE",
+        "genero": "Moeroris",
         "imagem": "./assets/imagens/QUEBRA-PEDRA.jpg",
         "local": "Carregando"
     },
     {
-        "falta": "falta",
-        "nome_popular": "QUEBRA-PEDRA-RASTEIRO",
+        "nome_popular": "Quebra-pedra-rasteiro",
         "nome_cientifico": "Euphorbia prostata Aiton",
+        "reino": "Plantae",
+        "divisao": "Magnoliophyta",
+        "classe": "Magnoliopsida",
+        "ordem": "Malpighiales",
         "familia": "EUPHORBIACEAE",
+        "genero": "Euphorbia",
         "imagem": "./assets/imagens/QUEBRA-PEDRA-RASTEIRO.jpg",
         "local": "G6"
     },
@@ -5956,7 +6009,12 @@
     {
         "nome_popular": "VICK",
         "nome_cientifico": "Mentha arvensis L.",
-        "familia": "LAMIACEAE",
+        "reino": "Eukaryota",
+        "divisao": "Plantae",
+        "classe": "Tracheophyta",
+        "ordem": "Angiospermae",
+        "familia": "Asterídeas",
+        "genero": "Lamiales",
         "imagem": "./assets/imagens/VICK.jpg",
         "local": "G6"
     },
@@ -6047,3 +6105,11 @@
     }
 ]
 
+  
+  
+  
+  
+  
+
+
+  
