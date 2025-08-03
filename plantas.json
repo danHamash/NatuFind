@@ -414,13 +414,18 @@
         "imagem": "./assets/imagens/APERTA-RUÃO.jpg",
         "local": "G12"
     },
+    
     {
-        "falta": " falta",
         "nome_popular": "APERTA-RUÃO",
         "nome_cientifico": "Piper mollicomum Kunth",
-        "familia": "PIPERACEAE",
+        "reino": "Eukaryota",
+        "divisao": "Plantae",
+        "classe": "Tracheophyta",
+        "ordem": "Angiospermae",
+        "familia": "Piperales",
+        "genero": "Piperaceae",
         "imagem": "./assets/imagens/APERTA-RUÃO.jpg",
-        "local": "G12"
+        "Local": "G12"
     },
     {
         "nome_popular": "ARAÇA",
@@ -487,11 +492,15 @@
         "local": "G1"
     },
     {
-        "falta": " falta",
         "nome_popular": "ARECA-BAMBU",
-        "nome_cientifico": "Dypsis lutescens (H.Wendl.) Beentje & J.Dransf.",
+        "nome_cientifico": "Dypsis lutescens (H.Wendl.) Beentje & J.Dransf.",
         "familia": "ASTERACEAE",
         "imagem": "./assets/imagens/ARECA-BAMBU.jpg",
+        "reino": "Eukaryota",
+        "divisao": "Plantae",
+        "classe": "Tracheophyta",
+        "ordem": "Angiospermae",
+        "genero": "Arecales",
         "local": "G7"
     },
     {
@@ -2312,11 +2321,15 @@
         "local": "VIVEIRO"
     },
     {
-        "falta": " falta",
         "nome_popular": "DENTE-DE-LEÃO",
         "nome_cientifico": "Taraxacum officinale F.H. Wigg.",
         "familia": "ASTERACEAE",
         "imagem": "./assets/imagens/DENTE-DE-LEÃO.jpg",
+        "reino": "Eukaryota",
+        "divisao": "Plantae",
+        "classe": "Tracheophyta",
+        "ordem": "Angiospermae",
+        "genero": "Asterales",
         "local": "G13"
     },
     {
@@ -2725,17 +2738,21 @@
         "local": "G10"
     },
     {
-        "falta": " falta",
         "nome_popular": "EUCALIPTO",
         "nome_cientifico": "Eucalyptus globulus Labill.",
         "familia": "MYRTACEAE",
         "imagem": "./assets/imagens/EUCALIPTO.jpg",
+        "reino": "Eukaryota",
+        "divisao": "Plantae",
+        "classe": "Tracheophyta",
+        "ordem": "Angiospermae",
+        "genero": "Myrtales",
         "local": "G12"
     },
     {
         "falta": " falta",
         "nome_popular": "FAVA-DE-ARIDAN",
-        "nome_cientifico": "Tetrapleura tetraptera (Schum. & Thonn.) Taub.",
+        "nome_cientifico": "Tetrapleura tetraptera (Schum. & Thonn.) Taub.",
         "familia": "FABACEAE",
         "imagem": "./assets/imagens/FAVA-DE-ARIDAN.jpg",
         "local": "G6"
@@ -2761,11 +2778,15 @@
         "local": "VIVEIRO"
     },
     {
-        "falta": " falta",
         "nome_popular": "FEIJÃO-AZUL",
-        "nome_cientifico": "Clitoria ternatea L.",
+        "nome_cientifico": "Clitoria ternatea L.",
         "familia": "FABACEAE",
         "imagem": "./assets/imagens/FEIJÃO-AZUL.jpg",
+        "reino": "Eukaryota",
+        "divisao": "Plantae",
+        "classe": "Tracheophyta",
+        "ordem": "Angiospermae",
+        "genero": "Fabales",
         "local": "G13"
     },
     {
@@ -3384,12 +3405,16 @@
         "local": "G6"
     },
     {
-        "falta": " falta",
         "nome_popular": "JANAÚBA",
         "nome_cientifico": "Euphorbia umbellata (Pax) Bruyns",
         "familia": "EUPHORBIACEAE",
         "imagem": "./assets/imagens/JANAÚBA.jpg",
-        "local": "G5"
+        "reino": "Eukaryota",
+        "divisao": "Plantae",
+        "classe": "Tracheophyta",
+        "ordem": "Angiospermae",
+        "genero": "Malpighiales",
+        "local" : "G5"
     },
     {
         "nome_popular": "JASMIM-DO-CABO",
@@ -5928,3 +5953,4 @@
         "local": "G13"
     }
 ]
+  
