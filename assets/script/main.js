@@ -219,7 +219,7 @@ function buscar() {
 
     const valueFamilia = document.createElement("span");
     valueFamilia.classList.add("card__value");
-    valueFamilia.textContent = planta["Família"] ? planta["Família"] : "Não informado";
+    valueFamilia.textContent = planta["família"] ? planta["família"] : "Não informado";
 
     familiaWrapper.appendChild(svgIconFamilia);
     familiaWrapper.appendChild(labelFamilia);
@@ -229,12 +229,12 @@ function buscar() {
 
     // Categorias extras
     const categorias = [
-      { chave: "reino", label: "leino" },
-      { chave: "divisão", label: "divisão" },
-      { chave: "classe", label: "classe" },
-      { chave: "ordem", label: "ordem" },
-      { chave: "género", label: "gênero" },
-      { chave: "local", label: "local" },
+      { chave: "reino", label: "Reino"},
+      { chave: "divisão", label: "Divisão" },
+      { chave: "classe", label: "Classe" },
+      { chave: "ordem", label: "Ordem" },
+      { chave: "género", label: "Gênero"},
+      { chave: "local", label: "Local"},
     ];
 
     categorias.forEach(({ chave, label }) => {
