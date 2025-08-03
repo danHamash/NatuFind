@@ -410,8 +410,12 @@
         "falta": " falta",
         "nome_popular": "APERTA-RUÃO",
         "nome_cientifico": "Piper aduncum L.",
-        "familia": "PIPERACEAE",
-        "imagem": "./assets/imagens/APERTA-RUÃO.jpg",
+        "reino": "Eukaryota",
+        "divisao": "Plantae",
+        "classe": "Tracheophyta",
+        "ordem": "Angiospermae",
+        "familia": "Piperales",
+        "genero": "Piperaceae",
         "local": "G12"
     },
     
