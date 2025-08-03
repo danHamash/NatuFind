@@ -229,12 +229,12 @@ function buscar() {
 
     // Categorias extras
     const categorias = [
-      { chave: "Reino", label: "Reino" },
-      { chave: "Divisão", label: "Divisão" },
-      { chave: "Classe", label: "Classe" },
-      { chave: "Ordem", label: "Ordem" },
-      { chave: "Género", label: "Gênero" },
-      { chave: "Local", label: "Local" },
+      { chave: "reino", label: "leino" },
+      { chave: "divisão", label: "divisão" },
+      { chave: "classe", label: "classe" },
+      { chave: "ordem", label: "ordem" },
+      { chave: "género", label: "gênero" },
+      { chave: "local", label: "local" },
     ];
 
     categorias.forEach(({ chave, label }) => {

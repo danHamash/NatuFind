@@ -1,0 +1,78 @@
+Nome Popular	Nome científico	ERRO LOCAL INVALIDO: Localização
+ABAJERU	Chrysobalanus icaco L.	ERRO LOCAL INVALIDO: 
+AGONIADA	Himatanthus bracteatus (A. DC.) Woodson	ERRO LOCAL INVALIDO: 
+ALCACHOFRA	Cynara cardunculus L.	ERRO LOCAL INVALIDO: BAG EX SITU
+ALFACE-D´ÁGUA	Pistia stratioides L.	ERRO LOCAL INVALIDO: 
+ALGODÃO	Gossypium hirsutum L.	ERRO LOCAL INVALIDO: BAG EX SITU
+ALHO	Allium sativum L.	ERRO LOCAL INVALIDO: 
+ANADOR	Alternanthera bettzickiana (Regel) G.Nicholson	ERRO LOCAL INVALIDO: 
+AROEIRA-DO-SERTÃO	Schinopsis brasiliensis	ERRO LOCAL INVALIDO: 
+AVEIA-PRETA	Avena strigosa Schreb.	ERRO LOCAL INVALIDO: BAG EX SITU
+BARLÉRIA-VERMELHA	Barleria repens Nees	ERRO LOCAL INVALIDO: 
+BASILICÃO	Ocimum basilicum  L.	ERRO LOCAL INVALIDO: BAG EX SITU
+BIGODE-DE-OURO	Callisia fragrans (Lindl.) Woodson	ERRO LOCAL INVALIDO: 
+BOCA-DE-LEÃO 2	Torenia fournieri Linden ex E. Fourn.	ERRO LOCAL INVALIDO: 
+CABAÇA	Lagenaria siceraria (Molina) Standl.	ERRO LOCAL INVALIDO: 
+CAJU	Anacardium occidentale L.	ERRO LOCAL INVALIDO: 
+CAMBUCI	Campomanesia phaea (O.Berg) Landrum	ERRO LOCAL INVALIDO: 
+CAMOMILA	Matricaria chamomilla L.	ERRO LOCAL INVALIDO: BAG EX SITU
+CAPIM-LIMÃO RASTEIRO	Pectis brevipedunculata Sch.Bip.	ERRO LOCAL INVALIDO: 
+CARDO-SANTO	Centaurea benedicta (L.) L.	ERRO LOCAL INVALIDO: BAG EX SITU
+CHAMBÁ	Justicia pectoralis Jacq.	ERRO LOCAL INVALIDO: 
+CHAYA	Cnidoscolus aconitifolius (Mill.) I.M. Johnst.	ERRO LOCAL INVALIDO: 
+CINERÁRIA	Jacobaea maritima (L.) Pelser & Meijden	ERRO LOCAL INVALIDO: 
+CIPÓ-CHUMBO	Cuscuta racemosa Mart.	ERRO LOCAL INVALIDO: 
+COSMO	Cosmos sulphureus Cav.	ERRO LOCAL INVALIDO: 
+CRAVO-DA-ÍNDIA	Syzygium aromaticum (L.) Merrill & Perry	ERRO LOCAL INVALIDO: 
+CRAVO-DO-MATO	Tillandsia stricta Sol.	ERRO LOCAL INVALIDO: 
+CROTALÁRIA	Crotalaria ochroleuca G. Don	ERRO LOCAL INVALIDO: BAG EX SITU
+CRUÁ-VERMELHO	Sicana odorifera (Vell.) Naudin	ERRO LOCAL INVALIDO: BAG EX SITU
+DAMA-DA-NOITE  2	Cestrum nocturnum L.	ERRO LOCAL INVALIDO: 
+ELIXIR-PAREGORICO	Piper callosum Ruiz & Pav.	ERRO LOCAL INVALIDO: 
+ERVA-DA-FELICIDADE (Macho)	Polyscias fruticosa (L.) Harms	ERRO LOCAL INVALIDO: 
+ERVA-MACAÉ	Leonurus sibiricus L.	ERRO LOCAL INVALIDO: BAG EX SITU
+FUMO	Nicotiana tabacum L.	ERRO LOCAL INVALIDO: BAG EX SITU
+GIRASSOL	Helianthus annuus L.	ERRO LOCAL INVALIDO: BAG EX SITU
+GUAÇATONGA	Casearia sylvestris Sw.	ERRO LOCAL INVALIDO: 
+GUAMIRIM	Eugenia florida DC.	ERRO LOCAL INVALIDO: 
+HIBISCO-BRANCO	Hibiscus arnottianus A. Gray	ERRO LOCAL INVALIDO: 
+JACA-DURA	Artocarpus heterophyllus Lam.	ERRO LOCAL INVALIDO: 
+JAMBU	Blainvillea acmella (L.) Philipson	ERRO LOCAL INVALIDO: BAG EX SITU
+JASMIM-DO-CABO	Gardenia jasminoides J. Ellis	ERRO LOCAL INVALIDO: 
+JIBÓIA-RAJADA	Epipremnum aureum (Linden & André) G.S.Bunting	ERRO LOCAL INVALIDO: 
+JILÓ	Solanum gilo Raddi	ERRO LOCAL INVALIDO: 
+JUQUIRI	Solanum alternatopinnatum Steud.	ERRO LOCAL INVALIDO: 
+LARANJINHA	Citrus japonica Thunb.	ERRO LOCAL INVALIDO: 
+LEITEIRA	Tabernaemontana catharinensis A. DC.	ERRO LOCAL INVALIDO: 
+LIMÃO-TAITI	Citrus latifolia Tanaka ex Q.Jiménez	ERRO LOCAL INVALIDO: 
+LINHAÇA	Linum usitatissimum L.	ERRO LOCAL INVALIDO: 
+LÚPULUS	Humulus lupulus L. cv. Saaz	ERRO LOCAL INVALIDO: 
+MARACUJÁ-DO-MATO	Passiflora suberosa L.	ERRO LOCAL INVALIDO: BAG EX SITU
+MARAVILHA	Mirabilis jalapa L.	ERRO LOCAL INVALIDO: BAG EX SITU
+MARIA-SEM-VERGONHA	Impatiens walleriana Hook. F.	ERRO LOCAL INVALIDO: 
+MELÃO-ANDINO	Solanum muricatum Aiton	ERRO LOCAL INVALIDO: 
+MELÃO-PELE-DE-SAPO	Cucumis melo L.	ERRO LOCAL INVALIDO: 
+NABO-FORRAGEIRO	Raphanus sativus L.	ERRO LOCAL INVALIDO: 
+NEGRAMINA	Siparuna guianensis Aubl.	ERRO LOCAL INVALIDO: 
+PAINA-DE-SEDA	Gomphocarpus physocarpus E.Mey.	ERRO LOCAL INVALIDO: 
+PALMA-ROSA	Cymbopogon martini (Roxb.) W.Watson	ERRO LOCAL INVALIDO: 
+PARA-RAIO	Melia azedarach L.	ERRO LOCAL INVALIDO: 
+PAU-DE-JANGADA	Apeiba tibourbou Aubl.	ERRO LOCAL INVALIDO: 
+PETÚNIA	Petunia axillaris (Lam.) Britton et al.	ERRO LOCAL INVALIDO: 
+PIMENTA-BIQUINHO	Capsicum chinense Jacq.	ERRO LOCAL INVALIDO: 
+PIMENTA-DE-CHEIRO	Capsicum chinense Jacq.	ERRO LOCAL INVALIDO: 
+PIMENTA-MALAGUETA	Capsicum frutescens L.	ERRO LOCAL INVALIDO: 
+PINHÃO-ROXO	Jatropha gossypiifolia L.	ERRO LOCAL INVALIDO: 
+QUEBRA-PEDRA	Moeroris amara (Schumach. & Thonn.)	ERRO LOCAL INVALIDO: 
+QUING-HÃO	Artemisia annuua L.	ERRO LOCAL INVALIDO: 
+RABO-DE-BUGIO	Dalbergia frutescens (Vell.) Britton	ERRO LOCAL INVALIDO: 
+REPOLHO	Brassica oleracea var. capitata L.	ERRO LOCAL INVALIDO: 
+RÚCULA	Eruca vesicaria (L.) Cav.	ERRO LOCAL INVALIDO: 
+SÁLVIA-DEJARDIM	Salvia splendens Sellow ex Nees	ERRO LOCAL INVALIDO: 
+SANSÃO-DO-CAMPO	Mimosa caesalpiniifolia Benth.	ERRO LOCAL INVALIDO: 
+TAIOBA-BRAVA	Colocasia esculenta (L.) Schott	ERRO LOCAL INVALIDO: 
+TAIUIÁ	Cayaponia tayuya (Vell.) Cogn.	ERRO LOCAL INVALIDO: 
+TAMARILHO (vermelho)	Solanum betaceum Cav.	ERRO LOCAL INVALIDO: 
+TANACETO	Tanacetum parthenium (L.) Sch. Bip.	ERRO LOCAL INVALIDO: BAG EX SITU
+TRANSAGEM	Plantago australis	ERRO LOCAL INVALIDO: 
+TREVO-DE-QUATRO-FOLHAS	Marsilea quadrifolia L.	ERRO LOCAL INVALIDO: 
