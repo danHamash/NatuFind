@@ -219,7 +219,7 @@ function buscar() {
 
     const valueFamilia = document.createElement("span");
     valueFamilia.classList.add("card__value");
-    valueFamilia.textContent = planta["família"] ? planta["família"] : "Não informado";
+    valueFamilia.textContent = planta["familia"] ? planta["familia"] : "Não informado";
 
     familiaWrapper.appendChild(svgIconFamilia);
     familiaWrapper.appendChild(labelFamilia);

@@ -413,6 +413,7 @@
         "ordem": "Angiospermae",
         "familia": "Piperales",
         "genero": "Piperaceae",
+        "imagem": "./assets/imagens/APERTA-RUÃO_ADUNCUM.jpg",
         "local": "G12"
     },
     
@@ -1887,7 +1888,8 @@
         "classe": "Magnoliopsida",
         "ordem": "Malvales",
         "família": "Malvaceae",
-        "local": "G2"
+        "local": "G2",
+        "imagem": "./assets/imagens/CHICHA.jpg"
     },
     {
         "nome_popular": "CHIFRE-DE-VEADO",
@@ -2541,7 +2543,8 @@
         "classe": "Magnoliopsida",
         "ordem": "Lamiales",
         "família": "Verbenaceae",
-        "local": "G10"
+        "local": "G10",
+        "imagem": "./assets/imagens/ERVA_CIDREIRA_LINALOL.jpg"
     },
     {
         "nome_popular": "ERVA-CIDREIRA / Quimiotipo Carvona",
@@ -2552,7 +2555,8 @@
         "classe": "Magnoliopsida",
         "ordem": "Lamiales",
         "família": "Verbenaceae",
-        "local": "G10"
+        "local": "G10",
+        "imagem": "./assets/imagens/ERVA_CIDREIRA_CARVONA.jpg"
     },
     {
         "nome_popular": "ERVA-CIDREIRA / Quimiotipo Citral",
@@ -2563,7 +2567,8 @@
         "classe": "Magnoliopsida",
         "ordem": "Lamiales",
         "família": "Verbenaceae",
-        "local": "G10"
+        "local": "G10",
+        "imagem": "./assets/imagens/ERVA_CIDREIRA_CITRAL.jpg"
     },
     {
         "nome_popular": "ERVA-DA-FELICIDADE (Fêmea)",
@@ -2599,7 +2604,8 @@
         "ordem": "Lamiales",
         "família": "Lamiaceae",
         "género": "Vitex",
-        "local": "VIVEIRO"
+        "local": "VIVEIRO",
+        "imagem": "./assets/imagens/ERVA_DA_JUREMA_AZUL.jpg"
     },
     {
         "nome_popular": "ERVA-DA-JUREMA / branca",
@@ -2611,7 +2617,8 @@
         "ordem": "Lamiales",
         "família": "Lamiaceae",
         "género": "Vitex",
-        "local": "G12"
+        "local": "G12",
+        "imagem": "./assets/imagens/ERVA_da_JUREMA_BRANCA.jpg"
     },
     {
         "nome_popular": "ERVA-DE-BICHO",
@@ -3747,7 +3754,8 @@
         "classe": "Magnoliopsida",
         "ordem": "Malpighiales",
         "familia": "Euphorbiaceae",
-        "local": "G5"
+        "local": "G5",
+        "imagem": "./assets/imagens/LEITEIRA-VERMELHA.jpg"
     },
     {
         "nome_popular": "LICHIA",
@@ -3769,7 +3777,8 @@
         "classe": "Magnoliopsida",
         "ordem": "Sapindales",
         "familia": "Rutaceae",
-        "local": "G12"
+        "local": "G12",
+        "imagem": "./assets/imagens/LIMÃO-GALEGO"
     },
     {
         "nome_popular": "LIMÃO-TAITI",
@@ -4379,6 +4388,7 @@
         "classe": "Magnoliopsida",
         "ordem": "Lamiales",
         "familia": "Lamiaceae",
+        "imagem": "./assets/imagens/MENTA-AQUÁTICA.jpg",
         "local": "Carregando"
     },
     {
@@ -4601,6 +4611,7 @@
         "ordem": "Caryophyllales",
         "família": "Cactaceae",
         "género": "Pereskia",
+        "imagem": "./assets/imagens/ORA-POR-NOBIS.jpg",
         "local": "G7"
     },
     {
@@ -4785,6 +4796,7 @@
         "classe": "Magnoliopsida",
         "ordem": "Malvales",
         "familia": "Malvaceae",
+        "imagem": "./assets/imagens/PAU-DE-JANGADA.jpg",
         "local": "Carregando"
     },
     {
@@ -5262,6 +5274,7 @@
         "classe": "Magnoliopsida",
         "ordem": "Rosales",
         "familia": "Rosaceae",
+        "imagem": "./assets/imagens/ROSA-MENINA-BRANCA.jpg",
         "local": "G1"
     },
     {
@@ -5271,6 +5284,7 @@
         "classe": "angiospérmicas",
         "ordem": "Rosales",
         "familia": "Rosaceae",
+        "imagem": "./assets/imagens/ROSA-VERMELHA_MIUDA.jpg",
         "local": "G5"
     },
     {
@@ -5542,8 +5556,7 @@
         "ordem": "Myrtales",
         "família": "Myrtaceae",
         "género": "Plinia",
-        "espécie": "[1]",
-        "imagem": "./assets/imagens/SEM_NOME.jpg",
+        "imagem": "./assets/imagens/MYRACIA.jpg",
         "local": "Carregando"
     },
     {
@@ -5554,6 +5567,7 @@
         "classe": "Magnoliopsida",
         "ordem": "Piperales",
         "familia": "Piperaceae",
+        "imagem": "./assets/imagens/PIPER.jpg",
         "local": "Carregando"
     },
     {
