@@ -1438,7 +1438,7 @@
         "classe": "Liliopsida",
         "ordem": "Commelinales",
         "família": "Commelinaceae",
-        "imagem": "./assets/imagens/CANA-DE-MACACO.jpg",
+        "imagem": "./assets/imagens/CANA_DE_MACACO.jpg",
         "local": "G8"
     },
     {
@@ -1451,7 +1451,7 @@
         "ordem": "Zingiberales",
         "família": "Costaceae",
         "género": "L.",
-        "imagem": "./assets/imagens/CANA-DO-BREJO.jpg",
+        "imagem": "./assets/imagens/COSTUS_SPIRALIS.jpg",
         "local": "G11"
     },
     {
@@ -1464,7 +1464,7 @@
         "ordem": "Zingiberales",
         "família": "Costaceae",
         "género": "L.",
-        "imagem": "./assets/imagens/CANA-DO-BREJO.jpg",
+        "imagem": "./assets/imagens/COSTUS_ARABICUS.jpg",
         "local": "G11"
     },
     {
@@ -1477,7 +1477,7 @@
         "ordem": "Zingiberales",
         "família": "Costaceae",
         "género": "Costus",
-        "imagem": "./assets/imagens/CANA-DO-BREJO.jpg",
+        "imagem": "./assets/imagens/COSTUS_SPICATUS.jpg",
         "local": "G11"
     },
     {
@@ -2367,7 +2367,7 @@
         "ordem": "Zingiberales",
         "família": "Zingiberaceae",
         "género": "Curcuma",
-        "imagem": "./assets/imagens/CÚRCUMA.jpg",
+        "imagem": "./assets/imagens/CURCUMA.jpg",
         "local": "G10"
     },
     {
@@ -2400,7 +2400,7 @@
         "classe": "Magnoliopsida",
         "ordem": "Caryophyllales",
         "família": "Cactaceae",
-        "imagem": "./assets/imagens/DAMA-DA-NOITE_1.jpg",
+        "imagem": "./assets/imagens/DAMA-DA-NOITE.jpg",
         "local": "VIVEIRO"
     },
     {
@@ -2544,7 +2544,7 @@
         "ordem": "Lamiales",
         "família": "Verbenaceae",
         "local": "G10",
-        "imagem": "./assets/imagens/ERVA_CIDREIRA_LINALOL.jpg"
+        "imagem": "./assets/imagens/ERVA_CIDREIRA_LINELOL.jpg"
     },
     {
         "nome_popular": "ERVA-CIDREIRA / Quimiotipo Carvona",
@@ -2652,7 +2652,7 @@
         "classe": "Magnoliopsida",
         "ordem": "Caryophyllales",
         "família": "Amaranthaceae",
-        "imagem": "./assets/imagens/ERVA-DE-SANTA-MARIA.jpg",
+        "imagem": "./assets/imagens/ERVA_SANTA_MARIA.jpg",
         "local": "G7"
     },
     {
@@ -3719,7 +3719,7 @@
         "classe": "Magnoliopsida",
         "ordem": "Sapindales",
         "familia": "Rutaceae",
-        "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Histoire_et_culture_des_orangers_A._Risso_et_A._Poiteau._--_Paris_Henri_Plon%2C_Editeur%2C_1872.jpg/330px-Histoire_et_culture_des_orangers_A._Risso_et_A._Poiteau._--_Paris_Henri_Plon%2C_Editeur%2C_1872.jpg",
+        "imagem": "./assets/imagens/LARANJA.jpg",
         "local": "G7"
     },
     {
@@ -3778,7 +3778,7 @@
         "ordem": "Sapindales",
         "familia": "Rutaceae",
         "local": "G12",
-        "imagem": "./assets/imagens/LIMÃO-GALEGO"
+        "imagem": "./assets/imagens/LIMÃO-GALEGO.jpg"
     },
     {
         "nome_popular": "LIMÃO-TAITI",
@@ -4283,7 +4283,7 @@
         "classe": "Magnoliopsida",
         "ordem": "Boraginales",
         "familia": "Boraginaceae",
-        "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/EO_1831-Editar.jpg/330px-EO_1831-Editar.jpg",
+        "imagem": "./assets/imagens/MARMELINHO.jpg",
         "local": "VIVEIRO"
     },
     {
@@ -4378,6 +4378,7 @@
         "classe": "Magnoliopsida",
         "ordem": "Lamiales",
         "familia": "Lamiaceae",
+        "imagem": "./assets/imagens/MENTA.jpg",
         "local": "Carregando"
     },
     {
@@ -4476,7 +4477,7 @@
         "nome_popular": "MURTA",
         "nome_cientifico": "Murraya paniculata (L.) Jack",
         "familia": "RUTACAE",
-        "imagem": "",
+        "imagem": "./assets/imagens/MURTA.jpg",
         "reino": "Plantae",
         "divisão": "Magnoliophyta",
         "classe": "Magnoliopsida",
@@ -4611,7 +4612,7 @@
         "ordem": "Caryophyllales",
         "família": "Cactaceae",
         "género": "Pereskia",
-        "imagem": "./assets/imagens/ORA-POR-NOBIS.jpg",
+        "imagem": "./assets/imagens/ORA-PRO-NÓBIS.jpg",
         "local": "G7"
     },
     {
@@ -4835,12 +4836,14 @@
         "local": "G10"
     },
     {
-        "nome_popular": "PENTAS",
+        "nome_popular": "Pentas",
         "nome_cientifico": "Pentas lanceolata (Forssk.) Deflers",
-        "familia": "RUBIACEAE",
         "reino": "Plantae",
+        "divisao": "Magnoliophyta",
+        "classe": "Magnoliopsida",
         "ordem": "Gentianales",
-        "família": "Rubiaceae",
+        "familia": "RUBIACEAE",
+        "genero": "Pentas",
         "imagem": "./assets/imagens/PENTAS.jpg",
         "local": "G5"
     },
@@ -4916,7 +4919,9 @@
         "classe": "Magnoliidae",
         "ordem": "Caryophyllales",
         "família": "Amaranthaceae",
-        "imagem": "./assets/imagens/PFAFFIA.jpg",
+        "género": "Hebanthe",
+        "espécie": "Hebanthe erianthos",
+        "imagem": "./assets/imagens/PFAFFIA_SPRENG.jpg",
         "local": "G10"
     },
     {
@@ -5069,9 +5074,14 @@
         "local": "G3"
     },
     {
-        "nome_popular": "PITAIA",
+        "nome_popular": "Pitaia",
         "nome_cientifico": "Selenicereus undatus (Haw.) D.R. Hunt",
+        "reino": "Plantae",
+        "divisao": "Magnoliophyta",
+        "classe": "Magnoliopsida",
+        "ordem": "Caryophyllales",
         "familia": "CACTACEAE",
+        "genero": "Selenicereus",
         "imagem": "./assets/imagens/PITAIA.jpg",
         "local": "G7"
     },
@@ -5115,9 +5125,14 @@
         "local": "G5"
     },
     {
-        "nome_popular": "POEJO",
+        "nome_popular": "Poejo",
         "nome_cientifico": "Mentha pulegium L.",
+        "reino": "Plantae",
+        "divisao": "Magnoliophyta",
+        "classe": "Magnoliopsida",
+        "ordem": "Lamiales",
         "familia": "LAMIACEAE",
+        "genero": "Mentha",
         "imagem": "./assets/imagens/POEJO.jpg",
         "local": "G6"
     },
@@ -5133,11 +5148,16 @@
         "local": "G6"
     },
     {
-        "nome_popular": "PONTO-ALÍVIO",
+        "nome_popular": "Ponto-alívio",
         "nome_cientifico": "Argyranthemum foeniculaceum (Willd.) Webb ex Sch.Bip.",
+        "reino": "Plantae",
+        "divisao": "Magnoliophyta",
+        "classe": "Magnoliopsida",
+        "ordem": "Asterales",
         "familia": "ASTERACEAE",
+        "genero": "Argyranthemum",
         "imagem": "./assets/imagens/PONTO-ALÍVIO.jpg",
-        "local": "Gg6"
+        "local": "G6"
     },
     {
         "nome_popular": "PRIMAVERA",
@@ -5203,7 +5223,7 @@
         "reino": "Plantae",
         "ordem": "Asterales",
         "familia": "Asteraceae",
-        "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/PE_Rio_Doce_MG.jpg/330px-PE_Rio_Doce_MG.jpg",
+        "imagem": "./assets/imagens/QUITOCO.jpg",
         "local": "G10"
     },
     {
@@ -5479,9 +5499,14 @@
         "local": "G7"
     },
     {
-        "nome_popular": "SANSÃO-DO-CAMPO",
-        "nome_cientifico": "Mimosa caesalpiniifolia Benth.",
+        "nome_popular": "Sansão-do-campo",
+        "nome_cientifico": "Mimosa caesalpiniifolia Benth.",
+        "reino": "Plantae",
+        "divisao": "Magnoliophyta",
+        "classe": "Magnoliopsida",
+        "ordem": "Fabales",
         "familia": "FABACEAE",
+        "genero": "Mimosa",
         "imagem": "./assets/imagens/SANSÃO-DO-CAMPO.jpg",
         "local": "Carregando"
     },
@@ -5608,11 +5633,14 @@
         "local": "G9"
     },
     {
-        "nome_popular": "SOROCEA",
+        "nome_popular": "Sorocea",
         "nome_cientifico": "Sorocea bonplandii (Baill.) W.C.Burger, Lanj. & de Boer",
         "reino": "Plantae",
+        "divisao": "Magnoliophyta",
+        "classe": "Magnoliopsida",
         "ordem": "Rosales",
         "familia": "Moraceae",
+        "genero": "Sorocea",
         "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Araucaria_Parna_aparados_da_serra.jpg/330px-Araucaria_Parna_aparados_da_serra.jpg",
         "local": "G5"
     },
@@ -5858,9 +5886,15 @@
         "local": "VIVEIRO"
     },
     {
-        "nome_popular": "TROMBETA",
+        "falta": "falta",
+        "nome_popular": "Trombeta",
         "nome_cientifico": "Brugmansia suaveolens (Willd.) Sweet",
+        "reino": "Plantae",
+        "divisao": "Magnoliophyta",
+        "classe": "Magnoliopsida",
+        "ordem": "Solanales",
         "familia": "SOLANACEAE",
+        "genero": "Brugmansia",
         "imagem": "./assets/imagens/TROMBETA.jpg",
         "local": "G7"
     },
@@ -5925,9 +5959,14 @@
         "local": "G8"
     },
     {
-        "nome_popular": "TUYA",
+        "nome_popular": "Tuya",
         "nome_cientifico": "Thuya occidentalis L.",
+        "reino": "Plantae",
+        "divisao": "Pinophyta",
+        "classe": "Pinopsida",
+        "ordem": "Pinales",
         "familia": "CUPRESSACEAE",
+        "genero": "Thuja",
         "imagem": "./assets/imagens/TUYA.jpg",
         "local": "G9"
     },
@@ -5970,9 +6009,14 @@
         "local": "G5"
     },
     {
-        "nome_popular": "UVA-DA-AMAZÔNIA",
+        "nome_popular": "Uva-da-Amazônia",
         "nome_cientifico": "Coccoloba gigantifolia Melo, Cid Ferreira & Gribel",
+        "reino": "Plantae",
+        "divisao": "Magnoliophyta",
+        "classe": "Magnoliopsida",
+        "ordem": "Caryophyllales",
         "familia": "POLYGONACEAE",
+        "genero": "Coccoloba",
         "imagem": "./assets/imagens/UVA-DA-AMAZÔNIA.jpg",
         "local": "G5"
     },
