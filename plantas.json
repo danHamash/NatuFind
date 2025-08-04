@@ -165,7 +165,6 @@
         "divisão": "Magnoliophyta",
         "classe": "Magnoliopsida",
         "ordem": "Lamiales",
-        "família": "Verbenaceae",
         "imagem": "./assets/imagens/ALECRIM-PIMENTA.jpg",
         "local": "G1"
     },
@@ -176,7 +175,7 @@
         "divisão": "Magnoliophyta",
         "classe": "Liliopsida",
         "ordem": "Alismatales",
-        "família": "Araceae",
+        "familia": "Araceae",
         "imagem": "./assets/imagens/ALFACE-D´ÁGUA.jpg",
         "local": "Carregando"
     },
@@ -284,7 +283,7 @@
         "nome_cientifico": "Hypochaeris chillensis (Kunth) Britton",
         "reino": "Plantae",
         "ordem": "Asterales",
-        "família": "Asteraceae",
+        "familia": "Asteraceae",
         "imagem": "./assets/imagens/ALMEIRÃO-DO-MATO.jpg",
         "local": "G13"
     },
@@ -294,7 +293,6 @@
         "familia": "ASTERACEAE",
         "reino": "Plantae",
         "ordem": "Asterales",
-        "família": "Asteraceae",
         "género": "Cichorium",
         "imagem": "./assets/imagens/ALMEIRÃO-ROXO.jpg",
         "local": "G13"
@@ -304,7 +302,7 @@
         "nome_cientifico": "Gymnanthemum amygdalinum (Delile) Sch.Bip. ex Walp.",
         "reino": "Plantae",
         "ordem": "Asterales",
-        "família": "Asteraceae",
+        "familia": "Asteraceae",
         "imagem": "./assets/imagens/ALUMÃ.jpg",
         "local": "G7"
     },
@@ -402,7 +400,7 @@
         "reino": "Plantae",
         "classe": "Magnoliopsida",
         "ordem": "Lamiales",
-        "família": "Lamiaceae",
+        "familia": "Lamiaceae",
         "imagem": "./assets/imagens/ANIS.jpg",
         "local": "G6"
     },
@@ -428,7 +426,7 @@
         "familia": "Piperales",
         "genero": "Piperaceae",
         "imagem": "./assets/imagens/APERTA-RUÃO.jpg",
-        "Local": "G12"
+        "local": "G12"
     },
     {
         "nome_popular": "ARAÇA",
@@ -511,7 +509,7 @@
         "nome_cientifico": "Solidago chilensis Meyen",
         "reino": "Plantae",
         "ordem": "Asterales",
-        "família": "Asteraceae",
+        "familia": "Asteraceae",
         "imagem": "./assets/imagens/ARNICA_MEYEN.jpg",
         "local": "G7"
     },
@@ -614,7 +612,7 @@
     {
         "nome_popular": "ASSA-PEIXE",
         "nome_cientifico": "Vernonanthura polyanthes (Sprengel) Vega &Dematteis",
-        "família": "Piperaceae",
+        "familia": "Piperaceae",
         "imagem": "./assets/imagens/ASSA-PEIXE.jpg",
         "reino": "Plantae",
         "divisão": "Magnoliophyta",
@@ -626,7 +624,7 @@
     {
         "nome_popular": "ASSA-PEIXE-BRANCO",
         "nome_cientifico": "Cabobanthus polysphaerus (Baker) H.Rob.",
-        "família": "Piperaceae",
+        "familia": "Piperaceae",
         "imagem": "./assets/imagens/ASSA-PEIXE-BRANCO.jpg",
         "reino": "Plantae",
         "divisão": "Magnoliophyta",
@@ -820,7 +818,6 @@
         "reino": "Plantae",
         "classe": "Liliopsida",
         "ordem": "Asparagales",
-        "família": "Asphodeloideae",
         "imagem": "./assets/imagens/BABOSA.jpg",
         "local": "G8"
     },
@@ -831,7 +828,7 @@
         "divisão": "Magnoliophyta",
         "classe": "Magnoliopsida",
         "ordem": "Malpighiales",
-        "família": "Clusiaceae",
+        "familia": "Clusiaceae",
         "imagem": "./assets/imagens/BACUPARI.jpg",
         "local": "VIVEIRO"
     },
@@ -842,7 +839,7 @@
         "divisão": "Magnoliophyta",
         "classe": "Magnoliopsida",
         "ordem": "Ericales",
-        "família": "Bercht.",
+        "familia": "Bercht.",
         "imagem": "./assets/imagens/BALSAMO.jpg",
         "local": "G12"
     },
@@ -1912,7 +1909,6 @@
         "divisão": "Magnoliophyta",
         "classe": "Magnoliopsida",
         "ordem": "Fabales",
-        "família": "Fabaceae",
         "imagem": "./assets/imagens/CHOCALHO-DE-COBRA.jpg",
         "local": "G5"
     },
@@ -1923,7 +1919,7 @@
         "divisão": "Magnoliophyta",
         "classe": "Magnoliopsida",
         "ordem": "Violales",
-        "família": "Cucurbitaceae",
+        "familia": "Cucurbitaceae",
         "imagem": "./assets/imagens/CHUCHU.jpg",
         "local": "G12"
     },
@@ -3077,7 +3073,7 @@
         "divisão": "Magnoliophyta",
         "classe": "Magnoliopsida",
         "ordem": "Geraniales",
-        "família": "Geraniaceae",
+        "familia": "Geraniaceae",
         "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Pelargonium_sidoides_Leaves_3264px.jpg/330px-Pelargonium_sidoides_Leaves_3264px.jpg",
         "local": "G5"
     },
@@ -3693,7 +3689,7 @@
         "divisão": "Magnoliophyta",
         "classe": "Liliopsida",
         "ordem": "Asparagales",
-        "família": "Asparagaceae",
+        "familia": "Asparagaceae",
         "imagem": "./assets/imagens/LANÇA-DE-SÃO-JORGE.jpg",
         "local": "G1"
     },
@@ -3704,7 +3700,7 @@
         "divisão": "Magnoliophyta",
         "classe": "Magnoliopsida",
         "ordem": "Malvales",
-        "família": "Malvaceae",
+        "familia": "Malvaceae",
         "imagem": "./assets/imagens/LANTERNA-CHINESA.jpg",
         "local": "GG5"
     },
@@ -3715,7 +3711,7 @@
         "divisão": "Magnoliophyta",
         "classe": "Magnoliopsida",
         "ordem": "Sapindales",
-        "família": "Rutaceae",
+        "familia": "Rutaceae",
         "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Histoire_et_culture_des_orangers_A._Risso_et_A._Poiteau._--_Paris_Henri_Plon%2C_Editeur%2C_1872.jpg/330px-Histoire_et_culture_des_orangers_A._Risso_et_A._Poiteau._--_Paris_Henri_Plon%2C_Editeur%2C_1872.jpg",
         "local": "G7"
     },
@@ -3750,7 +3746,7 @@
         "divisão": "Magnoliophyta",
         "classe": "Magnoliopsida",
         "ordem": "Malpighiales",
-        "família": "Euphorbiaceae",
+        "familia": "Euphorbiaceae",
         "local": "G5"
     },
     {
@@ -3772,7 +3768,7 @@
         "divisão": "Magnoliophyta",
         "classe": "Magnoliopsida",
         "ordem": "Sapindales",
-        "família": "Rutaceae",
+        "familia": "Rutaceae",
         "local": "G12"
     },
     {
@@ -3901,7 +3897,7 @@
         "reino": "Plantae",
         "classe": "Magnoliopsida",
         "ordem": "Lamiales",
-        "família": "Lamiaceae",
+        "familia": "Lamiaceae",
         "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Starr_001025-8001_Hyptis_pectinata.jpg/330px-Starr_001025-8001_Hyptis_pectinata.jpg",
         "local": "G6"
     },
@@ -3971,7 +3967,7 @@
         "divisão": "Magnoliophyta",
         "classe": "Magnoliopsida",
         "ordem": "Geraniales",
-        "família": "Geraniaceae",
+        "familia": "Geraniaceae",
         "género": "L'Hér.",
         "imagem": "./assets/imagens/MALVA-FALSA.jpg",
         "local": "VIVEIRO"
@@ -4241,7 +4237,7 @@
         "nome_cientifico": "Montanoa bipinnatifida (Kunth) K.Koch",
         "reino": "Plantae",
         "ordem": "Asterales",
-        "família": "Asteraceae",
+        "familia": "Asteraceae",
         "imagem": "./assets/imagens/MARGARIDA-DE-ÁRVORE.jpg",
         "local": "G1"
     },
@@ -4277,7 +4273,7 @@
         "divisão": "Magnoliophyta",
         "classe": "Magnoliopsida",
         "ordem": "Boraginales",
-        "família": "Boraginaceae",
+        "familia": "Boraginaceae",
         "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/EO_1831-Editar.jpg/330px-EO_1831-Editar.jpg",
         "local": "VIVEIRO"
     },
@@ -4325,7 +4321,7 @@
         "divisão": "Magnoliophyta",
         "classe": "Magnoliopsida",
         "ordem": "Cucurbitales",
-        "família": "Cucurbitaceae",
+        "familia": "Cucurbitaceae",
         "imagem": "./assets/imagens/MELÃO-DE-SÃO-CAETANO.jpg",
         "local": "VIVEIRO"
     },
@@ -4361,7 +4357,7 @@
         "divisão": "Magnoliophyta",
         "classe": "Magnoliopsida",
         "ordem": "Lamiales",
-        "família": "Lamiaceae",
+        "familia": "Lamiaceae",
         "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Lemon_balm_plant.jpg/330px-Lemon_balm_plant.jpg",
         "local": "G4"
     },
@@ -4372,7 +4368,7 @@
         "divisão": "Magnoliophyta",
         "classe": "Magnoliopsida",
         "ordem": "Lamiales",
-        "família": "Lamiaceae",
+        "familia": "Lamiaceae",
         "local": "Carregando"
     },
     {
@@ -4382,7 +4378,7 @@
         "divisão": "Magnoliophyta",
         "classe": "Magnoliopsida",
         "ordem": "Lamiales",
-        "família": "Lamiaceae",
+        "familia": "Lamiaceae",
         "local": "Carregando"
     },
     {
@@ -4392,7 +4388,7 @@
         "divisão": "Magnoliophyta",
         "classe": "Magnoliopsida",
         "ordem": "Lamiales",
-        "família": "Lamiaceae",
+        "familia": "Lamiaceae",
         "imagem": "./assets/imagens/MENTA-BRANCA.jpg",
         "local": "G6"
     },
@@ -4403,7 +4399,7 @@
         "divisão": "Magnoliophyta",
         "classe": "Magnoliopsida",
         "ordem": "Lamiales",
-        "família": "Lamiaceae",
+        "familia": "Lamiaceae",
         "imagem": "./assets/imagens/MENTA-PIPERITA.jpg",
         "local": "G6"
     },
@@ -4462,7 +4458,7 @@
         "divisão": "Magnoliophyta",
         "classe": "Magnoliopsida",
         "ordem": "Fabales",
-        "família": "Fabaceae",
+        "familia": "Fabaceae",
         "imagem": "./assets/imagens/MULUNGÚ-CANDELABRO.jpg",
         "local": "G13"
     },
@@ -4483,7 +4479,7 @@
         "nome_cientifico": "Myosotis sylvatica Hoffm.",
         "reino": "Plantae",
         "ordem": "Polemoniales",
-        "família": "Boraginaceae",
+        "familia": "Boraginaceae",
         "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Myosotis_arvensis_ois.JPG/330px-Myosotis_arvensis_ois.JPG",
         "local": "G2"
     },
@@ -4553,7 +4549,7 @@
         "divisão": "Magnoliophyta",
         "classe": "Magnoliopsida",
         "ordem": "Malvales",
-        "família": "Malvaceae",
+        "familia": "Malvaceae",
         "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Cola_acuminata%2C_flower_of_the_Kola_Nut_tree_%289906050364%29.jpg/330px-Cola_acuminata%2C_flower_of_the_Kola_Nut_tree_%289906050364%29.jpg",
         "local": "G6"
     },
@@ -4689,7 +4685,7 @@
         "divisão": "Magnoliophyta",
         "classe": "Liliopsida",
         "ordem": "Poales",
-        "família": "Poaceae",
+        "familia": "Poaceae",
         "imagem": "./assets/imagens/PALMA-ROSA.jpg",
         "local": "Carregando"
     },
@@ -4788,7 +4784,7 @@
         "divisão": "Magnoliophyta",
         "classe": "Magnoliopsida",
         "ordem": "Malvales",
-        "família": "Malvaceae",
+        "familia": "Malvaceae",
         "local": "Carregando"
     },
     {
@@ -4810,7 +4806,7 @@
         "reino": "Plantae",
         "classe": "Magnoliopsida",
         "ordem": "Lamiales",
-        "família": "Lamiaceae",
+        "familia": "Lamiaceae",
         "género": "Linnaeus",
         "imagem": "./assets/imagens/PEIXINHO.jpg",
         "local": "G13"
@@ -4843,7 +4839,7 @@
         "divisão": "Magnoliophyta",
         "classe": "Magnoliopsida",
         "ordem": "Piperales",
-        "família": "Piperaceae",
+        "familia": "Piperaceae",
         "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Peperomia_pellucida_%28Mindanao%2C_Philippines%29.jpg/330px-Peperomia_pellucida_%28Mindanao%2C_Philippines%29.jpg",
         "local": "VIVEIRO"
     },
@@ -4865,7 +4861,6 @@
         "divisão": "Magnoliophyta",
         "classe": "Liliopsida",
         "ordem": "Asparagales",
-        "família": "Nolinoideae",
         "imagem": "./assets/imagens/PEREGUM-AMARELO.jpg",
         "local": "G1"
     },
@@ -4874,7 +4869,7 @@
         "nome_cientifico": "Centratherum punctatum Cass.",
         "reino": "Plantae",
         "ordem": "Asterales",
-        "família": "Asteraceae",
+        "familia": "Asteraceae",
         "imagem": "./assets/imagens/PERPÉTUA-ROXA.jpg",
         "local": "G5"
     },
@@ -5186,7 +5181,7 @@
         "divisão": "Magnoliophyta",
         "classe": "Magnoliopsida",
         "ordem": "Asterales",
-        "família": "Asteraceae",
+        "familia": "Asteraceae",
         "imagem": "./assets/imagens/QUING-HÃO.jpg",
         "local": "Carregando"
     },
@@ -5195,7 +5190,7 @@
         "nome_cientifico": "Pluchea sagittalis (Lam.) Cabrera",
         "reino": "Plantae",
         "ordem": "Asterales",
-        "família": "Asteraceae",
+        "familia": "Asteraceae",
         "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/PE_Rio_Doce_MG.jpg/330px-PE_Rio_Doce_MG.jpg",
         "local": "G10"
     },
@@ -5244,7 +5239,6 @@
         "reino": "Plantae",
         "classe": "Magnoliopsida",
         "ordem": "Myrtales",
-        "família": "Lythraceae",
         "género": "Punica",
         "imagem": "./assets/imagens/ROMÃ.jpg",
         "local": "G5"
@@ -5256,7 +5250,7 @@
         "divisão": "Magnoliophyta",
         "classe": "Magnoliopsida",
         "ordem": "Gentianales",
-        "família": "Apocynaceae",
+        "familia": "Apocynaceae",
         "imagem": "./assets/imagens/ROSA-DO-DESERTO.jpg",
         "local": "G5"
     },
@@ -5267,7 +5261,7 @@
         "divisão": "Tracheophyta",
         "classe": "Magnoliopsida",
         "ordem": "Rosales",
-        "família": "Rosaceae",
+        "familia": "Rosaceae",
         "local": "G1"
     },
     {
@@ -5276,7 +5270,7 @@
         "reino": "Plantae",
         "classe": "angiospérmicas",
         "ordem": "Rosales",
-        "família": "Rosaceae",
+        "familia": "Rosaceae",
         "local": "G5"
     },
     {
@@ -5285,7 +5279,7 @@
         "reino": "Plantae",
         "classe": "angiospérmicas",
         "ordem": "Rosales",
-        "família": "Rosaceae",
+        "familia": "Rosaceae",
         "imagem": "./assets/imagens/ROSA-VERMELHA_GRANDE.jpg",
         "local": "G5"
     },
@@ -5405,7 +5399,7 @@
         "divisão": "Magnoliophyta",
         "classe": "Liliopsida",
         "ordem": "Asparagales",
-        "família": "Agavaceae",
+        "familia": "Agavaceae",
         "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Smilax_aspera.jpg/330px-Smilax_aspera.jpg",
         "local": "VIVEIRO"
     },
@@ -5534,7 +5528,7 @@
         "divisão": "Magnoliophyta",
         "classe": "Magnoliopsida",
         "ordem": "Myrtales",
-        "família": "Myrtaceae",
+        "familia": "Myrtaceae",
         "imagem": "./assets/imagens/EUGENIA.jpg",
         "local": "Carregando"
     },
@@ -5559,7 +5553,7 @@
         "divisão": "Magnoliophyta",
         "classe": "Magnoliopsida",
         "ordem": "Piperales",
-        "família": "Piperaceae",
+        "familia": "Piperaceae",
         "local": "Carregando"
     },
     {
@@ -5604,7 +5598,7 @@
         "nome_cientifico": "Sorocea bonplandii (Baill.) W.C.Burger, Lanj. & de Boer",
         "reino": "Plantae",
         "ordem": "Rosales",
-        "família": "Moraceae",
+        "familia": "Moraceae",
         "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Araucaria_Parna_aparados_da_serra.jpg/330px-Araucaria_Parna_aparados_da_serra.jpg",
         "local": "G5"
     },
@@ -5702,7 +5696,6 @@
         "familia": "POLYGONACEAE",
         "reino": "Plantae",
         "ordem": "Polygonales",
-        "família": "Polygonaceae",
         "género": "Polygonum",
         "imagem": "./assets/imagens/TAPETE-INGLÊS.jpg",
         "local": "G13"
@@ -5715,7 +5708,6 @@
         "divisão": "Magnoliophyta",
         "classe": "Magnoliopsida",
         "ordem": "Fabales",
-        "família": "Fabaceae",
         "imagem": "./assets/imagens/TENTO-CAROLINA.jpg",
         "local": "VIVEIRO"
     },
@@ -5725,7 +5717,6 @@
         "familia": "AMARANTHACEAE",
         "reino": "Plantae",
         "ordem": "Caryophyllales",
-        "família": "Amaranthaceae",
         "género": "Alternanthera",
         "espécie": "A. brasiliana",
         "imagem": "./assets/imagens/TERRAMICINA.jpg",
@@ -5750,7 +5741,7 @@
         "divisão": "Magnoliophyta",
         "classe": "Magnoliopsida",
         "ordem": "Lamiales",
-        "família": "Acanthaceae",
+        "familia": "Acanthaceae",
         "imagem": "./assets/imagens/TIRA-TEIMA.jpg",
         "local": "G10"
     },
